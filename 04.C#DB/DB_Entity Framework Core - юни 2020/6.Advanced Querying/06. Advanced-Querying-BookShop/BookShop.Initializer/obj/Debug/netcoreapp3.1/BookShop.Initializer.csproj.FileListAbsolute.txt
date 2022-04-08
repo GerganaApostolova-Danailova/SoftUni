@@ -1,0 +1,17 @@
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\6.Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.deps.json
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\6.Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.runtimeconfig.json
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\6.Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.runtimeconfig.dev.json
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\6.Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.dll
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\6.Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.pdb
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\6.Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\6.Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\6.Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\6.Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\6.Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csprojAssemblyReference.cache
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\6.Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.AssemblyInfoInputs.cache
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\6.Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.AssemblyInfo.cs
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\6.Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\6.Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csproj.CopyComplete
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\6.Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.dll
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\6.Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.pdb
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\6.Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.genruntimeconfig.cache
