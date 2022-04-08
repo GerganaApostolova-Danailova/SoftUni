@@ -1,4 +1,0 @@
-C:\Geri_Programing\03.C#Advanced\AdvancedRecall\07CarSalesman\obj\Debug\netcoreapp3.1\07CarSalesman.csprojAssemblyReference.cache
-C:\Geri_Programing\03.C#Advanced\AdvancedRecall\07CarSalesman\obj\Debug\netcoreapp3.1\07CarSalesman.AssemblyInfoInputs.cache
-C:\Geri_Programing\03.C#Advanced\AdvancedRecall\07CarSalesman\obj\Debug\netcoreapp3.1\07CarSalesman.AssemblyInfo.cs
-C:\Geri_Programing\03.C#Advanced\AdvancedRecall\07CarSalesman\obj\Debug\netcoreapp3.1\07CarSalesman.csproj.CoreCompileInputs.cache
