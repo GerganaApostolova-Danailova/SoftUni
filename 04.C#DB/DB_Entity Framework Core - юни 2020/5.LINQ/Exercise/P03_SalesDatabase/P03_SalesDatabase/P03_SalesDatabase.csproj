@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200708152523_InitialSetUp.cs" />
+    <Compile Remove="Migrations\20200708152523_InitialSetUp.Designer.cs" />
+    <Compile Remove="Migrations\20200708154429_InitialSetUp.cs" />
+    <Compile Remove="Migrations\20200708154429_InitialSetUp.Designer.cs" />
+    <Compile Remove="Migrations\20200708154957_InitialSetUp.cs" />
+    <Compile Remove="Migrations\20200708154957_InitialSetUp.Designer.cs" />
+    <Compile Remove="Migrations\20200708160628_InitialSetUp.cs" />
+    <Compile Remove="Migrations\20200708160628_InitialSetUp.Designer.cs" />
+    <Compile Remove="Migrations\20200709110729_InitialSetUp.cs" />
+    <Compile Remove="Migrations\20200709110729_InitialSetUp.Designer.cs" />
+    <Compile Remove="Migrations\20200709112043_InitialSetUp.cs" />
+    <Compile Remove="Migrations\20200709112043_InitialSetUp.Designer.cs" />
+    <Compile Remove="Migrations\20200709112945_ProductsAddColumnDescription.cs" />
+    <Compile Remove="Migrations\20200709112945_ProductsAddColumnDescription.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.3" />
+  </ItemGroup>
+
+</Project>
