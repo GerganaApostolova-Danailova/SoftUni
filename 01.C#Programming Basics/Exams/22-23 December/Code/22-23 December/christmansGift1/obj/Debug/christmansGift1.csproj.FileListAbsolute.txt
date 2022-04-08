@@ -1,7 +1,0 @@
-D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\christmansGift1\bin\Debug\christmansGift1.exe.config
-D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\christmansGift1\bin\Debug\christmansGift1.exe
-D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\christmansGift1\bin\Debug\christmansGift1.pdb
-D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\christmansGift1\obj\Debug\christmansGift1.csprojAssemblyReference.cache
-D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\christmansGift1\obj\Debug\christmansGift1.csproj.CoreCompileInputs.cache
-D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\christmansGift1\obj\Debug\christmansGift1.exe
-D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\christmansGift1\obj\Debug\christmansGift1.pdb

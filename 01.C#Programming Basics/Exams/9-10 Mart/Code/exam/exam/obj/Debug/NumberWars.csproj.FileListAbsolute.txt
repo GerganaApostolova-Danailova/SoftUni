@@ -1,7 +1,0 @@
-D:\Geri_Programing\Exams\9-10 Mart\Code\exam\exam\bin\Debug\exam.exe.config
-D:\Geri_Programing\Exams\9-10 Mart\Code\exam\exam\bin\Debug\exam.exe
-D:\Geri_Programing\Exams\9-10 Mart\Code\exam\exam\bin\Debug\exam.pdb
-D:\Geri_Programing\Exams\9-10 Mart\Code\exam\exam\obj\Debug\NumberWars.csprojAssemblyReference.cache
-D:\Geri_Programing\Exams\9-10 Mart\Code\exam\exam\obj\Debug\NumberWars.csproj.CoreCompileInputs.cache
-D:\Geri_Programing\Exams\9-10 Mart\Code\exam\exam\obj\Debug\exam.exe
-D:\Geri_Programing\Exams\9-10 Mart\Code\exam\exam\obj\Debug\exam.pdb

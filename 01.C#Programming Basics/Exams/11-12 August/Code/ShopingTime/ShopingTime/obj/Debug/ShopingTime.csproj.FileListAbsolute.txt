@@ -1,7 +1,0 @@
-D:\Geri_Programing\Exams\11-12 August\Code\ShopingTime\ShopingTime\bin\Debug\ShopingTime.exe.config
-D:\Geri_Programing\Exams\11-12 August\Code\ShopingTime\ShopingTime\bin\Debug\ShopingTime.exe
-D:\Geri_Programing\Exams\11-12 August\Code\ShopingTime\ShopingTime\bin\Debug\ShopingTime.pdb
-D:\Geri_Programing\Exams\11-12 August\Code\ShopingTime\ShopingTime\obj\Debug\ShopingTime.csprojAssemblyReference.cache
-D:\Geri_Programing\Exams\11-12 August\Code\ShopingTime\ShopingTime\obj\Debug\ShopingTime.csproj.CoreCompileInputs.cache
-D:\Geri_Programing\Exams\11-12 August\Code\ShopingTime\ShopingTime\obj\Debug\ShopingTime.exe
-D:\Geri_Programing\Exams\11-12 August\Code\ShopingTime\ShopingTime\obj\Debug\ShopingTime.pdb
