@@ -1,0 +1,12 @@
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.deps.json
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.json
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.dev.json
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.dll
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.pdb
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.csprojAssemblyReference.cache
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfoInputs.cache
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfo.cs
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.dll
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.pdb
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 13 Dec 2019\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.genruntimeconfig.cache

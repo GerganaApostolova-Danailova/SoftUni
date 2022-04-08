@@ -1,0 +1,12 @@
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam Retake - 18 Apr 2019\01. Model Defition_Skeleton + Datasets\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.deps.json
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam Retake - 18 Apr 2019\01. Model Defition_Skeleton + Datasets\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.runtimeconfig.json
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam Retake - 18 Apr 2019\01. Model Defition_Skeleton + Datasets\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.runtimeconfig.dev.json
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam Retake - 18 Apr 2019\01. Model Defition_Skeleton + Datasets\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.dll
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam Retake - 18 Apr 2019\01. Model Defition_Skeleton + Datasets\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.pdb
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam Retake - 18 Apr 2019\01. Model Defition_Skeleton + Datasets\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.csprojAssemblyReference.cache
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam Retake - 18 Apr 2019\01. Model Defition_Skeleton + Datasets\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.AssemblyInfoInputs.cache
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam Retake - 18 Apr 2019\01. Model Defition_Skeleton + Datasets\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.AssemblyInfo.cs
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam Retake - 18 Apr 2019\01. Model Defition_Skeleton + Datasets\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam Retake - 18 Apr 2019\01. Model Defition_Skeleton + Datasets\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.dll
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam Retake - 18 Apr 2019\01. Model Defition_Skeleton + Datasets\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.pdb
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam Retake - 18 Apr 2019\01. Model Defition_Skeleton + Datasets\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.genruntimeconfig.cache

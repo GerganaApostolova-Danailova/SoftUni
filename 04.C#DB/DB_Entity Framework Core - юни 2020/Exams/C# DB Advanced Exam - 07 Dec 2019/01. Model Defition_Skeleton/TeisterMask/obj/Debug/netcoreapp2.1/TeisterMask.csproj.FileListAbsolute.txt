@@ -1,0 +1,12 @@
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Dec 2019\01. Model Defition_Skeleton\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.deps.json
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Dec 2019\01. Model Defition_Skeleton\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.runtimeconfig.json
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Dec 2019\01. Model Defition_Skeleton\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.runtimeconfig.dev.json
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Dec 2019\01. Model Defition_Skeleton\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.dll
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Dec 2019\01. Model Defition_Skeleton\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.pdb
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Dec 2019\01. Model Defition_Skeleton\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.csprojAssemblyReference.cache
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Dec 2019\01. Model Defition_Skeleton\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.AssemblyInfoInputs.cache
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Dec 2019\01. Model Defition_Skeleton\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.AssemblyInfo.cs
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Dec 2019\01. Model Defition_Skeleton\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Dec 2019\01. Model Defition_Skeleton\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.dll
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Dec 2019\01. Model Defition_Skeleton\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.pdb
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Dec 2019\01. Model Defition_Skeleton\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.genruntimeconfig.cache

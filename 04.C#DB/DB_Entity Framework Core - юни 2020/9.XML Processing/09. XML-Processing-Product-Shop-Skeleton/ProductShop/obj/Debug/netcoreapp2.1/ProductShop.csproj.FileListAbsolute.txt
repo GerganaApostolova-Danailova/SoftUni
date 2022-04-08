@@ -1,0 +1,12 @@
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\9.XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\9.XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\9.XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\9.XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\9.XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\9.XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\9.XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\9.XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\9.XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\9.XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\9.XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\9.XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache

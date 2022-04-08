@@ -1,0 +1,11 @@
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Apr 2019\01. Model Definition _Author's Solution\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Apr 2019\01. Model Definition _Author's Solution\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Apr 2019\01. Model Definition _Author's Solution\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Apr 2019\01. Model Definition _Author's Solution\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Apr 2019\01. Model Definition _Author's Solution\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Apr 2019\01. Model Definition _Author's Solution\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Apr 2019\01. Model Definition _Author's Solution\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Apr 2019\01. Model Definition _Author's Solution\Cinema\obj\Debug\netcoreapp2.1\Cinema.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Apr 2019\01. Model Definition _Author's Solution\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Apr 2019\01. Model Definition _Author's Solution\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb
+D:\Geri_Programing\04.C#DB\DB_Entity Framework Core - юни 2020\Exams\C# DB Advanced Exam - 07 Apr 2019\01. Model Definition _Author's Solution\Cinema\obj\Debug\netcoreapp2.1\Cinema.genruntimeconfig.cache
