@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\4. Matrix Shuffling\bin\Debug\netcoreapp2.1\4. Matrix Shuffling.deps.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\4. Matrix Shuffling\bin\Debug\netcoreapp2.1\4. Matrix Shuffling.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\4. Matrix Shuffling\bin\Debug\netcoreapp2.1\4. Matrix Shuffling.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\4. Matrix Shuffling\bin\Debug\netcoreapp2.1\4. Matrix Shuffling.dll
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\4. Matrix Shuffling\bin\Debug\netcoreapp2.1\4. Matrix Shuffling.pdb
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\4. Matrix Shuffling\obj\Debug\netcoreapp2.1\4. Matrix Shuffling.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\4. Matrix Shuffling\obj\Debug\netcoreapp2.1\4. Matrix Shuffling.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\4. Matrix Shuffling\obj\Debug\netcoreapp2.1\4. Matrix Shuffling.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\4. Matrix Shuffling\obj\Debug\netcoreapp2.1\4. Matrix Shuffling.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\4. Matrix Shuffling\obj\Debug\netcoreapp2.1\4. Matrix Shuffling.dll
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\4. Matrix Shuffling\obj\Debug\netcoreapp2.1\4. Matrix Shuffling.pdb

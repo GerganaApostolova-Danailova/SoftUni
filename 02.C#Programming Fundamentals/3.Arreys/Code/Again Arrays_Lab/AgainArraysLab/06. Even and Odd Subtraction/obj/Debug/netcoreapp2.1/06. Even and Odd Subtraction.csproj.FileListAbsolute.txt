@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\06. Even and Odd Subtraction\bin\Debug\netcoreapp2.1\06. Even and Odd Subtraction.deps.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\06. Even and Odd Subtraction\bin\Debug\netcoreapp2.1\06. Even and Odd Subtraction.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\06. Even and Odd Subtraction\bin\Debug\netcoreapp2.1\06. Even and Odd Subtraction.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\06. Even and Odd Subtraction\bin\Debug\netcoreapp2.1\06. Even and Odd Subtraction.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\06. Even and Odd Subtraction\bin\Debug\netcoreapp2.1\06. Even and Odd Subtraction.pdb
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\06. Even and Odd Subtraction\obj\Debug\netcoreapp2.1\06. Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\06. Even and Odd Subtraction\obj\Debug\netcoreapp2.1\06. Even and Odd Subtraction.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\06. Even and Odd Subtraction\obj\Debug\netcoreapp2.1\06. Even and Odd Subtraction.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\06. Even and Odd Subtraction\obj\Debug\netcoreapp2.1\06. Even and Odd Subtraction.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\06. Even and Odd Subtraction\obj\Debug\netcoreapp2.1\06. Even and Odd Subtraction.pdb

@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\More Exercise Methods\02. Center Point\bin\Debug\netcoreapp2.1\02. Center Point.deps.json
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\More Exercise Methods\02. Center Point\bin\Debug\netcoreapp2.1\02. Center Point.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\More Exercise Methods\02. Center Point\bin\Debug\netcoreapp2.1\02. Center Point.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\More Exercise Methods\02. Center Point\bin\Debug\netcoreapp2.1\02. Center Point.dll
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\More Exercise Methods\02. Center Point\bin\Debug\netcoreapp2.1\02. Center Point.pdb
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\More Exercise Methods\02. Center Point\obj\Debug\netcoreapp2.1\02. Center Point.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\More Exercise Methods\02. Center Point\obj\Debug\netcoreapp2.1\02. Center Point.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\More Exercise Methods\02. Center Point\obj\Debug\netcoreapp2.1\02. Center Point.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\More Exercise Methods\02. Center Point\obj\Debug\netcoreapp2.1\02. Center Point.dll
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\More Exercise Methods\02. Center Point\obj\Debug\netcoreapp2.1\02. Center Point.pdb

@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Exams\10 March 2019 Group 1\Code\Exams\01. Spring Vacation Trip\bin\Debug\netcoreapp2.1\01. Spring Vacation Trip.deps.json
+D:\Geri_Programing\Programming Fundamentals\Exams\10 March 2019 Group 1\Code\Exams\01. Spring Vacation Trip\bin\Debug\netcoreapp2.1\01. Spring Vacation Trip.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Exams\10 March 2019 Group 1\Code\Exams\01. Spring Vacation Trip\bin\Debug\netcoreapp2.1\01. Spring Vacation Trip.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Exams\10 March 2019 Group 1\Code\Exams\01. Spring Vacation Trip\bin\Debug\netcoreapp2.1\01. Spring Vacation Trip.dll
+D:\Geri_Programing\Programming Fundamentals\Exams\10 March 2019 Group 1\Code\Exams\01. Spring Vacation Trip\bin\Debug\netcoreapp2.1\01. Spring Vacation Trip.pdb
+D:\Geri_Programing\Programming Fundamentals\Exams\10 March 2019 Group 1\Code\Exams\01. Spring Vacation Trip\obj\Debug\netcoreapp2.1\01. Spring Vacation Trip.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\10 March 2019 Group 1\Code\Exams\01. Spring Vacation Trip\obj\Debug\netcoreapp2.1\01. Spring Vacation Trip.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\10 March 2019 Group 1\Code\Exams\01. Spring Vacation Trip\obj\Debug\netcoreapp2.1\01. Spring Vacation Trip.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\10 March 2019 Group 1\Code\Exams\01. Spring Vacation Trip\obj\Debug\netcoreapp2.1\01. Spring Vacation Trip.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Exams\10 March 2019 Group 1\Code\Exams\01. Spring Vacation Trip\obj\Debug\netcoreapp2.1\01. Spring Vacation Trip.dll
+D:\Geri_Programing\Programming Fundamentals\Exams\10 March 2019 Group 1\Code\Exams\01. Spring Vacation Trip\obj\Debug\netcoreapp2.1\01. Spring Vacation Trip.pdb

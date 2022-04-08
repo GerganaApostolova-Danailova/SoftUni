@@ -1,0 +1,11 @@
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\06. Strong Number\bin\Debug\netcoreapp2.1\06. Strong Number.deps.json
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\06. Strong Number\bin\Debug\netcoreapp2.1\06. Strong Number.runtimeconfig.json
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\06. Strong Number\bin\Debug\netcoreapp2.1\06. Strong Number.runtimeconfig.dev.json
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\06. Strong Number\bin\Debug\netcoreapp2.1\06. Strong Number.dll
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\06. Strong Number\bin\Debug\netcoreapp2.1\06. Strong Number.pdb
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\06. Strong Number\obj\Debug\netcoreapp2.1\06. Strong Number.csprojAssemblyReference.cache
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\06. Strong Number\obj\Debug\netcoreapp2.1\06. Strong Number.csproj.CoreCompileInputs.cache
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\06. Strong Number\obj\Debug\netcoreapp2.1\06. Strong Number.AssemblyInfoInputs.cache
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\06. Strong Number\obj\Debug\netcoreapp2.1\06. Strong Number.AssemblyInfo.cs
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\06. Strong Number\obj\Debug\netcoreapp2.1\06. Strong Number.dll
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\06. Strong Number\obj\Debug\netcoreapp2.1\06. Strong Number.pdb

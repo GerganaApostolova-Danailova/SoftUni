@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\1. Student Information\bin\Debug\netcoreapp2.1\01. Student Information.deps.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\1. Student Information\bin\Debug\netcoreapp2.1\01. Student Information.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\1. Student Information\bin\Debug\netcoreapp2.1\01. Student Information.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\1. Student Information\bin\Debug\netcoreapp2.1\01. Student Information.dll
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\1. Student Information\bin\Debug\netcoreapp2.1\01. Student Information.pdb
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\1. Student Information\obj\Debug\netcoreapp2.1\01. Student Information.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\1. Student Information\obj\Debug\netcoreapp2.1\01. Student Information.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\1. Student Information\obj\Debug\netcoreapp2.1\01. Student Information.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\1. Student Information\obj\Debug\netcoreapp2.1\01. Student Information.dll
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\1. Student Information\obj\Debug\netcoreapp2.1\01. Student Information.pdb

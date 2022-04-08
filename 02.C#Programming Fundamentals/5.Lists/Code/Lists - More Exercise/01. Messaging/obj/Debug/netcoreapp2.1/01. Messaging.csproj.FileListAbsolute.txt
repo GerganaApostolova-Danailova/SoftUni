@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp2.1\01. Messaging.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp2.1\01. Messaging.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp2.1\01. Messaging.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp2.1\01. Messaging.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp2.1\01. Messaging.deps.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp2.1\01. Messaging.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp2.1\01. Messaging.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp2.1\01. Messaging.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp2.1\01. Messaging.pdb
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp2.1\01. Messaging.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp2.1\01. Messaging.pdb

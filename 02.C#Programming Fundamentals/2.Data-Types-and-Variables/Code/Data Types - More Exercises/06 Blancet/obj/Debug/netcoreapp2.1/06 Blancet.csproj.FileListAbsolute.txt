@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types - More Exercises\06 Blancet\bin\Debug\netcoreapp2.1\06 Blancet.deps.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types - More Exercises\06 Blancet\bin\Debug\netcoreapp2.1\06 Blancet.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types - More Exercises\06 Blancet\bin\Debug\netcoreapp2.1\06 Blancet.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types - More Exercises\06 Blancet\bin\Debug\netcoreapp2.1\06 Blancet.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types - More Exercises\06 Blancet\bin\Debug\netcoreapp2.1\06 Blancet.pdb
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types - More Exercises\06 Blancet\obj\Debug\netcoreapp2.1\06 Blancet.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types - More Exercises\06 Blancet\obj\Debug\netcoreapp2.1\06 Blancet.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types - More Exercises\06 Blancet\obj\Debug\netcoreapp2.1\06 Blancet.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types - More Exercises\06 Blancet\obj\Debug\netcoreapp2.1\06 Blancet.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types - More Exercises\06 Blancet\obj\Debug\netcoreapp2.1\06 Blancet.pdb

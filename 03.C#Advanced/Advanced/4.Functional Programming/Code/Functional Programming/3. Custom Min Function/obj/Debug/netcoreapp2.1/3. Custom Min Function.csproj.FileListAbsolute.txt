@@ -1,0 +1,10 @@
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\3. Custom Min Function\bin\Debug\netcoreapp2.1\3. Custom Min Function.deps.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\3. Custom Min Function\bin\Debug\netcoreapp2.1\3. Custom Min Function.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\3. Custom Min Function\bin\Debug\netcoreapp2.1\3. Custom Min Function.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\3. Custom Min Function\bin\Debug\netcoreapp2.1\3. Custom Min Function.dll
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\3. Custom Min Function\bin\Debug\netcoreapp2.1\3. Custom Min Function.pdb
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\3. Custom Min Function\obj\Debug\netcoreapp2.1\3. Custom Min Function.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\3. Custom Min Function\obj\Debug\netcoreapp2.1\3. Custom Min Function.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\3. Custom Min Function\obj\Debug\netcoreapp2.1\3. Custom Min Function.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\3. Custom Min Function\obj\Debug\netcoreapp2.1\3. Custom Min Function.dll
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\3. Custom Min Function\obj\Debug\netcoreapp2.1\3. Custom Min Function.pdb

@@ -1,0 +1,17 @@
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\CarManager.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\CarManager.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\CarManager.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.deps.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.runtimeconfig.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.runtimeconfig.dev.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.pdb
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.AssemblyInfoInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.AssemblyInfo.cs
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.pdb
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.pdb
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.csprojAssemblyReference.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.csproj.CopyComplete

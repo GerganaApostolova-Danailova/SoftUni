@@ -1,0 +1,34 @@
+C:\Users\Slavi\Desktop\final-retake\C#\HeroRepository\HeroRepository.Tests\obj\Debug\netcoreapp2.1\HeroRepository.Tests.csprojAssemblyReference.cache
+C:\Users\Slavi\Desktop\final-retake\C#\HeroRepository\HeroRepository.Tests\obj\Debug\netcoreapp2.1\HeroRepository.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Slavi\Desktop\final-retake\C#\HeroRepository\HeroRepository.Tests\obj\Debug\netcoreapp2.1\HeroRepository.Tests.AssemblyInfoInputs.cache
+C:\Users\Slavi\Desktop\final-retake\C#\HeroRepository\HeroRepository.Tests\obj\Debug\netcoreapp2.1\HeroRepository.Tests.AssemblyInfo.cs
+C:\Users\Slavi\Desktop\final-retake\C#\HeroRepository\HeroRepository.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Slavi\Desktop\final-retake\C#\HeroRepository\HeroRepository.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Slavi\Desktop\final-retake\C#\HeroRepository\HeroRepository.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Slavi\Desktop\final-retake\C#\HeroRepository\HeroRepository.Tests\bin\Debug\netcoreapp2.1\HeroRepository.Tests.deps.json
+C:\Users\Slavi\Desktop\final-retake\C#\HeroRepository\HeroRepository.Tests\bin\Debug\netcoreapp2.1\HeroRepository.Tests.runtimeconfig.json
+C:\Users\Slavi\Desktop\final-retake\C#\HeroRepository\HeroRepository.Tests\bin\Debug\netcoreapp2.1\HeroRepository.Tests.runtimeconfig.dev.json
+C:\Users\Slavi\Desktop\final-retake\C#\HeroRepository\HeroRepository.Tests\bin\Debug\netcoreapp2.1\HeroRepository.Tests.dll
+C:\Users\Slavi\Desktop\final-retake\C#\HeroRepository\HeroRepository.Tests\bin\Debug\netcoreapp2.1\HeroRepository.Tests.pdb
+C:\Users\Slavi\Desktop\final-retake\C#\HeroRepository\HeroRepository.Tests\bin\Debug\netcoreapp2.1\HeroRepository.dll
+C:\Users\Slavi\Desktop\final-retake\C#\HeroRepository\HeroRepository.Tests\bin\Debug\netcoreapp2.1\HeroRepository.pdb
+C:\Users\Slavi\Desktop\final-retake\C#\HeroRepository\HeroRepository.Tests\obj\Debug\netcoreapp2.1\HeroRepository.Tests.csproj.CopyComplete
+C:\Users\Slavi\Desktop\final-retake\C#\HeroRepository\HeroRepository.Tests\obj\Debug\netcoreapp2.1\HeroRepository.Tests.dll
+C:\Users\Slavi\Desktop\final-retake\C#\HeroRepository\HeroRepository.Tests\obj\Debug\netcoreapp2.1\HeroRepository.Tests.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 15 August 2019\03. Unit Tests_Skeleton\Unit-Skeleton\HeroRepository\HeroRepository.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 15 August 2019\03. Unit Tests_Skeleton\Unit-Skeleton\HeroRepository\HeroRepository.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 15 August 2019\03. Unit Tests_Skeleton\Unit-Skeleton\HeroRepository\HeroRepository.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 15 August 2019\03. Unit Tests_Skeleton\Unit-Skeleton\HeroRepository\HeroRepository.Tests\bin\Debug\netcoreapp2.1\HeroRepository.Tests.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 15 August 2019\03. Unit Tests_Skeleton\Unit-Skeleton\HeroRepository\HeroRepository.Tests\bin\Debug\netcoreapp2.1\HeroRepository.Tests.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 15 August 2019\03. Unit Tests_Skeleton\Unit-Skeleton\HeroRepository\HeroRepository.Tests\bin\Debug\netcoreapp2.1\HeroRepository.Tests.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 15 August 2019\03. Unit Tests_Skeleton\Unit-Skeleton\HeroRepository\HeroRepository.Tests\bin\Debug\netcoreapp2.1\HeroRepository.Tests.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 15 August 2019\03. Unit Tests_Skeleton\Unit-Skeleton\HeroRepository\HeroRepository.Tests\bin\Debug\netcoreapp2.1\HeroRepository.Tests.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 15 August 2019\03. Unit Tests_Skeleton\Unit-Skeleton\HeroRepository\HeroRepository.Tests\bin\Debug\netcoreapp2.1\HeroRepository.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 15 August 2019\03. Unit Tests_Skeleton\Unit-Skeleton\HeroRepository\HeroRepository.Tests\bin\Debug\netcoreapp2.1\HeroRepository.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 15 August 2019\03. Unit Tests_Skeleton\Unit-Skeleton\HeroRepository\HeroRepository.Tests\obj\Debug\netcoreapp2.1\HeroRepository.Tests.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 15 August 2019\03. Unit Tests_Skeleton\Unit-Skeleton\HeroRepository\HeroRepository.Tests\obj\Debug\netcoreapp2.1\HeroRepository.Tests.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 15 August 2019\03. Unit Tests_Skeleton\Unit-Skeleton\HeroRepository\HeroRepository.Tests\obj\Debug\netcoreapp2.1\HeroRepository.Tests.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 15 August 2019\03. Unit Tests_Skeleton\Unit-Skeleton\HeroRepository\HeroRepository.Tests\obj\Debug\netcoreapp2.1\HeroRepository.Tests.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 15 August 2019\03. Unit Tests_Skeleton\Unit-Skeleton\HeroRepository\HeroRepository.Tests\obj\Debug\netcoreapp2.1\HeroRepository.Tests.csproj.CopyComplete
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 15 August 2019\03. Unit Tests_Skeleton\Unit-Skeleton\HeroRepository\HeroRepository.Tests\obj\Debug\netcoreapp2.1\HeroRepository.Tests.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 15 August 2019\03. Unit Tests_Skeleton\Unit-Skeleton\HeroRepository\HeroRepository.Tests\obj\Debug\netcoreapp2.1\HeroRepository.Tests.pdb

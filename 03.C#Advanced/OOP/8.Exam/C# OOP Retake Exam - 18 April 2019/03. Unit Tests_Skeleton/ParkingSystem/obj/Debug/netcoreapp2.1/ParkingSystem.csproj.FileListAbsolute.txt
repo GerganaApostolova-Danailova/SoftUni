@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.pdb

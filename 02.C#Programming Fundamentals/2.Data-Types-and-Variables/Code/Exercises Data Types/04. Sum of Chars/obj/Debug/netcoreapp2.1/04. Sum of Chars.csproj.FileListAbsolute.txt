@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\04. Sum of Chars\bin\Debug\netcoreapp2.1\04. Sum of Chars.deps.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\04. Sum of Chars\bin\Debug\netcoreapp2.1\04. Sum of Chars.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\04. Sum of Chars\bin\Debug\netcoreapp2.1\04. Sum of Chars.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\04. Sum of Chars\bin\Debug\netcoreapp2.1\04. Sum of Chars.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\04. Sum of Chars\bin\Debug\netcoreapp2.1\04. Sum of Chars.pdb
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\04. Sum of Chars\obj\Debug\netcoreapp2.1\04. Sum of Chars.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\04. Sum of Chars\obj\Debug\netcoreapp2.1\04. Sum of Chars.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\04. Sum of Chars\obj\Debug\netcoreapp2.1\04. Sum of Chars.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\04. Sum of Chars\obj\Debug\netcoreapp2.1\04. Sum of Chars.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\04. Sum of Chars\obj\Debug\netcoreapp2.1\04. Sum of Chars.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\04. Sum of Chars\obj\Debug\netcoreapp2.1\04. Sum of Chars.pdb

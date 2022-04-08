@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_ado.net", "1_ado.net\1_ado.net.csproj", "{B28C2A4E-2393-4CE0-A59D-D222A3C68EF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Villain Names", "2. Villain Names\2. Villain Names.csproj", "{C9B0010A-47FB-4353-BF2A-7589D5AA924E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Minion Names", "3. Minion Names\3. Minion Names.csproj", "{D3788732-3D96-42DB-9223-31E8F95176DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Add Minion", "4. Add Minion\4. Add Minion.csproj", "{DAA67024-0FE9-485A-BD91-DD6C725C07BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7__Print All Minion Names", "5__Print All Minion Names\7__Print All Minion Names.csproj", "{778AA059-5B0F-4397-8E09-80FC98D8F8DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8__Increase Minion Age", "6__Increase Minion Age\8__Increase Minion Age.csproj", "{7B60132B-40C5-46C6-82AB-204CF15AC7EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Increase Age Stored Procedure", "9. Increase Age Stored Procedure\9. Increase Age Stored Procedure.csproj", "{919CAF0F-29C8-4C06-B48B-84FA35C7CF4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B28C2A4E-2393-4CE0-A59D-D222A3C68EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B28C2A4E-2393-4CE0-A59D-D222A3C68EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B28C2A4E-2393-4CE0-A59D-D222A3C68EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B28C2A4E-2393-4CE0-A59D-D222A3C68EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B0010A-47FB-4353-BF2A-7589D5AA924E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B0010A-47FB-4353-BF2A-7589D5AA924E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B0010A-47FB-4353-BF2A-7589D5AA924E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B0010A-47FB-4353-BF2A-7589D5AA924E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3788732-3D96-42DB-9223-31E8F95176DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3788732-3D96-42DB-9223-31E8F95176DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3788732-3D96-42DB-9223-31E8F95176DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3788732-3D96-42DB-9223-31E8F95176DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAA67024-0FE9-485A-BD91-DD6C725C07BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA67024-0FE9-485A-BD91-DD6C725C07BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA67024-0FE9-485A-BD91-DD6C725C07BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA67024-0FE9-485A-BD91-DD6C725C07BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{778AA059-5B0F-4397-8E09-80FC98D8F8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778AA059-5B0F-4397-8E09-80FC98D8F8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778AA059-5B0F-4397-8E09-80FC98D8F8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778AA059-5B0F-4397-8E09-80FC98D8F8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B60132B-40C5-46C6-82AB-204CF15AC7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B60132B-40C5-46C6-82AB-204CF15AC7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B60132B-40C5-46C6-82AB-204CF15AC7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B60132B-40C5-46C6-82AB-204CF15AC7EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{919CAF0F-29C8-4C06-B48B-84FA35C7CF4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{919CAF0F-29C8-4C06-B48B-84FA35C7CF4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{919CAF0F-29C8-4C06-B48B-84FA35C7CF4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{919CAF0F-29C8-4C06-B48B-84FA35C7CF4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A1D314C-BC40-42EE-AFA4-499E3081914A}
+	EndGlobalSection
+EndGlobal

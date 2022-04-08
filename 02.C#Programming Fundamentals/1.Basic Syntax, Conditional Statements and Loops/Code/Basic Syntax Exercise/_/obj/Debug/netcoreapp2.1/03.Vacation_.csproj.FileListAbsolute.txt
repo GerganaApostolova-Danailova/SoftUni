@@ -1,0 +1,11 @@
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\_\bin\Debug\netcoreapp2.1\03.Vacation_.deps.json
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\_\bin\Debug\netcoreapp2.1\03.Vacation_.runtimeconfig.json
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\_\bin\Debug\netcoreapp2.1\03.Vacation_.runtimeconfig.dev.json
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\_\bin\Debug\netcoreapp2.1\03.Vacation_.dll
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\_\bin\Debug\netcoreapp2.1\03.Vacation_.pdb
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\_\obj\Debug\netcoreapp2.1\03.Vacation_.csprojAssemblyReference.cache
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\_\obj\Debug\netcoreapp2.1\03.Vacation_.csproj.CoreCompileInputs.cache
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\_\obj\Debug\netcoreapp2.1\03.Vacation_.AssemblyInfoInputs.cache
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\_\obj\Debug\netcoreapp2.1\03.Vacation_.AssemblyInfo.cs
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\_\obj\Debug\netcoreapp2.1\03.Vacation_.dll
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\_\obj\Debug\netcoreapp2.1\03.Vacation_.pdb

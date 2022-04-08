@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\09. Chars to String\bin\Debug\netcoreapp2.1\09. Chars to String.deps.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\09. Chars to String\bin\Debug\netcoreapp2.1\09. Chars to String.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\09. Chars to String\bin\Debug\netcoreapp2.1\09. Chars to String.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\09. Chars to String\bin\Debug\netcoreapp2.1\09. Chars to String.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\09. Chars to String\bin\Debug\netcoreapp2.1\09. Chars to String.pdb
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\09. Chars to String\obj\Debug\netcoreapp2.1\09. Chars to String.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\09. Chars to String\obj\Debug\netcoreapp2.1\09. Chars to String.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\09. Chars to String\obj\Debug\netcoreapp2.1\09. Chars to String.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\09. Chars to String\obj\Debug\netcoreapp2.1\09. Chars to String.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\09. Chars to String\obj\Debug\netcoreapp2.1\09. Chars to String.pdb

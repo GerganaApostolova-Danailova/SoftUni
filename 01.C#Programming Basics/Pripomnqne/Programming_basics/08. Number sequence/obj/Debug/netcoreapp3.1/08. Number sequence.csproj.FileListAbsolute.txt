@@ -1,0 +1,12 @@
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.exe
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.deps.json
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.runtimeconfig.json
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.runtimeconfig.dev.json
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.dll
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.pdb
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.AssemblyInfoInputs.cache
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.AssemblyInfo.cs
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.csproj.CoreCompileInputs.cache
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.dll
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.pdb
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.genruntimeconfig.cache

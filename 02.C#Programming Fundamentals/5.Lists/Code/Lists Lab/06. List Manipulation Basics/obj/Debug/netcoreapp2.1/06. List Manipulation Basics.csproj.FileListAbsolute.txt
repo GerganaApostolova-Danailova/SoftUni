@@ -1,0 +1,11 @@
+D:\Geri_Programing\Lists Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.1\06. List Manipulation Basics.deps.json
+D:\Geri_Programing\Lists Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.1\06. List Manipulation Basics.runtimeconfig.json
+D:\Geri_Programing\Lists Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.1\06. List Manipulation Basics.runtimeconfig.dev.json
+D:\Geri_Programing\Lists Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.1\06. List Manipulation Basics.dll
+D:\Geri_Programing\Lists Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.1\06. List Manipulation Basics.pdb
+D:\Geri_Programing\Lists Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.csprojAssemblyReference.cache
+D:\Geri_Programing\Lists Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lists Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.AssemblyInfoInputs.cache
+D:\Geri_Programing\Lists Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.AssemblyInfo.cs
+D:\Geri_Programing\Lists Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.dll
+D:\Geri_Programing\Lists Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.pdb

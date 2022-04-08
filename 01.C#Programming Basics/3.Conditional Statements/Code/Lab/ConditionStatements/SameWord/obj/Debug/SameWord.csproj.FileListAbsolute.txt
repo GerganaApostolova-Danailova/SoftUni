@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture Three\Code\ConditionStatements\SameWord\bin\Debug\SameWord.exe.config
+D:\Geri_Programing\Lecture Three\Code\ConditionStatements\SameWord\bin\Debug\SameWord.exe
+D:\Geri_Programing\Lecture Three\Code\ConditionStatements\SameWord\bin\Debug\SameWord.pdb
+D:\Geri_Programing\Lecture Three\Code\ConditionStatements\SameWord\obj\Debug\SameWord.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture Three\Code\ConditionStatements\SameWord\obj\Debug\SameWord.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Three\Code\ConditionStatements\SameWord\obj\Debug\SameWord.exe
+D:\Geri_Programing\Lecture Three\Code\ConditionStatements\SameWord\obj\Debug\SameWord.pdb

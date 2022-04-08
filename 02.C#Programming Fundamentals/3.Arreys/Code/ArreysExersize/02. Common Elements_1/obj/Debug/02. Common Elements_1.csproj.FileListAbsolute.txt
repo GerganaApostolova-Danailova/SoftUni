@@ -1,0 +1,7 @@
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\02. Common Elements_1\bin\Debug\_02.Common_Elements_1.exe.config
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\02. Common Elements_1\bin\Debug\_02.Common_Elements_1.exe
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\02. Common Elements_1\bin\Debug\_02.Common_Elements_1.pdb
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\02. Common Elements_1\obj\Debug\02. Common Elements_1.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\02. Common Elements_1\obj\Debug\02. Common Elements_1.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\02. Common Elements_1\obj\Debug\_02.Common_Elements_1.exe
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\02. Common Elements_1\obj\Debug\_02.Common_Elements_1.pdb

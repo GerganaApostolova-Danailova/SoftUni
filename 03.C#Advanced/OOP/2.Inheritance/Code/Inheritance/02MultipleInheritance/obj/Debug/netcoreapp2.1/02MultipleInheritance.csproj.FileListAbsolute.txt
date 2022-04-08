@@ -1,0 +1,10 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\Inheritance\02MultipleInheritance\bin\Debug\netcoreapp2.1\02MultipleInheritance.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\Inheritance\02MultipleInheritance\bin\Debug\netcoreapp2.1\02MultipleInheritance.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\Inheritance\02MultipleInheritance\bin\Debug\netcoreapp2.1\02MultipleInheritance.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\Inheritance\02MultipleInheritance\bin\Debug\netcoreapp2.1\02MultipleInheritance.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\Inheritance\02MultipleInheritance\bin\Debug\netcoreapp2.1\02MultipleInheritance.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\Inheritance\02MultipleInheritance\obj\Debug\netcoreapp2.1\02MultipleInheritance.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\Inheritance\02MultipleInheritance\obj\Debug\netcoreapp2.1\02MultipleInheritance.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\Inheritance\02MultipleInheritance\obj\Debug\netcoreapp2.1\02MultipleInheritance.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\Inheritance\02MultipleInheritance\obj\Debug\netcoreapp2.1\02MultipleInheritance.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\Inheritance\02MultipleInheritance\obj\Debug\netcoreapp2.1\02MultipleInheritance.pdb

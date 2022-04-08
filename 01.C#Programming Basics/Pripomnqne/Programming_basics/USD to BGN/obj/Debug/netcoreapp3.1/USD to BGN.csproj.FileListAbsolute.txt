@@ -1,0 +1,12 @@
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.exe
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.deps.json
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.runtimeconfig.json
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.runtimeconfig.dev.json
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.dll
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.pdb
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.AssemblyInfoInputs.cache
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.AssemblyInfo.cs
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.csproj.CoreCompileInputs.cache
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.dll
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.pdb
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+D:\Geri_Programing\Stacks and Queues\4. Matching Brackets\bin\Debug\netcoreapp2.1\4. Matching Brackets.deps.json
+D:\Geri_Programing\Stacks and Queues\4. Matching Brackets\bin\Debug\netcoreapp2.1\4. Matching Brackets.runtimeconfig.json
+D:\Geri_Programing\Stacks and Queues\4. Matching Brackets\bin\Debug\netcoreapp2.1\4. Matching Brackets.runtimeconfig.dev.json
+D:\Geri_Programing\Stacks and Queues\4. Matching Brackets\bin\Debug\netcoreapp2.1\4. Matching Brackets.dll
+D:\Geri_Programing\Stacks and Queues\4. Matching Brackets\bin\Debug\netcoreapp2.1\4. Matching Brackets.pdb
+D:\Geri_Programing\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp2.1\4. Matching Brackets.csprojAssemblyReference.cache
+D:\Geri_Programing\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp2.1\4. Matching Brackets.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp2.1\4. Matching Brackets.AssemblyInfoInputs.cache
+D:\Geri_Programing\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp2.1\4. Matching Brackets.AssemblyInfo.cs
+D:\Geri_Programing\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp2.1\4. Matching Brackets.dll
+D:\Geri_Programing\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp2.1\4. Matching Brackets.pdb
+C:\Geri_Programing\03.C#Advanced\Advanced\Stacks and Queues\Code\Stacks and Queues\4. Matching Brackets\bin\Debug\netcoreapp2.1\4. Matching Brackets.deps.json
+C:\Geri_Programing\03.C#Advanced\Advanced\Stacks and Queues\Code\Stacks and Queues\4. Matching Brackets\bin\Debug\netcoreapp2.1\4. Matching Brackets.runtimeconfig.json
+C:\Geri_Programing\03.C#Advanced\Advanced\Stacks and Queues\Code\Stacks and Queues\4. Matching Brackets\bin\Debug\netcoreapp2.1\4. Matching Brackets.runtimeconfig.dev.json
+C:\Geri_Programing\03.C#Advanced\Advanced\Stacks and Queues\Code\Stacks and Queues\4. Matching Brackets\bin\Debug\netcoreapp2.1\4. Matching Brackets.dll
+C:\Geri_Programing\03.C#Advanced\Advanced\Stacks and Queues\Code\Stacks and Queues\4. Matching Brackets\bin\Debug\netcoreapp2.1\4. Matching Brackets.pdb
+C:\Geri_Programing\03.C#Advanced\Advanced\Stacks and Queues\Code\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp2.1\4. Matching Brackets.csprojAssemblyReference.cache
+C:\Geri_Programing\03.C#Advanced\Advanced\Stacks and Queues\Code\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp2.1\4. Matching Brackets.AssemblyInfoInputs.cache
+C:\Geri_Programing\03.C#Advanced\Advanced\Stacks and Queues\Code\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp2.1\4. Matching Brackets.AssemblyInfo.cs
+C:\Geri_Programing\03.C#Advanced\Advanced\Stacks and Queues\Code\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp2.1\4. Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Geri_Programing\03.C#Advanced\Advanced\Stacks and Queues\Code\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp2.1\4. Matching Brackets.dll
+C:\Geri_Programing\03.C#Advanced\Advanced\Stacks and Queues\Code\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp2.1\4. Matching Brackets.pdb
+C:\Geri_Programing\03.C#Advanced\Advanced\Stacks and Queues\Code\Stacks and Queues\4. Matching Brackets\obj\Debug\netcoreapp2.1\4. Matching Brackets.genruntimeconfig.cache

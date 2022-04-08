@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.pdb

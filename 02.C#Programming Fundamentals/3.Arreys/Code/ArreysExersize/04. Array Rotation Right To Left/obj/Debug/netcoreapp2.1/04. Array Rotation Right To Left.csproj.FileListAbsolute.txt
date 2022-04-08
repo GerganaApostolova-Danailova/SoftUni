@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\04. Array Rotation Right To Left\bin\Debug\netcoreapp2.1\04. Array Rotation Right To Left.deps.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\04. Array Rotation Right To Left\bin\Debug\netcoreapp2.1\04. Array Rotation Right To Left.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\04. Array Rotation Right To Left\bin\Debug\netcoreapp2.1\04. Array Rotation Right To Left.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\04. Array Rotation Right To Left\bin\Debug\netcoreapp2.1\04. Array Rotation Right To Left.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\04. Array Rotation Right To Left\bin\Debug\netcoreapp2.1\04. Array Rotation Right To Left.pdb
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\04. Array Rotation Right To Left\obj\Debug\netcoreapp2.1\04. Array Rotation Right To Left.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\04. Array Rotation Right To Left\obj\Debug\netcoreapp2.1\04. Array Rotation Right To Left.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\04. Array Rotation Right To Left\obj\Debug\netcoreapp2.1\04. Array Rotation Right To Left.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\04. Array Rotation Right To Left\obj\Debug\netcoreapp2.1\04. Array Rotation Right To Left.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\04. Array Rotation Right To Left\obj\Debug\netcoreapp2.1\04. Array Rotation Right To Left.pdb

@@ -1,0 +1,11 @@
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\01. Furniture\bin\Debug\netcoreapp2.1\01. Furniture.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\01. Furniture\bin\Debug\netcoreapp2.1\01. Furniture.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\01. Furniture\bin\Debug\netcoreapp2.1\01. Furniture.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\01. Furniture\bin\Debug\netcoreapp2.1\01. Furniture.dll
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\01. Furniture\bin\Debug\netcoreapp2.1\01. Furniture.pdb
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\01. Furniture\obj\Debug\netcoreapp2.1\01. Furniture.csprojAssemblyReference.cache
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\01. Furniture\obj\Debug\netcoreapp2.1\01. Furniture.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\01. Furniture\obj\Debug\netcoreapp2.1\01. Furniture.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\01. Furniture\obj\Debug\netcoreapp2.1\01. Furniture.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\01. Furniture\obj\Debug\netcoreapp2.1\01. Furniture.dll
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\01. Furniture\obj\Debug\netcoreapp2.1\01. Furniture.pdb

@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\FutballSuvenires\bin\Debug\FutballSuvenires.exe.config
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\FutballSuvenires\bin\Debug\FutballSuvenires.exe
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\FutballSuvenires\bin\Debug\FutballSuvenires.pdb
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\FutballSuvenires\obj\Debug\FutballSuvenires.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\FutballSuvenires\obj\Debug\FutballSuvenires.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\FutballSuvenires\obj\Debug\FutballSuvenires.exe
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\FutballSuvenires\obj\Debug\FutballSuvenires.pdb

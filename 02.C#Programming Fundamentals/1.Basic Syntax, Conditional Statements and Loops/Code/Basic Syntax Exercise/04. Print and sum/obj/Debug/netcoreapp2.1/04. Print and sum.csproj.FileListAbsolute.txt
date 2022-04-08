@@ -1,0 +1,10 @@
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\04. Print and sum\bin\Debug\netcoreapp2.1\04. Print and sum.deps.json
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\04. Print and sum\bin\Debug\netcoreapp2.1\04. Print and sum.runtimeconfig.json
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\04. Print and sum\bin\Debug\netcoreapp2.1\04. Print and sum.runtimeconfig.dev.json
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\04. Print and sum\bin\Debug\netcoreapp2.1\04. Print and sum.dll
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\04. Print and sum\bin\Debug\netcoreapp2.1\04. Print and sum.pdb
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\04. Print and sum\obj\Debug\netcoreapp2.1\04. Print and sum.csproj.CoreCompileInputs.cache
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\04. Print and sum\obj\Debug\netcoreapp2.1\04. Print and sum.AssemblyInfoInputs.cache
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\04. Print and sum\obj\Debug\netcoreapp2.1\04. Print and sum.AssemblyInfo.cs
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\04. Print and sum\obj\Debug\netcoreapp2.1\04. Print and sum.dll
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\04. Print and sum\obj\Debug\netcoreapp2.1\04. Print and sum.pdb

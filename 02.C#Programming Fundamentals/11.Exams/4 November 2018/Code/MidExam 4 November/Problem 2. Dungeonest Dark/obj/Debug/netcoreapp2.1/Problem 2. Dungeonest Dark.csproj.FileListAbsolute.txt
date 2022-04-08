@@ -1,0 +1,11 @@
+D:\Geri_Programing\MidExam 4 November\Problem 2. Dungeonest Dark\bin\Debug\netcoreapp2.1\Problem 2. Dungeonest Dark.deps.json
+D:\Geri_Programing\MidExam 4 November\Problem 2. Dungeonest Dark\bin\Debug\netcoreapp2.1\Problem 2. Dungeonest Dark.runtimeconfig.json
+D:\Geri_Programing\MidExam 4 November\Problem 2. Dungeonest Dark\bin\Debug\netcoreapp2.1\Problem 2. Dungeonest Dark.runtimeconfig.dev.json
+D:\Geri_Programing\MidExam 4 November\Problem 2. Dungeonest Dark\bin\Debug\netcoreapp2.1\Problem 2. Dungeonest Dark.dll
+D:\Geri_Programing\MidExam 4 November\Problem 2. Dungeonest Dark\bin\Debug\netcoreapp2.1\Problem 2. Dungeonest Dark.pdb
+D:\Geri_Programing\MidExam 4 November\Problem 2. Dungeonest Dark\obj\Debug\netcoreapp2.1\Problem 2. Dungeonest Dark.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\MidExam 4 November\Problem 2. Dungeonest Dark\obj\Debug\netcoreapp2.1\Problem 2. Dungeonest Dark.AssemblyInfoInputs.cache
+D:\Geri_Programing\MidExam 4 November\Problem 2. Dungeonest Dark\obj\Debug\netcoreapp2.1\Problem 2. Dungeonest Dark.AssemblyInfo.cs
+D:\Geri_Programing\MidExam 4 November\Problem 2. Dungeonest Dark\obj\Debug\netcoreapp2.1\Problem 2. Dungeonest Dark.dll
+D:\Geri_Programing\MidExam 4 November\Problem 2. Dungeonest Dark\obj\Debug\netcoreapp2.1\Problem 2. Dungeonest Dark.pdb
+D:\Geri_Programing\MidExam 4 November\Problem 2. Dungeonest Dark\obj\Debug\netcoreapp2.1\Problem 2. Dungeonest Dark.csprojAssemblyReference.cache

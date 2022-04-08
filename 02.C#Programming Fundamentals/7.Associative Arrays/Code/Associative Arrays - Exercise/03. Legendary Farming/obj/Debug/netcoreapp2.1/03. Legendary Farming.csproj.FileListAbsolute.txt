@@ -1,0 +1,11 @@
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp2.1\03. Legendary Farming.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp2.1\03. Legendary Farming.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp2.1\03. Legendary Farming.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp2.1\03. Legendary Farming.dll
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp2.1\03. Legendary Farming.pdb
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp2.1\03. Legendary Farming.csprojAssemblyReference.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp2.1\03. Legendary Farming.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp2.1\03. Legendary Farming.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp2.1\03. Legendary Farming.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp2.1\03. Legendary Farming.dll
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp2.1\03. Legendary Farming.pdb

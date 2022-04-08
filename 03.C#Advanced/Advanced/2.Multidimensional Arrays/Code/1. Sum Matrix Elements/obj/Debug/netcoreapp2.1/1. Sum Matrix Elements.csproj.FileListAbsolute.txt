@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\1. Sum Matrix Elements\bin\Debug\netcoreapp2.1\1. Sum Matrix Elements.deps.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\1. Sum Matrix Elements\bin\Debug\netcoreapp2.1\1. Sum Matrix Elements.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\1. Sum Matrix Elements\bin\Debug\netcoreapp2.1\1. Sum Matrix Elements.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\1. Sum Matrix Elements\bin\Debug\netcoreapp2.1\1. Sum Matrix Elements.dll
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\1. Sum Matrix Elements\bin\Debug\netcoreapp2.1\1. Sum Matrix Elements.pdb
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\1. Sum Matrix Elements\obj\Debug\netcoreapp2.1\1. Sum Matrix Elements.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\1. Sum Matrix Elements\obj\Debug\netcoreapp2.1\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\1. Sum Matrix Elements\obj\Debug\netcoreapp2.1\1. Sum Matrix Elements.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\1. Sum Matrix Elements\obj\Debug\netcoreapp2.1\1. Sum Matrix Elements.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\1. Sum Matrix Elements\obj\Debug\netcoreapp2.1\1. Sum Matrix Elements.dll
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\1. Sum Matrix Elements\obj\Debug\netcoreapp2.1\1. Sum Matrix Elements.pdb

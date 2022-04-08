@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Exams\02 March 2019\Code\02 March 2019\02. Bread Factory\bin\Debug\netcoreapp2.1\02. Bread Factory.deps.json
+D:\Geri_Programing\Programming Fundamentals\Exams\02 March 2019\Code\02 March 2019\02. Bread Factory\bin\Debug\netcoreapp2.1\02. Bread Factory.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Exams\02 March 2019\Code\02 March 2019\02. Bread Factory\bin\Debug\netcoreapp2.1\02. Bread Factory.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Exams\02 March 2019\Code\02 March 2019\02. Bread Factory\bin\Debug\netcoreapp2.1\02. Bread Factory.dll
+D:\Geri_Programing\Programming Fundamentals\Exams\02 March 2019\Code\02 March 2019\02. Bread Factory\bin\Debug\netcoreapp2.1\02. Bread Factory.pdb
+D:\Geri_Programing\Programming Fundamentals\Exams\02 March 2019\Code\02 March 2019\02. Bread Factory\obj\Debug\netcoreapp2.1\02. Bread Factory.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\02 March 2019\Code\02 March 2019\02. Bread Factory\obj\Debug\netcoreapp2.1\02. Bread Factory.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\02 March 2019\Code\02 March 2019\02. Bread Factory\obj\Debug\netcoreapp2.1\02. Bread Factory.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\02 March 2019\Code\02 March 2019\02. Bread Factory\obj\Debug\netcoreapp2.1\02. Bread Factory.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Exams\02 March 2019\Code\02 March 2019\02. Bread Factory\obj\Debug\netcoreapp2.1\02. Bread Factory.dll
+D:\Geri_Programing\Programming Fundamentals\Exams\02 March 2019\Code\02 March 2019\02. Bread Factory\obj\Debug\netcoreapp2.1\02. Bread Factory.pdb

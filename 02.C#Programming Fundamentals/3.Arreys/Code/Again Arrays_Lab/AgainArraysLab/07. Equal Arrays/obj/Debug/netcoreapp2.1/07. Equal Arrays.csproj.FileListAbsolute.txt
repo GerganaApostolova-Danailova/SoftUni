@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\07. Equal Arrays\bin\Debug\netcoreapp2.1\07. Equal Arrays.deps.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\07. Equal Arrays\bin\Debug\netcoreapp2.1\07. Equal Arrays.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\07. Equal Arrays\bin\Debug\netcoreapp2.1\07. Equal Arrays.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\07. Equal Arrays\bin\Debug\netcoreapp2.1\07. Equal Arrays.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\07. Equal Arrays\bin\Debug\netcoreapp2.1\07. Equal Arrays.pdb
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\07. Equal Arrays\obj\Debug\netcoreapp2.1\07. Equal Arrays.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\07. Equal Arrays\obj\Debug\netcoreapp2.1\07. Equal Arrays.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\07. Equal Arrays\obj\Debug\netcoreapp2.1\07. Equal Arrays.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\07. Equal Arrays\obj\Debug\netcoreapp2.1\07. Equal Arrays.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\07. Equal Arrays\obj\Debug\netcoreapp2.1\07. Equal Arrays.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\07. Equal Arrays\obj\Debug\netcoreapp2.1\07. Equal Arrays.pdb

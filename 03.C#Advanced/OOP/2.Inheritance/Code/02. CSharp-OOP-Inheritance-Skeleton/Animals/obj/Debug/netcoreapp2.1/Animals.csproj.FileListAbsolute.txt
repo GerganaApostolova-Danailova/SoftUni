@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\02. CSharp-OOP-Inheritance-Skeleton\Animals\bin\Debug\netcoreapp2.1\Animals.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\02. CSharp-OOP-Inheritance-Skeleton\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\02. CSharp-OOP-Inheritance-Skeleton\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\02. CSharp-OOP-Inheritance-Skeleton\Animals\bin\Debug\netcoreapp2.1\Animals.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\02. CSharp-OOP-Inheritance-Skeleton\Animals\bin\Debug\netcoreapp2.1\Animals.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\02. CSharp-OOP-Inheritance-Skeleton\Animals\obj\Debug\netcoreapp2.1\Animals.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\02. CSharp-OOP-Inheritance-Skeleton\Animals\obj\Debug\netcoreapp2.1\Animals.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\02. CSharp-OOP-Inheritance-Skeleton\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\02. CSharp-OOP-Inheritance-Skeleton\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\02. CSharp-OOP-Inheritance-Skeleton\Animals\obj\Debug\netcoreapp2.1\Animals.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\02. CSharp-OOP-Inheritance-Skeleton\Animals\obj\Debug\netcoreapp2.1\Animals.pdb

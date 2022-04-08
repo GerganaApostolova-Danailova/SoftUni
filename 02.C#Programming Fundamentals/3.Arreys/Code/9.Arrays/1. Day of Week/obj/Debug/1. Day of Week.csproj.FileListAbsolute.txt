@@ -1,0 +1,7 @@
+C:\Users\Tceci\source\repos\9.Arrays\1. Day of Week\bin\Debug\_1.Day_of_Week.exe.config
+C:\Users\Tceci\source\repos\9.Arrays\1. Day of Week\bin\Debug\_1.Day_of_Week.exe
+C:\Users\Tceci\source\repos\9.Arrays\1. Day of Week\bin\Debug\_1.Day_of_Week.pdb
+C:\Users\Tceci\source\repos\9.Arrays\1. Day of Week\obj\Debug\1. Day of Week.csprojAssemblyReference.cache
+C:\Users\Tceci\source\repos\9.Arrays\1. Day of Week\obj\Debug\1. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\Tceci\source\repos\9.Arrays\1. Day of Week\obj\Debug\_1.Day_of_Week.exe
+C:\Users\Tceci\source\repos\9.Arrays\1. Day of Week\obj\Debug\_1.Day_of_Week.pdb

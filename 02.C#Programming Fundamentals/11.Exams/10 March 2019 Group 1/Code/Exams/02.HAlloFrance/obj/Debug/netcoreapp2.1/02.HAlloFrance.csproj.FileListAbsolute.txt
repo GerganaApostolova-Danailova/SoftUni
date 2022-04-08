@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Exams\Code\Exams\02.HAlloFrance\bin\Debug\netcoreapp2.1\02.HAlloFrance.deps.json
+D:\Geri_Programing\Programming Fundamentals\Exams\Code\Exams\02.HAlloFrance\bin\Debug\netcoreapp2.1\02.HAlloFrance.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Exams\Code\Exams\02.HAlloFrance\bin\Debug\netcoreapp2.1\02.HAlloFrance.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Exams\Code\Exams\02.HAlloFrance\bin\Debug\netcoreapp2.1\02.HAlloFrance.dll
+D:\Geri_Programing\Programming Fundamentals\Exams\Code\Exams\02.HAlloFrance\bin\Debug\netcoreapp2.1\02.HAlloFrance.pdb
+D:\Geri_Programing\Programming Fundamentals\Exams\Code\Exams\02.HAlloFrance\obj\Debug\netcoreapp2.1\02.HAlloFrance.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\Code\Exams\02.HAlloFrance\obj\Debug\netcoreapp2.1\02.HAlloFrance.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\Code\Exams\02.HAlloFrance\obj\Debug\netcoreapp2.1\02.HAlloFrance.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\Code\Exams\02.HAlloFrance\obj\Debug\netcoreapp2.1\02.HAlloFrance.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Exams\Code\Exams\02.HAlloFrance\obj\Debug\netcoreapp2.1\02.HAlloFrance.dll
+D:\Geri_Programing\Programming Fundamentals\Exams\Code\Exams\02.HAlloFrance\obj\Debug\netcoreapp2.1\02.HAlloFrance.pdb

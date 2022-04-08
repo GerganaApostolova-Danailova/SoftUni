@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\02. Sum Numbers\bin\Debug\netcoreapp2.1\02. Sum Numbers.deps.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\02. Sum Numbers\bin\Debug\netcoreapp2.1\02. Sum Numbers.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\02. Sum Numbers\bin\Debug\netcoreapp2.1\02. Sum Numbers.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\02. Sum Numbers\bin\Debug\netcoreapp2.1\02. Sum Numbers.dll
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\02. Sum Numbers\bin\Debug\netcoreapp2.1\02. Sum Numbers.pdb
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\02. Sum Numbers\obj\Debug\netcoreapp2.1\02. Sum Numbers.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\02. Sum Numbers\obj\Debug\netcoreapp2.1\02. Sum Numbers.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\02. Sum Numbers\obj\Debug\netcoreapp2.1\02. Sum Numbers.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\02. Sum Numbers\obj\Debug\netcoreapp2.1\02. Sum Numbers.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\02. Sum Numbers\obj\Debug\netcoreapp2.1\02. Sum Numbers.dll
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\02. Sum Numbers\obj\Debug\netcoreapp2.1\02. Sum Numbers.pdb

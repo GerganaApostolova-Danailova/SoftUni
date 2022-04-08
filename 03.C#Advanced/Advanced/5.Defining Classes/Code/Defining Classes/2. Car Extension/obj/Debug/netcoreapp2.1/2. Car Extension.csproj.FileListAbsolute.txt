@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\2. Car Extension\bin\Debug\netcoreapp2.1\2. Car Extension.deps.json
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\2. Car Extension\bin\Debug\netcoreapp2.1\2. Car Extension.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\2. Car Extension\bin\Debug\netcoreapp2.1\2. Car Extension.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\2. Car Extension\bin\Debug\netcoreapp2.1\2. Car Extension.dll
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\2. Car Extension\bin\Debug\netcoreapp2.1\2. Car Extension.pdb
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\2. Car Extension\obj\Debug\netcoreapp2.1\2. Car Extension.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\2. Car Extension\obj\Debug\netcoreapp2.1\2. Car Extension.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\2. Car Extension\obj\Debug\netcoreapp2.1\2. Car Extension.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\2. Car Extension\obj\Debug\netcoreapp2.1\2. Car Extension.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\2. Car Extension\obj\Debug\netcoreapp2.1\2. Car Extension.dll
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\2. Car Extension\obj\Debug\netcoreapp2.1\2. Car Extension.pdb

@@ -1,0 +1,7 @@
+D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\ChristmasMarcket\bin\Debug\ChristmasMarcket.exe.config
+D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\ChristmasMarcket\bin\Debug\ChristmasMarcket.exe
+D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\ChristmasMarcket\bin\Debug\ChristmasMarcket.pdb
+D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\ChristmasMarcket\obj\Debug\ChristmasMarcket.csprojAssemblyReference.cache
+D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\ChristmasMarcket\obj\Debug\ChristmasMarcket.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\ChristmasMarcket\obj\Debug\ChristmasMarcket.exe
+D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\ChristmasMarcket\obj\Debug\ChristmasMarcket.pdb

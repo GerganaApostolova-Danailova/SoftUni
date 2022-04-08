@@ -1,0 +1,11 @@
+D:\Geri_Programing\Lists Lab\04. List of Products\bin\Debug\netcoreapp2.1\04. List of Products.deps.json
+D:\Geri_Programing\Lists Lab\04. List of Products\bin\Debug\netcoreapp2.1\04. List of Products.runtimeconfig.json
+D:\Geri_Programing\Lists Lab\04. List of Products\bin\Debug\netcoreapp2.1\04. List of Products.runtimeconfig.dev.json
+D:\Geri_Programing\Lists Lab\04. List of Products\bin\Debug\netcoreapp2.1\04. List of Products.dll
+D:\Geri_Programing\Lists Lab\04. List of Products\bin\Debug\netcoreapp2.1\04. List of Products.pdb
+D:\Geri_Programing\Lists Lab\04. List of Products\obj\Debug\netcoreapp2.1\04. List of Products.csprojAssemblyReference.cache
+D:\Geri_Programing\Lists Lab\04. List of Products\obj\Debug\netcoreapp2.1\04. List of Products.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lists Lab\04. List of Products\obj\Debug\netcoreapp2.1\04. List of Products.AssemblyInfoInputs.cache
+D:\Geri_Programing\Lists Lab\04. List of Products\obj\Debug\netcoreapp2.1\04. List of Products.AssemblyInfo.cs
+D:\Geri_Programing\Lists Lab\04. List of Products\obj\Debug\netcoreapp2.1\04. List of Products.dll
+D:\Geri_Programing\Lists Lab\04. List of Products\obj\Debug\netcoreapp2.1\04. List of Products.pdb

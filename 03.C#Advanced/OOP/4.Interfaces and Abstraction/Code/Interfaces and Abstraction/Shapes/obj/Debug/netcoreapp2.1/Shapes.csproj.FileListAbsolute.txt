@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Shapes\bin\Debug\netcoreapp2.1\Shapes.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Shapes\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Shapes\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Shapes\bin\Debug\netcoreapp2.1\Shapes.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Shapes\bin\Debug\netcoreapp2.1\Shapes.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.pdb

@@ -1,0 +1,10 @@
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\4. Symbol in Matrix\bin\Debug\netcoreapp2.1\4. Symbol in Matrix.deps.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\4. Symbol in Matrix\bin\Debug\netcoreapp2.1\4. Symbol in Matrix.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\4. Symbol in Matrix\bin\Debug\netcoreapp2.1\4. Symbol in Matrix.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\4. Symbol in Matrix\bin\Debug\netcoreapp2.1\4. Symbol in Matrix.dll
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\4. Symbol in Matrix\bin\Debug\netcoreapp2.1\4. Symbol in Matrix.pdb
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\4. Symbol in Matrix\obj\Debug\netcoreapp2.1\4. Symbol in Matrix.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\4. Symbol in Matrix\obj\Debug\netcoreapp2.1\4. Symbol in Matrix.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\4. Symbol in Matrix\obj\Debug\netcoreapp2.1\4. Symbol in Matrix.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\4. Symbol in Matrix\obj\Debug\netcoreapp2.1\4. Symbol in Matrix.dll
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\4. Symbol in Matrix\obj\Debug\netcoreapp2.1\4. Symbol in Matrix.pdb

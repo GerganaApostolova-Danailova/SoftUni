@@ -1,0 +1,11 @@
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\03. The Isle of Man TT Race\bin\Debug\netcoreapp2.1\03. The Isle of Man TT Race.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\03. The Isle of Man TT Race\bin\Debug\netcoreapp2.1\03. The Isle of Man TT Race.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\03. The Isle of Man TT Race\bin\Debug\netcoreapp2.1\03. The Isle of Man TT Race.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\03. The Isle of Man TT Race\bin\Debug\netcoreapp2.1\03. The Isle of Man TT Race.dll
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\03. The Isle of Man TT Race\bin\Debug\netcoreapp2.1\03. The Isle of Man TT Race.pdb
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\03. The Isle of Man TT Race\obj\Debug\netcoreapp2.1\03. The Isle of Man TT Race.csprojAssemblyReference.cache
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\03. The Isle of Man TT Race\obj\Debug\netcoreapp2.1\03. The Isle of Man TT Race.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\03. The Isle of Man TT Race\obj\Debug\netcoreapp2.1\03. The Isle of Man TT Race.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\03. The Isle of Man TT Race\obj\Debug\netcoreapp2.1\03. The Isle of Man TT Race.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\03. The Isle of Man TT Race\obj\Debug\netcoreapp2.1\03. The Isle of Man TT Race.dll
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\03. The Isle of Man TT Race\obj\Debug\netcoreapp2.1\03. The Isle of Man TT Race.pdb

@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\09. Kamino Factory\bin\Debug\netcoreapp2.1\09. Kamino Factory.deps.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\09. Kamino Factory\bin\Debug\netcoreapp2.1\09. Kamino Factory.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\09. Kamino Factory\bin\Debug\netcoreapp2.1\09. Kamino Factory.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\09. Kamino Factory\bin\Debug\netcoreapp2.1\09. Kamino Factory.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\09. Kamino Factory\bin\Debug\netcoreapp2.1\09. Kamino Factory.pdb
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\09. Kamino Factory\obj\Debug\netcoreapp2.1\09. Kamino Factory.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\09. Kamino Factory\obj\Debug\netcoreapp2.1\09. Kamino Factory.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\09. Kamino Factory\obj\Debug\netcoreapp2.1\09. Kamino Factory.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\09. Kamino Factory\obj\Debug\netcoreapp2.1\09. Kamino Factory.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\09. Kamino Factory\obj\Debug\netcoreapp2.1\09. Kamino Factory.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\09. Kamino Factory\obj\Debug\netcoreapp2.1\09. Kamino Factory.pdb

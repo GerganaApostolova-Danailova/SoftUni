@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture Four\Code\WhileLoopExersize\WhileLoopExersize\bin\Debug\WhileLoopExersize.exe.config
+D:\Geri_Programing\Lecture Four\Code\WhileLoopExersize\WhileLoopExersize\bin\Debug\WhileLoopExersize.exe
+D:\Geri_Programing\Lecture Four\Code\WhileLoopExersize\WhileLoopExersize\bin\Debug\WhileLoopExersize.pdb
+D:\Geri_Programing\Lecture Four\Code\WhileLoopExersize\WhileLoopExersize\obj\Debug\OldLibrary.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture Four\Code\WhileLoopExersize\WhileLoopExersize\obj\Debug\OldLibrary.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Four\Code\WhileLoopExersize\WhileLoopExersize\obj\Debug\WhileLoopExersize.exe
+D:\Geri_Programing\Lecture Four\Code\WhileLoopExersize\WhileLoopExersize\obj\Debug\WhileLoopExersize.pdb

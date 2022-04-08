@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "P3HMlWF9BJPVimsTidnOvdXxAZ6ernrG6PFPAaFCCYHmcGQWBxdty3hYmgX1IbfGj+OV67QsICrwcpDU4Min/g==",
+  "success": true,
+  "projectFilePath": "C:\\Geri_Programing\\03.C#Advanced\\Advanced\\Stacks and Queues\\Code\\Stacks and Queues\\01. Basic Stack Operations\\01. Basic Stack Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

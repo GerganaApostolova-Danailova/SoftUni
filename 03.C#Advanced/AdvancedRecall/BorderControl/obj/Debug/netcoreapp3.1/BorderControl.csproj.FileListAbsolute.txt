@@ -1,0 +1,13 @@
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.exe
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.deps.json
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.json
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.dev.json
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.dll
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.pdb
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csprojAssemblyReference.cache
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfoInputs.cache
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfo.cs
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csproj.CoreCompileInputs.cache
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.dll
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.pdb
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.genruntimeconfig.cache

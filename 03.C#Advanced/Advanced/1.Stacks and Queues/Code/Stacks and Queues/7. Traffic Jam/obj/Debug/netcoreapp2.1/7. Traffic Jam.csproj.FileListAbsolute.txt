@@ -1,0 +1,10 @@
+D:\Geri_Programing\Stacks and Queues\7. Traffic Jam\bin\Debug\netcoreapp2.1\7. Traffic Jam.deps.json
+D:\Geri_Programing\Stacks and Queues\7. Traffic Jam\bin\Debug\netcoreapp2.1\7. Traffic Jam.runtimeconfig.json
+D:\Geri_Programing\Stacks and Queues\7. Traffic Jam\bin\Debug\netcoreapp2.1\7. Traffic Jam.runtimeconfig.dev.json
+D:\Geri_Programing\Stacks and Queues\7. Traffic Jam\bin\Debug\netcoreapp2.1\7. Traffic Jam.dll
+D:\Geri_Programing\Stacks and Queues\7. Traffic Jam\bin\Debug\netcoreapp2.1\7. Traffic Jam.pdb
+D:\Geri_Programing\Stacks and Queues\7. Traffic Jam\obj\Debug\netcoreapp2.1\7. Traffic Jam.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Stacks and Queues\7. Traffic Jam\obj\Debug\netcoreapp2.1\7. Traffic Jam.AssemblyInfoInputs.cache
+D:\Geri_Programing\Stacks and Queues\7. Traffic Jam\obj\Debug\netcoreapp2.1\7. Traffic Jam.AssemblyInfo.cs
+D:\Geri_Programing\Stacks and Queues\7. Traffic Jam\obj\Debug\netcoreapp2.1\7. Traffic Jam.dll
+D:\Geri_Programing\Stacks and Queues\7. Traffic Jam\obj\Debug\netcoreapp2.1\7. Traffic Jam.pdb

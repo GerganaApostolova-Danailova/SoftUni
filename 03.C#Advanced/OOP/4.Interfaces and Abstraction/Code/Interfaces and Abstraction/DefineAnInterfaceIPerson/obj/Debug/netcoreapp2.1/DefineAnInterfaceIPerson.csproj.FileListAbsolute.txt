@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\12. Even Number\bin\Debug\netcoreapp2.1\12. Even Number.deps.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\12. Even Number\bin\Debug\netcoreapp2.1\12. Even Number.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\12. Even Number\bin\Debug\netcoreapp2.1\12. Even Number.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\12. Even Number\bin\Debug\netcoreapp2.1\12. Even Number.dll
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\12. Even Number\bin\Debug\netcoreapp2.1\12. Even Number.pdb
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\12. Even Number\obj\Debug\netcoreapp2.1\12. Even Number.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\12. Even Number\obj\Debug\netcoreapp2.1\12. Even Number.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\12. Even Number\obj\Debug\netcoreapp2.1\12. Even Number.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\12. Even Number\obj\Debug\netcoreapp2.1\12. Even Number.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\12. Even Number\obj\Debug\netcoreapp2.1\12. Even Number.dll
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\12. Even Number\obj\Debug\netcoreapp2.1\12. Even Number.pdb

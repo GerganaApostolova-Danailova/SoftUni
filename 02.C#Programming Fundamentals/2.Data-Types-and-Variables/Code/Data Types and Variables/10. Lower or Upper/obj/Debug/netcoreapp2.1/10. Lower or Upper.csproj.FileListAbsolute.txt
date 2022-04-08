@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\10. Lower or Upper\bin\Debug\netcoreapp2.1\10. Lower or Upper.deps.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\10. Lower or Upper\bin\Debug\netcoreapp2.1\10. Lower or Upper.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\10. Lower or Upper\bin\Debug\netcoreapp2.1\10. Lower or Upper.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\10. Lower or Upper\bin\Debug\netcoreapp2.1\10. Lower or Upper.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\10. Lower or Upper\bin\Debug\netcoreapp2.1\10. Lower or Upper.pdb
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\10. Lower or Upper\obj\Debug\netcoreapp2.1\10. Lower or Upper.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\10. Lower or Upper\obj\Debug\netcoreapp2.1\10. Lower or Upper.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\10. Lower or Upper\obj\Debug\netcoreapp2.1\10. Lower or Upper.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\10. Lower or Upper\obj\Debug\netcoreapp2.1\10. Lower or Upper.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\10. Lower or Upper\obj\Debug\netcoreapp2.1\10. Lower or Upper.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\10. Lower or Upper\obj\Debug\netcoreapp2.1\10. Lower or Upper.pdb

@@ -1,0 +1,11 @@
+D:\Geri_Programing\MidExam 4 November\Problem 1. Party Profit\bin\Debug\netcoreapp2.1\Problem 1. Party Profit.deps.json
+D:\Geri_Programing\MidExam 4 November\Problem 1. Party Profit\bin\Debug\netcoreapp2.1\Problem 1. Party Profit.runtimeconfig.json
+D:\Geri_Programing\MidExam 4 November\Problem 1. Party Profit\bin\Debug\netcoreapp2.1\Problem 1. Party Profit.runtimeconfig.dev.json
+D:\Geri_Programing\MidExam 4 November\Problem 1. Party Profit\bin\Debug\netcoreapp2.1\Problem 1. Party Profit.dll
+D:\Geri_Programing\MidExam 4 November\Problem 1. Party Profit\bin\Debug\netcoreapp2.1\Problem 1. Party Profit.pdb
+D:\Geri_Programing\MidExam 4 November\Problem 1. Party Profit\obj\Debug\netcoreapp2.1\Problem 1. Party Profit.csprojAssemblyReference.cache
+D:\Geri_Programing\MidExam 4 November\Problem 1. Party Profit\obj\Debug\netcoreapp2.1\Problem 1. Party Profit.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\MidExam 4 November\Problem 1. Party Profit\obj\Debug\netcoreapp2.1\Problem 1. Party Profit.AssemblyInfoInputs.cache
+D:\Geri_Programing\MidExam 4 November\Problem 1. Party Profit\obj\Debug\netcoreapp2.1\Problem 1. Party Profit.AssemblyInfo.cs
+D:\Geri_Programing\MidExam 4 November\Problem 1. Party Profit\obj\Debug\netcoreapp2.1\Problem 1. Party Profit.dll
+D:\Geri_Programing\MidExam 4 November\Problem 1. Party Profit\obj\Debug\netcoreapp2.1\Problem 1. Party Profit.pdb

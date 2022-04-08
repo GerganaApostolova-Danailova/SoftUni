@@ -1,0 +1,10 @@
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\5. Square With Maximum Sum\bin\Debug\netcoreapp2.1\5. Square With Maximum Sum.deps.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\5. Square With Maximum Sum\bin\Debug\netcoreapp2.1\5. Square With Maximum Sum.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\5. Square With Maximum Sum\bin\Debug\netcoreapp2.1\5. Square With Maximum Sum.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\5. Square With Maximum Sum\bin\Debug\netcoreapp2.1\5. Square With Maximum Sum.dll
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\5. Square With Maximum Sum\bin\Debug\netcoreapp2.1\5. Square With Maximum Sum.pdb
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\5. Square With Maximum Sum\obj\Debug\netcoreapp2.1\5. Square With Maximum Sum.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\5. Square With Maximum Sum\obj\Debug\netcoreapp2.1\5. Square With Maximum Sum.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\5. Square With Maximum Sum\obj\Debug\netcoreapp2.1\5. Square With Maximum Sum.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\5. Square With Maximum Sum\obj\Debug\netcoreapp2.1\5. Square With Maximum Sum.dll
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\5. Square With Maximum Sum\obj\Debug\netcoreapp2.1\5. Square With Maximum Sum.pdb

@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\IncomeStadion\bin\Debug\IncomeStadion.exe.config
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\IncomeStadion\bin\Debug\IncomeStadion.exe
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\IncomeStadion\bin\Debug\IncomeStadion.pdb
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\IncomeStadion\obj\Debug\IncomeStadion.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\IncomeStadion\obj\Debug\IncomeStadion.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\IncomeStadion\obj\Debug\IncomeStadion.exe
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\IncomeStadion\obj\Debug\IncomeStadion.pdb

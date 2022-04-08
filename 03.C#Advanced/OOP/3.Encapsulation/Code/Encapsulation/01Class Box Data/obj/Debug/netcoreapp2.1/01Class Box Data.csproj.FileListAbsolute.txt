@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\01Class Box Data\bin\Debug\netcoreapp2.1\01Class Box Data.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\01Class Box Data\bin\Debug\netcoreapp2.1\01Class Box Data.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\01Class Box Data\bin\Debug\netcoreapp2.1\01Class Box Data.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\01Class Box Data\bin\Debug\netcoreapp2.1\01Class Box Data.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\01Class Box Data\bin\Debug\netcoreapp2.1\01Class Box Data.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\01Class Box Data\obj\Debug\netcoreapp2.1\01Class Box Data.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\01Class Box Data\obj\Debug\netcoreapp2.1\01Class Box Data.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\01Class Box Data\obj\Debug\netcoreapp2.1\01Class Box Data.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\01Class Box Data\obj\Debug\netcoreapp2.1\01Class Box Data.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\01Class Box Data\obj\Debug\netcoreapp2.1\01Class Box Data.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\01Class Box Data\obj\Debug\netcoreapp2.1\01Class Box Data.pdb

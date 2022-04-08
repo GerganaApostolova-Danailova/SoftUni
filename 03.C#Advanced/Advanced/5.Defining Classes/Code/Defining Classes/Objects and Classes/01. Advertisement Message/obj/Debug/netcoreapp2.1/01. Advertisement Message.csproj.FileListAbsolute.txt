@@ -1,0 +1,11 @@
+D:\Geri_Programing\Objects and Classes\01. Advertisement Message\bin\Debug\netcoreapp2.1\01. Advertisement Message.deps.json
+D:\Geri_Programing\Objects and Classes\01. Advertisement Message\bin\Debug\netcoreapp2.1\01. Advertisement Message.runtimeconfig.json
+D:\Geri_Programing\Objects and Classes\01. Advertisement Message\bin\Debug\netcoreapp2.1\01. Advertisement Message.runtimeconfig.dev.json
+D:\Geri_Programing\Objects and Classes\01. Advertisement Message\bin\Debug\netcoreapp2.1\01. Advertisement Message.dll
+D:\Geri_Programing\Objects and Classes\01. Advertisement Message\bin\Debug\netcoreapp2.1\01. Advertisement Message.pdb
+D:\Geri_Programing\Objects and Classes\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.csprojAssemblyReference.cache
+D:\Geri_Programing\Objects and Classes\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Objects and Classes\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.AssemblyInfoInputs.cache
+D:\Geri_Programing\Objects and Classes\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.AssemblyInfo.cs
+D:\Geri_Programing\Objects and Classes\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.dll
+D:\Geri_Programing\Objects and Classes\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.pdb

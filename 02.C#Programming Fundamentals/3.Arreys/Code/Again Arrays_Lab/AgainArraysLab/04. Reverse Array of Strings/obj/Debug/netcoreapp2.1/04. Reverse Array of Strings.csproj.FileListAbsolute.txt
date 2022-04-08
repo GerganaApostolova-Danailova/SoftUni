@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.1\04. Reverse Array of Strings.deps.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.1\04. Reverse Array of Strings.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.1\04. Reverse Array of Strings.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.1\04. Reverse Array of Strings.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.1\04. Reverse Array of Strings.pdb
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.1\04. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.1\04. Reverse Array of Strings.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.1\04. Reverse Array of Strings.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.1\04. Reverse Array of Strings.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.1\04. Reverse Array of Strings.pdb

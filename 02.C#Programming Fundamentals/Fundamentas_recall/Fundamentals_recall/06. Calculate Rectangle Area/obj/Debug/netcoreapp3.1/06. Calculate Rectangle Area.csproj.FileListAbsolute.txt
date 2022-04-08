@@ -1,0 +1,12 @@
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.exe
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.deps.json
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.runtimeconfig.json
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.runtimeconfig.dev.json
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.dll
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.pdb
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.AssemblyInfo.cs
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.dll
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.pdb
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.genruntimeconfig.cache

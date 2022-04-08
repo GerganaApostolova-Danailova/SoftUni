@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\FenMagazine\bin\Debug\FenMagazine.exe.config
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\FenMagazine\bin\Debug\FenMagazine.exe
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\FenMagazine\bin\Debug\FenMagazine.pdb
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\FenMagazine\obj\Debug\FenMagazine.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\FenMagazine\obj\Debug\FenMagazine.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\FenMagazine\obj\Debug\FenMagazine.exe
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\FenMagazine\obj\Debug\FenMagazine.pdb

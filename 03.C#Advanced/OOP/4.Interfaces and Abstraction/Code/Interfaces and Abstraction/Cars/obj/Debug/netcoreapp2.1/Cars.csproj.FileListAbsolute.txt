@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Cars\bin\Debug\netcoreapp2.1\Cars.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Cars\bin\Debug\netcoreapp2.1\Cars.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Cars\bin\Debug\netcoreapp2.1\Cars.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Cars\bin\Debug\netcoreapp2.1\Cars.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Cars\bin\Debug\netcoreapp2.1\Cars.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Cars\obj\Debug\netcoreapp2.1\Cars.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Cars\obj\Debug\netcoreapp2.1\Cars.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Cars\obj\Debug\netcoreapp2.1\Cars.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Cars\obj\Debug\netcoreapp2.1\Cars.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Cars\obj\Debug\netcoreapp2.1\Cars.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Cars\obj\Debug\netcoreapp2.1\Cars.pdb

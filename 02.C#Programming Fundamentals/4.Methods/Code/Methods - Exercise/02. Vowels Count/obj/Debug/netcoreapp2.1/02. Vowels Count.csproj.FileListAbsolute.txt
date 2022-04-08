@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp2.1\02. Vowels Count.deps.json
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp2.1\02. Vowels Count.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp2.1\02. Vowels Count.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp2.1\02. Vowels Count.dll
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp2.1\02. Vowels Count.pdb
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp2.1\02. Vowels Count.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp2.1\02. Vowels Count.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp2.1\02. Vowels Count.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp2.1\02. Vowels Count.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp2.1\02. Vowels Count.dll
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp2.1\02. Vowels Count.pdb

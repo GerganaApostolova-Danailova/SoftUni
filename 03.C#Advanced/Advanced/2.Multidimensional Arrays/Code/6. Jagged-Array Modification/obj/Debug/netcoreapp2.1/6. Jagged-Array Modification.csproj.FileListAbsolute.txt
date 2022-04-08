@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\6. Jagged-Array Modification\bin\Debug\netcoreapp2.1\6. Jagged-Array Modification.deps.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\6. Jagged-Array Modification\bin\Debug\netcoreapp2.1\6. Jagged-Array Modification.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\6. Jagged-Array Modification\bin\Debug\netcoreapp2.1\6. Jagged-Array Modification.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\6. Jagged-Array Modification\bin\Debug\netcoreapp2.1\6. Jagged-Array Modification.dll
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\6. Jagged-Array Modification\bin\Debug\netcoreapp2.1\6. Jagged-Array Modification.pdb
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\6. Jagged-Array Modification\obj\Debug\netcoreapp2.1\6. Jagged-Array Modification.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\6. Jagged-Array Modification\obj\Debug\netcoreapp2.1\6. Jagged-Array Modification.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\6. Jagged-Array Modification\obj\Debug\netcoreapp2.1\6. Jagged-Array Modification.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\6. Jagged-Array Modification\obj\Debug\netcoreapp2.1\6. Jagged-Array Modification.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\6. Jagged-Array Modification\obj\Debug\netcoreapp2.1\6. Jagged-Array Modification.dll
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\6. Jagged-Array Modification\obj\Debug\netcoreapp2.1\6. Jagged-Array Modification.pdb

@@ -1,0 +1,9 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Demo Exam - 07 December 2019\03. Unit Tests_Skeleton\TheRace\bin\Debug\netcoreapp2.1\TheRace.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Demo Exam - 07 December 2019\03. Unit Tests_Skeleton\TheRace\bin\Debug\netcoreapp2.1\TheRace.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Demo Exam - 07 December 2019\03. Unit Tests_Skeleton\TheRace\bin\Debug\netcoreapp2.1\TheRace.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Demo Exam - 07 December 2019\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Demo Exam - 07 December 2019\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Demo Exam - 07 December 2019\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Demo Exam - 07 December 2019\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Demo Exam - 07 December 2019\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Demo Exam - 07 December 2019\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.pdb

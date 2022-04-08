@@ -1,0 +1,10 @@
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\02. Division\bin\Debug\netcoreapp2.1\02. Division.deps.json
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\02. Division\bin\Debug\netcoreapp2.1\02. Division.runtimeconfig.json
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\02. Division\bin\Debug\netcoreapp2.1\02. Division.runtimeconfig.dev.json
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\02. Division\bin\Debug\netcoreapp2.1\02. Division.dll
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\02. Division\bin\Debug\netcoreapp2.1\02. Division.pdb
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\02. Division\obj\Debug\netcoreapp2.1\02. Division.csproj.CoreCompileInputs.cache
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\02. Division\obj\Debug\netcoreapp2.1\02. Division.AssemblyInfoInputs.cache
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\02. Division\obj\Debug\netcoreapp2.1\02. Division.AssemblyInfo.cs
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\02. Division\obj\Debug\netcoreapp2.1\02. Division.dll
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\02. Division\obj\Debug\netcoreapp2.1\02. Division.pdb

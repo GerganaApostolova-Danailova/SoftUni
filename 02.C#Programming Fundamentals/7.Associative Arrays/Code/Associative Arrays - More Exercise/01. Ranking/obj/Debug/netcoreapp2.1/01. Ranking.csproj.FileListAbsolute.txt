@@ -1,0 +1,11 @@
+D:\Geri_Programing\Associative Arrays - More Exercise\01. Ranking\bin\Debug\netcoreapp2.1\01. Ranking.deps.json
+D:\Geri_Programing\Associative Arrays - More Exercise\01. Ranking\bin\Debug\netcoreapp2.1\01. Ranking.runtimeconfig.json
+D:\Geri_Programing\Associative Arrays - More Exercise\01. Ranking\bin\Debug\netcoreapp2.1\01. Ranking.runtimeconfig.dev.json
+D:\Geri_Programing\Associative Arrays - More Exercise\01. Ranking\bin\Debug\netcoreapp2.1\01. Ranking.dll
+D:\Geri_Programing\Associative Arrays - More Exercise\01. Ranking\bin\Debug\netcoreapp2.1\01. Ranking.pdb
+D:\Geri_Programing\Associative Arrays - More Exercise\01. Ranking\obj\Debug\netcoreapp2.1\01. Ranking.csprojAssemblyReference.cache
+D:\Geri_Programing\Associative Arrays - More Exercise\01. Ranking\obj\Debug\netcoreapp2.1\01. Ranking.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Associative Arrays - More Exercise\01. Ranking\obj\Debug\netcoreapp2.1\01. Ranking.AssemblyInfoInputs.cache
+D:\Geri_Programing\Associative Arrays - More Exercise\01. Ranking\obj\Debug\netcoreapp2.1\01. Ranking.AssemblyInfo.cs
+D:\Geri_Programing\Associative Arrays - More Exercise\01. Ranking\obj\Debug\netcoreapp2.1\01. Ranking.dll
+D:\Geri_Programing\Associative Arrays - More Exercise\01. Ranking\obj\Debug\netcoreapp2.1\01. Ranking.pdb

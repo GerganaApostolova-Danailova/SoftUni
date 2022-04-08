@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\01. Sort Even Numbers _\bin\Debug\netcoreapp2.1\01. Sort Even Numbers _.deps.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\01. Sort Even Numbers _\bin\Debug\netcoreapp2.1\01. Sort Even Numbers _.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\01. Sort Even Numbers _\bin\Debug\netcoreapp2.1\01. Sort Even Numbers _.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\01. Sort Even Numbers _\bin\Debug\netcoreapp2.1\01. Sort Even Numbers _.dll
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\01. Sort Even Numbers _\bin\Debug\netcoreapp2.1\01. Sort Even Numbers _.pdb
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\01. Sort Even Numbers _\obj\Debug\netcoreapp2.1\01. Sort Even Numbers _.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\01. Sort Even Numbers _\obj\Debug\netcoreapp2.1\01. Sort Even Numbers _.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\01. Sort Even Numbers _\obj\Debug\netcoreapp2.1\01. Sort Even Numbers _.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\01. Sort Even Numbers _\obj\Debug\netcoreapp2.1\01. Sort Even Numbers _.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\01. Sort Even Numbers _\obj\Debug\netcoreapp2.1\01. Sort Even Numbers _.dll
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\01. Sort Even Numbers _\obj\Debug\netcoreapp2.1\01. Sort Even Numbers _.pdb

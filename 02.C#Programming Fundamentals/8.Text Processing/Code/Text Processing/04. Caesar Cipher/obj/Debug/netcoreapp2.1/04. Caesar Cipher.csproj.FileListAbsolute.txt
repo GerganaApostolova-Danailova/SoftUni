@@ -1,0 +1,11 @@
+D:\Geri_Programing\Text Processing\04. Caesar Cipher\bin\Debug\netcoreapp2.1\04. Caesar Cipher.deps.json
+D:\Geri_Programing\Text Processing\04. Caesar Cipher\bin\Debug\netcoreapp2.1\04. Caesar Cipher.runtimeconfig.json
+D:\Geri_Programing\Text Processing\04. Caesar Cipher\bin\Debug\netcoreapp2.1\04. Caesar Cipher.runtimeconfig.dev.json
+D:\Geri_Programing\Text Processing\04. Caesar Cipher\bin\Debug\netcoreapp2.1\04. Caesar Cipher.dll
+D:\Geri_Programing\Text Processing\04. Caesar Cipher\bin\Debug\netcoreapp2.1\04. Caesar Cipher.pdb
+D:\Geri_Programing\Text Processing\04. Caesar Cipher\obj\Debug\netcoreapp2.1\04. Caesar Cipher.csprojAssemblyReference.cache
+D:\Geri_Programing\Text Processing\04. Caesar Cipher\obj\Debug\netcoreapp2.1\04. Caesar Cipher.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Text Processing\04. Caesar Cipher\obj\Debug\netcoreapp2.1\04. Caesar Cipher.AssemblyInfoInputs.cache
+D:\Geri_Programing\Text Processing\04. Caesar Cipher\obj\Debug\netcoreapp2.1\04. Caesar Cipher.AssemblyInfo.cs
+D:\Geri_Programing\Text Processing\04. Caesar Cipher\obj\Debug\netcoreapp2.1\04. Caesar Cipher.dll
+D:\Geri_Programing\Text Processing\04. Caesar Cipher\obj\Debug\netcoreapp2.1\04. Caesar Cipher.pdb

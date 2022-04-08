@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Exams\16 April 2019\Code\16 April 2019\01. Easter Cozonacs\bin\Debug\netcoreapp2.1\01. Easter Cozonacs.deps.json
+D:\Geri_Programing\Programming Fundamentals\Exams\16 April 2019\Code\16 April 2019\01. Easter Cozonacs\bin\Debug\netcoreapp2.1\01. Easter Cozonacs.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Exams\16 April 2019\Code\16 April 2019\01. Easter Cozonacs\bin\Debug\netcoreapp2.1\01. Easter Cozonacs.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Exams\16 April 2019\Code\16 April 2019\01. Easter Cozonacs\bin\Debug\netcoreapp2.1\01. Easter Cozonacs.dll
+D:\Geri_Programing\Programming Fundamentals\Exams\16 April 2019\Code\16 April 2019\01. Easter Cozonacs\bin\Debug\netcoreapp2.1\01. Easter Cozonacs.pdb
+D:\Geri_Programing\Programming Fundamentals\Exams\16 April 2019\Code\16 April 2019\01. Easter Cozonacs\obj\Debug\netcoreapp2.1\01. Easter Cozonacs.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\16 April 2019\Code\16 April 2019\01. Easter Cozonacs\obj\Debug\netcoreapp2.1\01. Easter Cozonacs.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\16 April 2019\Code\16 April 2019\01. Easter Cozonacs\obj\Debug\netcoreapp2.1\01. Easter Cozonacs.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\16 April 2019\Code\16 April 2019\01. Easter Cozonacs\obj\Debug\netcoreapp2.1\01. Easter Cozonacs.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Exams\16 April 2019\Code\16 April 2019\01. Easter Cozonacs\obj\Debug\netcoreapp2.1\01. Easter Cozonacs.dll
+D:\Geri_Programing\Programming Fundamentals\Exams\16 April 2019\Code\16 April 2019\01. Easter Cozonacs\obj\Debug\netcoreapp2.1\01. Easter Cozonacs.pdb

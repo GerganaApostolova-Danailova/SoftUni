@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\03. House Party\bin\Debug\netcoreapp2.1\03. House Party.deps.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\03. House Party\bin\Debug\netcoreapp2.1\03. House Party.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\03. House Party\bin\Debug\netcoreapp2.1\03. House Party.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\03. House Party\bin\Debug\netcoreapp2.1\03. House Party.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\03. House Party\bin\Debug\netcoreapp2.1\03. House Party.pdb
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.1\03. House Party.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.1\03. House Party.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.1\03. House Party.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.1\03. House Party.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.1\03. House Party.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.1\03. House Party.pdb

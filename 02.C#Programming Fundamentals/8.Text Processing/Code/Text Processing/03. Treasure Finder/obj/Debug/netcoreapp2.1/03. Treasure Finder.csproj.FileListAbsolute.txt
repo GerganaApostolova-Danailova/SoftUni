@@ -1,0 +1,11 @@
+D:\Geri_Programing\Text Processing\03. Treasure Finder\bin\Debug\netcoreapp2.1\03. Treasure Finder.deps.json
+D:\Geri_Programing\Text Processing\03. Treasure Finder\bin\Debug\netcoreapp2.1\03. Treasure Finder.runtimeconfig.json
+D:\Geri_Programing\Text Processing\03. Treasure Finder\bin\Debug\netcoreapp2.1\03. Treasure Finder.runtimeconfig.dev.json
+D:\Geri_Programing\Text Processing\03. Treasure Finder\bin\Debug\netcoreapp2.1\03. Treasure Finder.dll
+D:\Geri_Programing\Text Processing\03. Treasure Finder\bin\Debug\netcoreapp2.1\03. Treasure Finder.pdb
+D:\Geri_Programing\Text Processing\03. Treasure Finder\obj\Debug\netcoreapp2.1\03. Treasure Finder.csprojAssemblyReference.cache
+D:\Geri_Programing\Text Processing\03. Treasure Finder\obj\Debug\netcoreapp2.1\03. Treasure Finder.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Text Processing\03. Treasure Finder\obj\Debug\netcoreapp2.1\03. Treasure Finder.AssemblyInfoInputs.cache
+D:\Geri_Programing\Text Processing\03. Treasure Finder\obj\Debug\netcoreapp2.1\03. Treasure Finder.AssemblyInfo.cs
+D:\Geri_Programing\Text Processing\03. Treasure Finder\obj\Debug\netcoreapp2.1\03. Treasure Finder.dll
+D:\Geri_Programing\Text Processing\03. Treasure Finder\obj\Debug\netcoreapp2.1\03. Treasure Finder.pdb

@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\EqualSumEvenOrOddPosition\bin\Debug\EqualSumEvenOrOddPosition.exe.config
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\EqualSumEvenOrOddPosition\bin\Debug\EqualSumEvenOrOddPosition.exe
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\EqualSumEvenOrOddPosition\bin\Debug\EqualSumEvenOrOddPosition.pdb
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\EqualSumEvenOrOddPosition\obj\Debug\EqualSumEvenOrOddPosition.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\EqualSumEvenOrOddPosition\obj\Debug\EqualSumEvenOrOddPosition.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\EqualSumEvenOrOddPosition\obj\Debug\EqualSumEvenOrOddPosition.exe
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\EqualSumEvenOrOddPosition\obj\Debug\EqualSumEvenOrOddPosition.pdb

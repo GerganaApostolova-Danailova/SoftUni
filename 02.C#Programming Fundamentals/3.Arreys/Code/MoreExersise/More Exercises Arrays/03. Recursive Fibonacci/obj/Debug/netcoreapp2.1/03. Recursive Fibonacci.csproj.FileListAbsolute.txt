@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\03. Recursive Fibonacci\bin\Debug\netcoreapp2.1\03. Recursive Fibonacci.deps.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\03. Recursive Fibonacci\bin\Debug\netcoreapp2.1\03. Recursive Fibonacci.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\03. Recursive Fibonacci\bin\Debug\netcoreapp2.1\03. Recursive Fibonacci.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\03. Recursive Fibonacci\bin\Debug\netcoreapp2.1\03. Recursive Fibonacci.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\03. Recursive Fibonacci\bin\Debug\netcoreapp2.1\03. Recursive Fibonacci.pdb
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\03. Recursive Fibonacci\obj\Debug\netcoreapp2.1\03. Recursive Fibonacci.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\03. Recursive Fibonacci\obj\Debug\netcoreapp2.1\03. Recursive Fibonacci.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\03. Recursive Fibonacci\obj\Debug\netcoreapp2.1\03. Recursive Fibonacci.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\03. Recursive Fibonacci\obj\Debug\netcoreapp2.1\03. Recursive Fibonacci.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\03. Recursive Fibonacci\obj\Debug\netcoreapp2.1\03. Recursive Fibonacci.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\03. Recursive Fibonacci\obj\Debug\netcoreapp2.1\03. Recursive Fibonacci.pdb

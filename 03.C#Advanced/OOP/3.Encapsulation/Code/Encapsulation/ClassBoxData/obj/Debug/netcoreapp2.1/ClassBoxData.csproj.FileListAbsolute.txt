@@ -1,0 +1,10 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\ClassBoxData\bin\Debug\netcoreapp2.1\ClassBoxData.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\ClassBoxData\bin\Debug\netcoreapp2.1\ClassBoxData.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\ClassBoxData\bin\Debug\netcoreapp2.1\ClassBoxData.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\ClassBoxData\bin\Debug\netcoreapp2.1\ClassBoxData.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\ClassBoxData\bin\Debug\netcoreapp2.1\ClassBoxData.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\ClassBoxData\obj\Debug\netcoreapp2.1\ClassBoxData.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\ClassBoxData\obj\Debug\netcoreapp2.1\ClassBoxData.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\ClassBoxData\obj\Debug\netcoreapp2.1\ClassBoxData.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\ClassBoxData\obj\Debug\netcoreapp2.1\ClassBoxData.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\ClassBoxData\obj\Debug\netcoreapp2.1\ClassBoxData.pdb

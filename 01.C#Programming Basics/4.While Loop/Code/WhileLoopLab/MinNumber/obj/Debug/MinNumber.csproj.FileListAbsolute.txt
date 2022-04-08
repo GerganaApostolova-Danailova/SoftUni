@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture Four\Code\WhileLoopLab\MinNumber\bin\Debug\MinNumber.exe.config
+D:\Geri_Programing\Lecture Four\Code\WhileLoopLab\MinNumber\bin\Debug\MinNumber.exe
+D:\Geri_Programing\Lecture Four\Code\WhileLoopLab\MinNumber\bin\Debug\MinNumber.pdb
+D:\Geri_Programing\Lecture Four\Code\WhileLoopLab\MinNumber\obj\Debug\MinNumber.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture Four\Code\WhileLoopLab\MinNumber\obj\Debug\MinNumber.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Four\Code\WhileLoopLab\MinNumber\obj\Debug\MinNumber.exe
+D:\Geri_Programing\Lecture Four\Code\WhileLoopLab\MinNumber\obj\Debug\MinNumber.pdb

@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp2.1\05. Add and Subtract.deps.json
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp2.1\05. Add and Subtract.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp2.1\05. Add and Subtract.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp2.1\05. Add and Subtract.dll
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp2.1\05. Add and Subtract.pdb
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp2.1\05. Add and Subtract.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp2.1\05. Add and Subtract.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp2.1\05. Add and Subtract.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp2.1\05. Add and Subtract.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp2.1\05. Add and Subtract.dll
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp2.1\05. Add and Subtract.pdb

@@ -1,0 +1,10 @@
+D:\Geri_Programing\Stacks and Queues\6. Hot Potato\bin\Debug\netcoreapp2.1\6. Hot Potato.deps.json
+D:\Geri_Programing\Stacks and Queues\6. Hot Potato\bin\Debug\netcoreapp2.1\6. Hot Potato.runtimeconfig.json
+D:\Geri_Programing\Stacks and Queues\6. Hot Potato\bin\Debug\netcoreapp2.1\6. Hot Potato.runtimeconfig.dev.json
+D:\Geri_Programing\Stacks and Queues\6. Hot Potato\bin\Debug\netcoreapp2.1\6. Hot Potato.dll
+D:\Geri_Programing\Stacks and Queues\6. Hot Potato\bin\Debug\netcoreapp2.1\6. Hot Potato.pdb
+D:\Geri_Programing\Stacks and Queues\6. Hot Potato\obj\Debug\netcoreapp2.1\6. Hot Potato.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Stacks and Queues\6. Hot Potato\obj\Debug\netcoreapp2.1\6. Hot Potato.AssemblyInfoInputs.cache
+D:\Geri_Programing\Stacks and Queues\6. Hot Potato\obj\Debug\netcoreapp2.1\6. Hot Potato.AssemblyInfo.cs
+D:\Geri_Programing\Stacks and Queues\6. Hot Potato\obj\Debug\netcoreapp2.1\6. Hot Potato.dll
+D:\Geri_Programing\Stacks and Queues\6. Hot Potato\obj\Debug\netcoreapp2.1\6. Hot Potato.pdb

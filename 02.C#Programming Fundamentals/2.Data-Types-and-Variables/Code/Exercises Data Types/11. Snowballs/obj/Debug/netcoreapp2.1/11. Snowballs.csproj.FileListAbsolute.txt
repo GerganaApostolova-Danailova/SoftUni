@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\11. Snowballs\bin\Debug\netcoreapp2.1\11. Snowballs.deps.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\11. Snowballs\bin\Debug\netcoreapp2.1\11. Snowballs.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\11. Snowballs\bin\Debug\netcoreapp2.1\11. Snowballs.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\11. Snowballs\bin\Debug\netcoreapp2.1\11. Snowballs.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\11. Snowballs\bin\Debug\netcoreapp2.1\11. Snowballs.pdb
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\11. Snowballs\obj\Debug\netcoreapp2.1\11. Snowballs.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\11. Snowballs\obj\Debug\netcoreapp2.1\11. Snowballs.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\11. Snowballs\obj\Debug\netcoreapp2.1\11. Snowballs.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\11. Snowballs\obj\Debug\netcoreapp2.1\11. Snowballs.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\11. Snowballs\obj\Debug\netcoreapp2.1\11. Snowballs.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\11. Snowballs\obj\Debug\netcoreapp2.1\11. Snowballs.pdb

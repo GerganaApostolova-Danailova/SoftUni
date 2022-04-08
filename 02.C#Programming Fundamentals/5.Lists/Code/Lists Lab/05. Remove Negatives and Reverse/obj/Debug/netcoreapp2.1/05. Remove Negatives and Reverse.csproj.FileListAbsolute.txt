@@ -1,0 +1,10 @@
+D:\Geri_Programing\Lists Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.deps.json
+D:\Geri_Programing\Lists Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.runtimeconfig.json
+D:\Geri_Programing\Lists Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.runtimeconfig.dev.json
+D:\Geri_Programing\Lists Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.dll
+D:\Geri_Programing\Lists Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.pdb
+D:\Geri_Programing\Lists Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lists Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+D:\Geri_Programing\Lists Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.AssemblyInfo.cs
+D:\Geri_Programing\Lists Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.dll
+D:\Geri_Programing\Lists Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.pdb

@@ -1,0 +1,7 @@
+D:\Geri_Programing\Exams\9-10 Mart\Code\exam\Darst\bin\Debug\Darst.exe.config
+D:\Geri_Programing\Exams\9-10 Mart\Code\exam\Darst\bin\Debug\Darst.exe
+D:\Geri_Programing\Exams\9-10 Mart\Code\exam\Darst\bin\Debug\Darst.pdb
+D:\Geri_Programing\Exams\9-10 Mart\Code\exam\Darst\obj\Debug\Darst.csprojAssemblyReference.cache
+D:\Geri_Programing\Exams\9-10 Mart\Code\exam\Darst\obj\Debug\Darst.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Exams\9-10 Mart\Code\exam\Darst\obj\Debug\Darst.exe
+D:\Geri_Programing\Exams\9-10 Mart\Code\exam\Darst\obj\Debug\Darst.pdb

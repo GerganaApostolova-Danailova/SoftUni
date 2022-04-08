@@ -1,0 +1,11 @@
+D:\Geri_Programing\Text Processing\01. Extract Person Information\bin\Debug\netcoreapp2.1\01. Extract Person Information.deps.json
+D:\Geri_Programing\Text Processing\01. Extract Person Information\bin\Debug\netcoreapp2.1\01. Extract Person Information.runtimeconfig.json
+D:\Geri_Programing\Text Processing\01. Extract Person Information\bin\Debug\netcoreapp2.1\01. Extract Person Information.runtimeconfig.dev.json
+D:\Geri_Programing\Text Processing\01. Extract Person Information\bin\Debug\netcoreapp2.1\01. Extract Person Information.dll
+D:\Geri_Programing\Text Processing\01. Extract Person Information\bin\Debug\netcoreapp2.1\01. Extract Person Information.pdb
+D:\Geri_Programing\Text Processing\01. Extract Person Information\obj\Debug\netcoreapp2.1\01. Extract Person Information.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Text Processing\01. Extract Person Information\obj\Debug\netcoreapp2.1\01. Extract Person Information.AssemblyInfoInputs.cache
+D:\Geri_Programing\Text Processing\01. Extract Person Information\obj\Debug\netcoreapp2.1\01. Extract Person Information.AssemblyInfo.cs
+D:\Geri_Programing\Text Processing\01. Extract Person Information\obj\Debug\netcoreapp2.1\01. Extract Person Information.dll
+D:\Geri_Programing\Text Processing\01. Extract Person Information\obj\Debug\netcoreapp2.1\01. Extract Person Information.pdb
+D:\Geri_Programing\Text Processing\01. Extract Person Information\obj\Debug\netcoreapp2.1\01. Extract Person Information.csprojAssemblyReference.cache

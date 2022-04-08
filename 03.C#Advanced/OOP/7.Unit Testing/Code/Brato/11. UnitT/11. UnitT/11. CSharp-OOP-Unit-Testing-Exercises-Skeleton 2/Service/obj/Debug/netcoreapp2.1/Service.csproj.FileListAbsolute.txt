@@ -1,0 +1,8 @@
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\Service\bin\Debug\netcoreapp2.1\Service.deps.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\Service\bin\Debug\netcoreapp2.1\Service.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\Service\bin\Debug\netcoreapp2.1\Service.pdb
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\Service\obj\Debug\netcoreapp2.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\Service\obj\Debug\netcoreapp2.1\Service.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\Service\obj\Debug\netcoreapp2.1\Service.pdb

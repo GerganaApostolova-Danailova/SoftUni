@@ -1,0 +1,12 @@
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.exe
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.deps.json
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.runtimeconfig.json
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.runtimeconfig.dev.json
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.dll
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.pdb
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.AssemblyInfoInputs.cache
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.AssemblyInfo.cs
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.csproj.CoreCompileInputs.cache
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.dll
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.pdb
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.genruntimeconfig.cache

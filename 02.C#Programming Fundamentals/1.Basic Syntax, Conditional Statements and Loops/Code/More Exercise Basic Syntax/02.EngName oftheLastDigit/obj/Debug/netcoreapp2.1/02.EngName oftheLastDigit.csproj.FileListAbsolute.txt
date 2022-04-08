@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\02.EngName oftheLastDigit\bin\Debug\netcoreapp2.1\02.EngName oftheLastDigit.deps.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\02.EngName oftheLastDigit\bin\Debug\netcoreapp2.1\02.EngName oftheLastDigit.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\02.EngName oftheLastDigit\bin\Debug\netcoreapp2.1\02.EngName oftheLastDigit.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\02.EngName oftheLastDigit\bin\Debug\netcoreapp2.1\02.EngName oftheLastDigit.dll
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\02.EngName oftheLastDigit\bin\Debug\netcoreapp2.1\02.EngName oftheLastDigit.pdb
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\02.EngName oftheLastDigit\obj\Debug\netcoreapp2.1\02.EngName oftheLastDigit.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\02.EngName oftheLastDigit\obj\Debug\netcoreapp2.1\02.EngName oftheLastDigit.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\02.EngName oftheLastDigit\obj\Debug\netcoreapp2.1\02.EngName oftheLastDigit.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\02.EngName oftheLastDigit\obj\Debug\netcoreapp2.1\02.EngName oftheLastDigit.dll
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\02.EngName oftheLastDigit\obj\Debug\netcoreapp2.1\02.EngName oftheLastDigit.pdb

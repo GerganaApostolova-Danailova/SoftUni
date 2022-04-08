@@ -1,0 +1,11 @@
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\10. SoftUni Exam Results\bin\Debug\netcoreapp2.1\10. SoftUni Exam Results.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\10. SoftUni Exam Results\bin\Debug\netcoreapp2.1\10. SoftUni Exam Results.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\10. SoftUni Exam Results\bin\Debug\netcoreapp2.1\10. SoftUni Exam Results.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\10. SoftUni Exam Results\bin\Debug\netcoreapp2.1\10. SoftUni Exam Results.dll
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\10. SoftUni Exam Results\bin\Debug\netcoreapp2.1\10. SoftUni Exam Results.pdb
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp2.1\10. SoftUni Exam Results.csprojAssemblyReference.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp2.1\10. SoftUni Exam Results.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp2.1\10. SoftUni Exam Results.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp2.1\10. SoftUni Exam Results.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp2.1\10. SoftUni Exam Results.dll
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp2.1\10. SoftUni Exam Results.pdb

@@ -1,0 +1,10 @@
+D:\Geri_Programing\Objects and Classes\07. Order by Age\bin\Debug\netcoreapp2.1\07. Order by Age.deps.json
+D:\Geri_Programing\Objects and Classes\07. Order by Age\bin\Debug\netcoreapp2.1\07. Order by Age.runtimeconfig.json
+D:\Geri_Programing\Objects and Classes\07. Order by Age\bin\Debug\netcoreapp2.1\07. Order by Age.runtimeconfig.dev.json
+D:\Geri_Programing\Objects and Classes\07. Order by Age\bin\Debug\netcoreapp2.1\07. Order by Age.dll
+D:\Geri_Programing\Objects and Classes\07. Order by Age\bin\Debug\netcoreapp2.1\07. Order by Age.pdb
+D:\Geri_Programing\Objects and Classes\07. Order by Age\obj\Debug\netcoreapp2.1\07. Order by Age.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Objects and Classes\07. Order by Age\obj\Debug\netcoreapp2.1\07. Order by Age.AssemblyInfoInputs.cache
+D:\Geri_Programing\Objects and Classes\07. Order by Age\obj\Debug\netcoreapp2.1\07. Order by Age.AssemblyInfo.cs
+D:\Geri_Programing\Objects and Classes\07. Order by Age\obj\Debug\netcoreapp2.1\07. Order by Age.dll
+D:\Geri_Programing\Objects and Classes\07. Order by Age\obj\Debug\netcoreapp2.1\07. Order by Age.pdb

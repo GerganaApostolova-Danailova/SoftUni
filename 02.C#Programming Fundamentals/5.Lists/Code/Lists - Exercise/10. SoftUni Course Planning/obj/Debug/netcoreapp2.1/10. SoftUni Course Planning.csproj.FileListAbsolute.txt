@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp2.1\10. SoftUni Course Planning.deps.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp2.1\10. SoftUni Course Planning.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp2.1\10. SoftUni Course Planning.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp2.1\10. SoftUni Course Planning.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp2.1\10. SoftUni Course Planning.pdb
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp2.1\10. SoftUni Course Planning.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp2.1\10. SoftUni Course Planning.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp2.1\10. SoftUni Course Planning.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp2.1\10. SoftUni Course Planning.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp2.1\10. SoftUni Course Planning.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp2.1\10. SoftUni Course Planning.pdb

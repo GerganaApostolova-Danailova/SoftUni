@@ -1,0 +1,9 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Unit Testing\Code\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\bin\Debug\netcoreapp2.1\Database.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Unit Testing\Code\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\bin\Debug\netcoreapp2.1\Database.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Unit Testing\Code\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\bin\Debug\netcoreapp2.1\Database.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Unit Testing\Code\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\obj\Debug\netcoreapp2.1\Database.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Unit Testing\Code\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\obj\Debug\netcoreapp2.1\Database.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Unit Testing\Code\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Unit Testing\Code\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Unit Testing\Code\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\obj\Debug\netcoreapp2.1\Database.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Unit Testing\Code\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\obj\Debug\netcoreapp2.1\Database.pdb

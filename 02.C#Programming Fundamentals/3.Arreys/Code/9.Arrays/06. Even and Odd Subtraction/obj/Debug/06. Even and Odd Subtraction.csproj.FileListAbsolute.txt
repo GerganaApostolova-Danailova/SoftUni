@@ -1,0 +1,6 @@
+C:\Users\Tceci\source\repos\9.Arrays\06. Even and Odd Subtraction\bin\Debug\_06.Even_and_Odd_Subtraction.exe.config
+C:\Users\Tceci\source\repos\9.Arrays\06. Even and Odd Subtraction\bin\Debug\_06.Even_and_Odd_Subtraction.exe
+C:\Users\Tceci\source\repos\9.Arrays\06. Even and Odd Subtraction\bin\Debug\_06.Even_and_Odd_Subtraction.pdb
+C:\Users\Tceci\source\repos\9.Arrays\06. Even and Odd Subtraction\obj\Debug\06. Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\Tceci\source\repos\9.Arrays\06. Even and Odd Subtraction\obj\Debug\_06.Even_and_Odd_Subtraction.exe
+C:\Users\Tceci\source\repos\9.Arrays\06. Even and Odd Subtraction\obj\Debug\_06.Even_and_Odd_Subtraction.pdb

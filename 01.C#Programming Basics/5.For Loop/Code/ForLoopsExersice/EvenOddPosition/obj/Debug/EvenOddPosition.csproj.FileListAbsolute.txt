@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\EvenOddPosition\bin\Debug\EvenOddPosition.exe.config
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\EvenOddPosition\bin\Debug\EvenOddPosition.exe
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\EvenOddPosition\bin\Debug\EvenOddPosition.pdb
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\EvenOddPosition\obj\Debug\EvenOddPosition.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\EvenOddPosition\obj\Debug\EvenOddPosition.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\EvenOddPosition\obj\Debug\EvenOddPosition.exe
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\EvenOddPosition\obj\Debug\EvenOddPosition.pdb

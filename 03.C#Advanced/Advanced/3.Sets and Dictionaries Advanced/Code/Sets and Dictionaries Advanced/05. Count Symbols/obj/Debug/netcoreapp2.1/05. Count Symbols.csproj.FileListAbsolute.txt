@@ -1,0 +1,10 @@
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\05. Count Symbols\bin\Debug\netcoreapp2.1\05. Count Symbols.deps.json
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\05. Count Symbols\bin\Debug\netcoreapp2.1\05. Count Symbols.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\05. Count Symbols\bin\Debug\netcoreapp2.1\05. Count Symbols.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\05. Count Symbols\bin\Debug\netcoreapp2.1\05. Count Symbols.dll
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\05. Count Symbols\bin\Debug\netcoreapp2.1\05. Count Symbols.pdb
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\05. Count Symbols\obj\Debug\netcoreapp2.1\05. Count Symbols.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\05. Count Symbols\obj\Debug\netcoreapp2.1\05. Count Symbols.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\05. Count Symbols\obj\Debug\netcoreapp2.1\05. Count Symbols.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\05. Count Symbols\obj\Debug\netcoreapp2.1\05. Count Symbols.dll
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\05. Count Symbols\obj\Debug\netcoreapp2.1\05. Count Symbols.pdb

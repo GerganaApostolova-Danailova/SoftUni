@@ -1,0 +1,6 @@
+D:\Geri_Programing\Lecture Five\Code\ForLoopsLab\VowelsSum\bin\Debug\VowelsSum.exe.config
+D:\Geri_Programing\Lecture Five\Code\ForLoopsLab\VowelsSum\bin\Debug\VowelsSum.exe
+D:\Geri_Programing\Lecture Five\Code\ForLoopsLab\VowelsSum\bin\Debug\VowelsSum.pdb
+D:\Geri_Programing\Lecture Five\Code\ForLoopsLab\VowelsSum\obj\Debug\VowelsSum.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Five\Code\ForLoopsLab\VowelsSum\obj\Debug\VowelsSum.exe
+D:\Geri_Programing\Lecture Five\Code\ForLoopsLab\VowelsSum\obj\Debug\VowelsSum.pdb

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "aRoGULcxlD1nQkKtyLMzJ5TioPkRGLDetxhQ81JeHT6fsR8mjIu/HsRuqJ6/KXkjkzzy+ZU/8OTWb3hlVPazqg==",
+  "success": true,
+  "projectFilePath": "C:\\Geri_Programing\\03.C#Advanced\\Advanced\\Multidimensional Arrays\\Code\\1. Diagonal Difference\\1. Diagonal Difference.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

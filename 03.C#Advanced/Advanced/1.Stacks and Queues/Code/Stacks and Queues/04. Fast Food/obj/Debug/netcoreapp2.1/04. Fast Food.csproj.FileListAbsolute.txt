@@ -1,0 +1,11 @@
+D:\Geri_Programing\Stacks and Queues\04. Fast Food\bin\Debug\netcoreapp2.1\04. Fast Food.deps.json
+D:\Geri_Programing\Stacks and Queues\04. Fast Food\bin\Debug\netcoreapp2.1\04. Fast Food.runtimeconfig.json
+D:\Geri_Programing\Stacks and Queues\04. Fast Food\bin\Debug\netcoreapp2.1\04. Fast Food.runtimeconfig.dev.json
+D:\Geri_Programing\Stacks and Queues\04. Fast Food\bin\Debug\netcoreapp2.1\04. Fast Food.dll
+D:\Geri_Programing\Stacks and Queues\04. Fast Food\bin\Debug\netcoreapp2.1\04. Fast Food.pdb
+D:\Geri_Programing\Stacks and Queues\04. Fast Food\obj\Debug\netcoreapp2.1\04. Fast Food.csprojAssemblyReference.cache
+D:\Geri_Programing\Stacks and Queues\04. Fast Food\obj\Debug\netcoreapp2.1\04. Fast Food.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Stacks and Queues\04. Fast Food\obj\Debug\netcoreapp2.1\04. Fast Food.AssemblyInfoInputs.cache
+D:\Geri_Programing\Stacks and Queues\04. Fast Food\obj\Debug\netcoreapp2.1\04. Fast Food.AssemblyInfo.cs
+D:\Geri_Programing\Stacks and Queues\04. Fast Food\obj\Debug\netcoreapp2.1\04. Fast Food.dll
+D:\Geri_Programing\Stacks and Queues\04. Fast Food\obj\Debug\netcoreapp2.1\04. Fast Food.pdb

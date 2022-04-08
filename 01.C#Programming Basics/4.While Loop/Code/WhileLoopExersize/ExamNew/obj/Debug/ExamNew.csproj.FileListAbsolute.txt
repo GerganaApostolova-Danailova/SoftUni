@@ -1,0 +1,6 @@
+D:\Geri_Programing\Lecture Four\Code\WhileLoopExersize\ExamNew\bin\Debug\ExamNew.exe.config
+D:\Geri_Programing\Lecture Four\Code\WhileLoopExersize\ExamNew\bin\Debug\ExamNew.exe
+D:\Geri_Programing\Lecture Four\Code\WhileLoopExersize\ExamNew\bin\Debug\ExamNew.pdb
+D:\Geri_Programing\Lecture Four\Code\WhileLoopExersize\ExamNew\obj\Debug\ExamNew.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Four\Code\WhileLoopExersize\ExamNew\obj\Debug\ExamNew.exe
+D:\Geri_Programing\Lecture Four\Code\WhileLoopExersize\ExamNew\obj\Debug\ExamNew.pdb

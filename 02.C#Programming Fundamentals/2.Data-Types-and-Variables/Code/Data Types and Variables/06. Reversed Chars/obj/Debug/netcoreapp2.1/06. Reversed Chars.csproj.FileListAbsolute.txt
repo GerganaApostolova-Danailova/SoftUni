@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\06. Reversed Chars\bin\Debug\netcoreapp2.1\06. Reversed Chars.deps.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\06. Reversed Chars\bin\Debug\netcoreapp2.1\06. Reversed Chars.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\06. Reversed Chars\bin\Debug\netcoreapp2.1\06. Reversed Chars.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\06. Reversed Chars\bin\Debug\netcoreapp2.1\06. Reversed Chars.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\06. Reversed Chars\bin\Debug\netcoreapp2.1\06. Reversed Chars.pdb
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\06. Reversed Chars\obj\Debug\netcoreapp2.1\06. Reversed Chars.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\06. Reversed Chars\obj\Debug\netcoreapp2.1\06. Reversed Chars.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\06. Reversed Chars\obj\Debug\netcoreapp2.1\06. Reversed Chars.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\06. Reversed Chars\obj\Debug\netcoreapp2.1\06. Reversed Chars.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\06. Reversed Chars\obj\Debug\netcoreapp2.1\06. Reversed Chars.pdb

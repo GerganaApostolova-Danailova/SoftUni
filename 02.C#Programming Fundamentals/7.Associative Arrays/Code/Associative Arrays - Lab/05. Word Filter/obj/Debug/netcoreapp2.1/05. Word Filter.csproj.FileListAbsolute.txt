@@ -1,0 +1,10 @@
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Lab\05. Word Filter\bin\Debug\netcoreapp2.1\05. Word Filter.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Lab\05. Word Filter\bin\Debug\netcoreapp2.1\05. Word Filter.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Lab\05. Word Filter\bin\Debug\netcoreapp2.1\05. Word Filter.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Lab\05. Word Filter\bin\Debug\netcoreapp2.1\05. Word Filter.dll
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Lab\05. Word Filter\bin\Debug\netcoreapp2.1\05. Word Filter.pdb
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Lab\05. Word Filter\obj\Debug\netcoreapp2.1\05. Word Filter.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Lab\05. Word Filter\obj\Debug\netcoreapp2.1\05. Word Filter.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Lab\05. Word Filter\obj\Debug\netcoreapp2.1\05. Word Filter.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Lab\05. Word Filter\obj\Debug\netcoreapp2.1\05. Word Filter.dll
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Lab\05. Word Filter\obj\Debug\netcoreapp2.1\05. Word Filter.pdb

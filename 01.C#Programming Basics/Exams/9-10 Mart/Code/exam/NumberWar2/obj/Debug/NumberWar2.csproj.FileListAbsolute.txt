@@ -1,0 +1,7 @@
+D:\Geri_Programing\Exams\9-10 Mart\Code\exam\NumberWar2\bin\Debug\NumberWar2.exe.config
+D:\Geri_Programing\Exams\9-10 Mart\Code\exam\NumberWar2\bin\Debug\NumberWar2.exe
+D:\Geri_Programing\Exams\9-10 Mart\Code\exam\NumberWar2\bin\Debug\NumberWar2.pdb
+D:\Geri_Programing\Exams\9-10 Mart\Code\exam\NumberWar2\obj\Debug\NumberWar2.csprojAssemblyReference.cache
+D:\Geri_Programing\Exams\9-10 Mart\Code\exam\NumberWar2\obj\Debug\NumberWar2.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Exams\9-10 Mart\Code\exam\NumberWar2\obj\Debug\NumberWar2.exe
+D:\Geri_Programing\Exams\9-10 Mart\Code\exam\NumberWar2\obj\Debug\NumberWar2.pdb

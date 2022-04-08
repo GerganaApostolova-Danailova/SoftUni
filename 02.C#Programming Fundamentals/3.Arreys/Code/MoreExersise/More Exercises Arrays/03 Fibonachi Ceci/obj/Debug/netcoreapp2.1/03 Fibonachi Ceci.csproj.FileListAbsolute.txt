@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\03 Fibonachi Ceci\bin\Debug\netcoreapp2.1\03 Fibonachi Ceci.deps.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\03 Fibonachi Ceci\bin\Debug\netcoreapp2.1\03 Fibonachi Ceci.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\03 Fibonachi Ceci\bin\Debug\netcoreapp2.1\03 Fibonachi Ceci.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\03 Fibonachi Ceci\bin\Debug\netcoreapp2.1\03 Fibonachi Ceci.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\03 Fibonachi Ceci\bin\Debug\netcoreapp2.1\03 Fibonachi Ceci.pdb
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\03 Fibonachi Ceci\obj\Debug\netcoreapp2.1\03 Fibonachi Ceci.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\03 Fibonachi Ceci\obj\Debug\netcoreapp2.1\03 Fibonachi Ceci.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\03 Fibonachi Ceci\obj\Debug\netcoreapp2.1\03 Fibonachi Ceci.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\03 Fibonachi Ceci\obj\Debug\netcoreapp2.1\03 Fibonachi Ceci.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\03 Fibonachi Ceci\obj\Debug\netcoreapp2.1\03 Fibonachi Ceci.pdb

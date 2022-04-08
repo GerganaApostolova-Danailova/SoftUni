@@ -1,0 +1,11 @@
+D:\Geri_Programing\Text Processing\02. Character Multiplier\bin\Debug\netcoreapp2.1\02. Character Multiplier.deps.json
+D:\Geri_Programing\Text Processing\02. Character Multiplier\bin\Debug\netcoreapp2.1\02. Character Multiplier.runtimeconfig.json
+D:\Geri_Programing\Text Processing\02. Character Multiplier\bin\Debug\netcoreapp2.1\02. Character Multiplier.runtimeconfig.dev.json
+D:\Geri_Programing\Text Processing\02. Character Multiplier\bin\Debug\netcoreapp2.1\02. Character Multiplier.dll
+D:\Geri_Programing\Text Processing\02. Character Multiplier\bin\Debug\netcoreapp2.1\02. Character Multiplier.pdb
+D:\Geri_Programing\Text Processing\02. Character Multiplier\obj\Debug\netcoreapp2.1\02. Character Multiplier.csprojAssemblyReference.cache
+D:\Geri_Programing\Text Processing\02. Character Multiplier\obj\Debug\netcoreapp2.1\02. Character Multiplier.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Text Processing\02. Character Multiplier\obj\Debug\netcoreapp2.1\02. Character Multiplier.AssemblyInfoInputs.cache
+D:\Geri_Programing\Text Processing\02. Character Multiplier\obj\Debug\netcoreapp2.1\02. Character Multiplier.AssemblyInfo.cs
+D:\Geri_Programing\Text Processing\02. Character Multiplier\obj\Debug\netcoreapp2.1\02. Character Multiplier.dll
+D:\Geri_Programing\Text Processing\02. Character Multiplier\obj\Debug\netcoreapp2.1\02. Character Multiplier.pdb

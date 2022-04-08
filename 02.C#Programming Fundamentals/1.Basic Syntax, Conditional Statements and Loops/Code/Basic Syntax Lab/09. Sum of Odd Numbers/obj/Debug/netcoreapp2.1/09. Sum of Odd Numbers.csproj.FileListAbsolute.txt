@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp2.1\09. Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp2.1\09. Sum of Odd Numbers.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp2.1\09. Sum of Odd Numbers.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\09. Sum of Odd Numbers\bin\Debug\netcoreapp2.1\09. Sum of Odd Numbers.deps.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\09. Sum of Odd Numbers\bin\Debug\netcoreapp2.1\09. Sum of Odd Numbers.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\09. Sum of Odd Numbers\bin\Debug\netcoreapp2.1\09. Sum of Odd Numbers.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\09. Sum of Odd Numbers\bin\Debug\netcoreapp2.1\09. Sum of Odd Numbers.dll
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\09. Sum of Odd Numbers\bin\Debug\netcoreapp2.1\09. Sum of Odd Numbers.pdb
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp2.1\09. Sum of Odd Numbers.dll
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp2.1\09. Sum of Odd Numbers.pdb

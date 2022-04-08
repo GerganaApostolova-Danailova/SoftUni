@@ -1,0 +1,11 @@
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp2.1\02. Match Phone Number.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp2.1\02. Match Phone Number.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp2.1\02. Match Phone Number.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp2.1\02. Match Phone Number.dll
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp2.1\02. Match Phone Number.pdb
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp2.1\02. Match Phone Number.csprojAssemblyReference.cache
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp2.1\02. Match Phone Number.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp2.1\02. Match Phone Number.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp2.1\02. Match Phone Number.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp2.1\02. Match Phone Number.dll
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp2.1\02. Match Phone Number.pdb

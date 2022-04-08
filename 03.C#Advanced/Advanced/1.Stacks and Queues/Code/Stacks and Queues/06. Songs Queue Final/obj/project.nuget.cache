@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "4otWczdn7ZLI9vc3x0GIGu4OlrCUAU8Du4+QAXppB91iYMneY1klg7GmagZulC87qNg2o/O/GSYPo0wwCCxvJw==",
+  "success": true,
+  "projectFilePath": "C:\\Geri_Programing\\03.C#Advanced\\Advanced\\Stacks and Queues\\Code\\Stacks and Queues\\06. Songs Queue Final\\06. Songs Queue Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\04. Orders\bin\Debug\netcoreapp2.1\04. Orders.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\04. Orders\bin\Debug\netcoreapp2.1\04. Orders.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\04. Orders\bin\Debug\netcoreapp2.1\04. Orders.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\04. Orders\bin\Debug\netcoreapp2.1\04. Orders.dll
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\04. Orders\bin\Debug\netcoreapp2.1\04. Orders.pdb
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\04. Orders\obj\Debug\netcoreapp2.1\04. Orders.csprojAssemblyReference.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\04. Orders\obj\Debug\netcoreapp2.1\04. Orders.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\04. Orders\obj\Debug\netcoreapp2.1\04. Orders.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\04. Orders\obj\Debug\netcoreapp2.1\04. Orders.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\04. Orders\obj\Debug\netcoreapp2.1\04. Orders.dll
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\04. Orders\obj\Debug\netcoreapp2.1\04. Orders.pdb

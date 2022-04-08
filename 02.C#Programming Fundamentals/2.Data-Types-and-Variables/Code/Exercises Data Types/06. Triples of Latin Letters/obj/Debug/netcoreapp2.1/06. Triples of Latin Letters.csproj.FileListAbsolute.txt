@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\06. Triples of Latin Letters\bin\Debug\netcoreapp2.1\06. Triples of Latin Letters.deps.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\06. Triples of Latin Letters\bin\Debug\netcoreapp2.1\06. Triples of Latin Letters.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\06. Triples of Latin Letters\bin\Debug\netcoreapp2.1\06. Triples of Latin Letters.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\06. Triples of Latin Letters\bin\Debug\netcoreapp2.1\06. Triples of Latin Letters.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\06. Triples of Latin Letters\bin\Debug\netcoreapp2.1\06. Triples of Latin Letters.pdb
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\06. Triples of Latin Letters\obj\Debug\netcoreapp2.1\06. Triples of Latin Letters.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\06. Triples of Latin Letters\obj\Debug\netcoreapp2.1\06. Triples of Latin Letters.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\06. Triples of Latin Letters\obj\Debug\netcoreapp2.1\06. Triples of Latin Letters.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\06. Triples of Latin Letters\obj\Debug\netcoreapp2.1\06. Triples of Latin Letters.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\06. Triples of Latin Letters\obj\Debug\netcoreapp2.1\06. Triples of Latin Letters.pdb

@@ -1,0 +1,12 @@
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.exe
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.deps.json
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.runtimeconfig.json
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.runtimeconfig.dev.json
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.dll
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.pdb
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.AssemblyInfoInputs.cache
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.AssemblyInfo.cs
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.csproj.CoreCompileInputs.cache
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.dll
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.pdb
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.1\05. Bomb Numbers.deps.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.1\05. Bomb Numbers.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.1\05. Bomb Numbers.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.1\05. Bomb Numbers.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.1\05. Bomb Numbers.pdb
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.1\05. Bomb Numbers.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.1\05. Bomb Numbers.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.1\05. Bomb Numbers.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.1\05. Bomb Numbers.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.1\05. Bomb Numbers.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.1\05. Bomb Numbers.pdb

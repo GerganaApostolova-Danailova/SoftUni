@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Exams\Exam_30062019\Two\bin\Debug\netcoreapp2.1\Froggy Squad.deps.json
+D:\Geri_Programing\Programming Fundamentals\Exams\Exam_30062019\Two\bin\Debug\netcoreapp2.1\Froggy Squad.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Exams\Exam_30062019\Two\bin\Debug\netcoreapp2.1\Froggy Squad.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Exams\Exam_30062019\Two\bin\Debug\netcoreapp2.1\Froggy Squad.dll
+D:\Geri_Programing\Programming Fundamentals\Exams\Exam_30062019\Two\bin\Debug\netcoreapp2.1\Froggy Squad.pdb
+D:\Geri_Programing\Programming Fundamentals\Exams\Exam_30062019\Two\obj\Debug\netcoreapp2.1\Froggy Squad.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\Exam_30062019\Two\obj\Debug\netcoreapp2.1\Froggy Squad.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\Exam_30062019\Two\obj\Debug\netcoreapp2.1\Froggy Squad.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\Exam_30062019\Two\obj\Debug\netcoreapp2.1\Froggy Squad.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Exams\Exam_30062019\Two\obj\Debug\netcoreapp2.1\Froggy Squad.dll
+D:\Geri_Programing\Programming Fundamentals\Exams\Exam_30062019\Two\obj\Debug\netcoreapp2.1\Froggy Squad.pdb

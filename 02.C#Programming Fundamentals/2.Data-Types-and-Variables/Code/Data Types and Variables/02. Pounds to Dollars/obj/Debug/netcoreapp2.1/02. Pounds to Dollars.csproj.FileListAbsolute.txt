@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\02. Pounds to Dollars\bin\Debug\netcoreapp2.1\02. Pounds to Dollars.deps.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\02. Pounds to Dollars\bin\Debug\netcoreapp2.1\02. Pounds to Dollars.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\02. Pounds to Dollars\bin\Debug\netcoreapp2.1\02. Pounds to Dollars.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\02. Pounds to Dollars\bin\Debug\netcoreapp2.1\02. Pounds to Dollars.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\02. Pounds to Dollars\bin\Debug\netcoreapp2.1\02. Pounds to Dollars.pdb
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\02. Pounds to Dollars\obj\Debug\netcoreapp2.1\02. Pounds to Dollars.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\02. Pounds to Dollars\obj\Debug\netcoreapp2.1\02. Pounds to Dollars.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\02. Pounds to Dollars\obj\Debug\netcoreapp2.1\02. Pounds to Dollars.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\02. Pounds to Dollars\obj\Debug\netcoreapp2.1\02. Pounds to Dollars.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\02. Pounds to Dollars\obj\Debug\netcoreapp2.1\02. Pounds to Dollars.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\02. Pounds to Dollars\obj\Debug\netcoreapp2.1\02. Pounds to Dollars.pdb

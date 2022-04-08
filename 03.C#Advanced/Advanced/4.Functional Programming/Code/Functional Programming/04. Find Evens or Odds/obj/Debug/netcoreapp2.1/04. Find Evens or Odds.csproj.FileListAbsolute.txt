@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.deps.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.dll
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.pdb
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.dll
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.pdb

@@ -1,0 +1,11 @@
+D:\Geri_Programing\Objects and Classes\01. Company Roster\bin\Debug\netcoreapp2.1\01. Company Roster.deps.json
+D:\Geri_Programing\Objects and Classes\01. Company Roster\bin\Debug\netcoreapp2.1\01. Company Roster.runtimeconfig.json
+D:\Geri_Programing\Objects and Classes\01. Company Roster\bin\Debug\netcoreapp2.1\01. Company Roster.runtimeconfig.dev.json
+D:\Geri_Programing\Objects and Classes\01. Company Roster\bin\Debug\netcoreapp2.1\01. Company Roster.dll
+D:\Geri_Programing\Objects and Classes\01. Company Roster\bin\Debug\netcoreapp2.1\01. Company Roster.pdb
+D:\Geri_Programing\Objects and Classes\01. Company Roster\obj\Debug\netcoreapp2.1\01. Company Roster.csprojAssemblyReference.cache
+D:\Geri_Programing\Objects and Classes\01. Company Roster\obj\Debug\netcoreapp2.1\01. Company Roster.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Objects and Classes\01. Company Roster\obj\Debug\netcoreapp2.1\01. Company Roster.AssemblyInfoInputs.cache
+D:\Geri_Programing\Objects and Classes\01. Company Roster\obj\Debug\netcoreapp2.1\01. Company Roster.AssemblyInfo.cs
+D:\Geri_Programing\Objects and Classes\01. Company Roster\obj\Debug\netcoreapp2.1\01. Company Roster.dll
+D:\Geri_Programing\Objects and Classes\01. Company Roster\obj\Debug\netcoreapp2.1\01. Company Roster.pdb

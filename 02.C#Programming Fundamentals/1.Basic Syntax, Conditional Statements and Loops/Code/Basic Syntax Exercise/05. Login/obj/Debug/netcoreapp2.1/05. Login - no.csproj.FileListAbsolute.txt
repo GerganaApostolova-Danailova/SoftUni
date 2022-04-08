@@ -1,0 +1,11 @@
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\05. Login\bin\Debug\netcoreapp2.1\05. Login - no.deps.json
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\05. Login\bin\Debug\netcoreapp2.1\05. Login - no.runtimeconfig.json
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\05. Login\bin\Debug\netcoreapp2.1\05. Login - no.runtimeconfig.dev.json
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\05. Login\bin\Debug\netcoreapp2.1\05. Login - no.dll
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\05. Login\bin\Debug\netcoreapp2.1\05. Login - no.pdb
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\05. Login\obj\Debug\netcoreapp2.1\05. Login - no.csprojAssemblyReference.cache
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\05. Login\obj\Debug\netcoreapp2.1\05. Login - no.csproj.CoreCompileInputs.cache
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\05. Login\obj\Debug\netcoreapp2.1\05. Login - no.AssemblyInfoInputs.cache
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\05. Login\obj\Debug\netcoreapp2.1\05. Login - no.AssemblyInfo.cs
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\05. Login\obj\Debug\netcoreapp2.1\05. Login - no.dll
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\05. Login\obj\Debug\netcoreapp2.1\05. Login - no.pdb

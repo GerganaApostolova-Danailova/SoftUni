@@ -1,0 +1,11 @@
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\06. Extract Emails\bin\Debug\netcoreapp2.1\06. Extract Emails.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\06. Extract Emails\bin\Debug\netcoreapp2.1\06. Extract Emails.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\06. Extract Emails\bin\Debug\netcoreapp2.1\06. Extract Emails.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\06. Extract Emails\bin\Debug\netcoreapp2.1\06. Extract Emails.dll
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\06. Extract Emails\bin\Debug\netcoreapp2.1\06. Extract Emails.pdb
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\06. Extract Emails\obj\Debug\netcoreapp2.1\06. Extract Emails.csprojAssemblyReference.cache
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\06. Extract Emails\obj\Debug\netcoreapp2.1\06. Extract Emails.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\06. Extract Emails\obj\Debug\netcoreapp2.1\06. Extract Emails.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\06. Extract Emails\obj\Debug\netcoreapp2.1\06. Extract Emails.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\06. Extract Emails\obj\Debug\netcoreapp2.1\06. Extract Emails.dll
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\06. Extract Emails\obj\Debug\netcoreapp2.1\06. Extract Emails.pdb

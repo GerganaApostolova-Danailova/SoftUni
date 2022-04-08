@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\04HotelReservation\bin\Debug\netcoreapp2.1\04HotelReservation.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\04HotelReservation\bin\Debug\netcoreapp2.1\04HotelReservation.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\04HotelReservation\bin\Debug\netcoreapp2.1\04HotelReservation.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\04HotelReservation\bin\Debug\netcoreapp2.1\04HotelReservation.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\04HotelReservation\bin\Debug\netcoreapp2.1\04HotelReservation.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\04HotelReservation\obj\Debug\netcoreapp2.1\04HotelReservation.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\04HotelReservation\obj\Debug\netcoreapp2.1\04HotelReservation.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\04HotelReservation\obj\Debug\netcoreapp2.1\04HotelReservation.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\04HotelReservation\obj\Debug\netcoreapp2.1\04HotelReservation.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\04HotelReservation\obj\Debug\netcoreapp2.1\04HotelReservation.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\04HotelReservation\obj\Debug\netcoreapp2.1\04HotelReservation.pdb

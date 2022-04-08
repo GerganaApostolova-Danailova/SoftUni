@@ -1,0 +1,10 @@
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\07. SoftUni Party\bin\Debug\netcoreapp2.1\07. SoftUni Party.deps.json
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\07. SoftUni Party\bin\Debug\netcoreapp2.1\07. SoftUni Party.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\07. SoftUni Party\bin\Debug\netcoreapp2.1\07. SoftUni Party.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\07. SoftUni Party\bin\Debug\netcoreapp2.1\07. SoftUni Party.dll
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\07. SoftUni Party\bin\Debug\netcoreapp2.1\07. SoftUni Party.pdb
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\07. SoftUni Party\obj\Debug\netcoreapp2.1\07. SoftUni Party.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\07. SoftUni Party\obj\Debug\netcoreapp2.1\07. SoftUni Party.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\07. SoftUni Party\obj\Debug\netcoreapp2.1\07. SoftUni Party.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\07. SoftUni Party\obj\Debug\netcoreapp2.1\07. SoftUni Party.dll
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\07. SoftUni Party\obj\Debug\netcoreapp2.1\07. SoftUni Party.pdb

@@ -1,0 +1,12 @@
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.AssemblyInfoInputs.cache
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.AssemblyInfo.cs
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.csproj.CoreCompileInputs.cache
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.exe
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.deps.json
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.runtimeconfig.json
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.runtimeconfig.dev.json
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.dll
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.pdb
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.dll
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.pdb
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.genruntimeconfig.cache

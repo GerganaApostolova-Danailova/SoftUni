@@ -1,0 +1,11 @@
+D:\Geri_Programing\Stacks and Queues\11. Key Revolver\bin\Debug\netcoreapp2.1\11. Key Revolver.deps.json
+D:\Geri_Programing\Stacks and Queues\11. Key Revolver\bin\Debug\netcoreapp2.1\11. Key Revolver.runtimeconfig.json
+D:\Geri_Programing\Stacks and Queues\11. Key Revolver\bin\Debug\netcoreapp2.1\11. Key Revolver.runtimeconfig.dev.json
+D:\Geri_Programing\Stacks and Queues\11. Key Revolver\bin\Debug\netcoreapp2.1\11. Key Revolver.dll
+D:\Geri_Programing\Stacks and Queues\11. Key Revolver\bin\Debug\netcoreapp2.1\11. Key Revolver.pdb
+D:\Geri_Programing\Stacks and Queues\11. Key Revolver\obj\Debug\netcoreapp2.1\11. Key Revolver.csprojAssemblyReference.cache
+D:\Geri_Programing\Stacks and Queues\11. Key Revolver\obj\Debug\netcoreapp2.1\11. Key Revolver.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Stacks and Queues\11. Key Revolver\obj\Debug\netcoreapp2.1\11. Key Revolver.AssemblyInfoInputs.cache
+D:\Geri_Programing\Stacks and Queues\11. Key Revolver\obj\Debug\netcoreapp2.1\11. Key Revolver.AssemblyInfo.cs
+D:\Geri_Programing\Stacks and Queues\11. Key Revolver\obj\Debug\netcoreapp2.1\11. Key Revolver.dll
+D:\Geri_Programing\Stacks and Queues\11. Key Revolver\obj\Debug\netcoreapp2.1\11. Key Revolver.pdb

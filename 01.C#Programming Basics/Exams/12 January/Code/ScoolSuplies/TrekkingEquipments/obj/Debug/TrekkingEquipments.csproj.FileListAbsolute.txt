@@ -1,0 +1,7 @@
+D:\Geri_Programing\Exams\12 January\Code\ScoolSuplies\TrekkingEquipments\bin\Debug\TrekkingEquipments.exe.config
+D:\Geri_Programing\Exams\12 January\Code\ScoolSuplies\TrekkingEquipments\bin\Debug\TrekkingEquipments.exe
+D:\Geri_Programing\Exams\12 January\Code\ScoolSuplies\TrekkingEquipments\bin\Debug\TrekkingEquipments.pdb
+D:\Geri_Programing\Exams\12 January\Code\ScoolSuplies\TrekkingEquipments\obj\Debug\TrekkingEquipments.csprojAssemblyReference.cache
+D:\Geri_Programing\Exams\12 January\Code\ScoolSuplies\TrekkingEquipments\obj\Debug\TrekkingEquipments.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Exams\12 January\Code\ScoolSuplies\TrekkingEquipments\obj\Debug\TrekkingEquipments.exe
+D:\Geri_Programing\Exams\12 January\Code\ScoolSuplies\TrekkingEquipments\obj\Debug\TrekkingEquipments.pdb

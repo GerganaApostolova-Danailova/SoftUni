@@ -1,0 +1,10 @@
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\03. Product Shop\bin\Debug\netcoreapp2.1\03. Product Shop.deps.json
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\03. Product Shop\bin\Debug\netcoreapp2.1\03. Product Shop.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\03. Product Shop\bin\Debug\netcoreapp2.1\03. Product Shop.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\03. Product Shop\bin\Debug\netcoreapp2.1\03. Product Shop.dll
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\03. Product Shop\bin\Debug\netcoreapp2.1\03. Product Shop.pdb
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\03. Product Shop\obj\Debug\netcoreapp2.1\03. Product Shop.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\03. Product Shop\obj\Debug\netcoreapp2.1\03. Product Shop.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\03. Product Shop\obj\Debug\netcoreapp2.1\03. Product Shop.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\03. Product Shop\obj\Debug\netcoreapp2.1\03. Product Shop.dll
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\03. Product Shop\obj\Debug\netcoreapp2.1\03. Product Shop.pdb

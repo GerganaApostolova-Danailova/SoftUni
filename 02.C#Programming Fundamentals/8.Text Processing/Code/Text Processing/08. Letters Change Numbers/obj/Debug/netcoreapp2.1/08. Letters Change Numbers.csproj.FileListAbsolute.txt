@@ -1,0 +1,11 @@
+D:\Geri_Programing\Text Processing\08. Letters Change Numbers\bin\Debug\netcoreapp2.1\08. Letters Change Numbers.deps.json
+D:\Geri_Programing\Text Processing\08. Letters Change Numbers\bin\Debug\netcoreapp2.1\08. Letters Change Numbers.runtimeconfig.json
+D:\Geri_Programing\Text Processing\08. Letters Change Numbers\bin\Debug\netcoreapp2.1\08. Letters Change Numbers.runtimeconfig.dev.json
+D:\Geri_Programing\Text Processing\08. Letters Change Numbers\bin\Debug\netcoreapp2.1\08. Letters Change Numbers.dll
+D:\Geri_Programing\Text Processing\08. Letters Change Numbers\bin\Debug\netcoreapp2.1\08. Letters Change Numbers.pdb
+D:\Geri_Programing\Text Processing\08. Letters Change Numbers\obj\Debug\netcoreapp2.1\08. Letters Change Numbers.csprojAssemblyReference.cache
+D:\Geri_Programing\Text Processing\08. Letters Change Numbers\obj\Debug\netcoreapp2.1\08. Letters Change Numbers.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Text Processing\08. Letters Change Numbers\obj\Debug\netcoreapp2.1\08. Letters Change Numbers.AssemblyInfoInputs.cache
+D:\Geri_Programing\Text Processing\08. Letters Change Numbers\obj\Debug\netcoreapp2.1\08. Letters Change Numbers.AssemblyInfo.cs
+D:\Geri_Programing\Text Processing\08. Letters Change Numbers\obj\Debug\netcoreapp2.1\08. Letters Change Numbers.dll
+D:\Geri_Programing\Text Processing\08. Letters Change Numbers\obj\Debug\netcoreapp2.1\08. Letters Change Numbers.pdb

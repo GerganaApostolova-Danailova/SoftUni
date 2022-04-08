@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\05. Applied Arithmetics\bin\Debug\netcoreapp2.1\05. Applied Arithmetics.deps.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\05. Applied Arithmetics\bin\Debug\netcoreapp2.1\05. Applied Arithmetics.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\05. Applied Arithmetics\bin\Debug\netcoreapp2.1\05. Applied Arithmetics.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\05. Applied Arithmetics\bin\Debug\netcoreapp2.1\05. Applied Arithmetics.dll
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\05. Applied Arithmetics\bin\Debug\netcoreapp2.1\05. Applied Arithmetics.pdb
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\05. Applied Arithmetics\obj\Debug\netcoreapp2.1\05. Applied Arithmetics.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\05. Applied Arithmetics\obj\Debug\netcoreapp2.1\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\05. Applied Arithmetics\obj\Debug\netcoreapp2.1\05. Applied Arithmetics.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\05. Applied Arithmetics\obj\Debug\netcoreapp2.1\05. Applied Arithmetics.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\05. Applied Arithmetics\obj\Debug\netcoreapp2.1\05. Applied Arithmetics.dll
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\05. Applied Arithmetics\obj\Debug\netcoreapp2.1\05. Applied Arithmetics.pdb

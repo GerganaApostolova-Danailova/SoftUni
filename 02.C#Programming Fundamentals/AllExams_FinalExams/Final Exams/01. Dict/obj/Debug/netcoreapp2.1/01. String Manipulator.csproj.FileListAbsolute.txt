@@ -1,0 +1,11 @@
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\01. Dict\bin\Debug\netcoreapp2.1\01. String Manipulator.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\01. Dict\bin\Debug\netcoreapp2.1\01. String Manipulator.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\01. Dict\bin\Debug\netcoreapp2.1\01. String Manipulator.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\01. Dict\bin\Debug\netcoreapp2.1\01. String Manipulator.dll
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\01. Dict\bin\Debug\netcoreapp2.1\01. String Manipulator.pdb
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\01. Dict\obj\Debug\netcoreapp2.1\01. String Manipulator.csprojAssemblyReference.cache
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\01. Dict\obj\Debug\netcoreapp2.1\01. String Manipulator.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\01. Dict\obj\Debug\netcoreapp2.1\01. String Manipulator.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\01. Dict\obj\Debug\netcoreapp2.1\01. String Manipulator.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\01. Dict\obj\Debug\netcoreapp2.1\01. String Manipulator.dll
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\01. Dict\obj\Debug\netcoreapp2.1\01. String Manipulator.pdb

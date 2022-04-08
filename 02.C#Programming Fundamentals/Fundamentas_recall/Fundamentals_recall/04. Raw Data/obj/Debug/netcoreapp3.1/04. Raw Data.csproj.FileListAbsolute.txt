@@ -1,0 +1,13 @@
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\04. Raw Data\bin\Debug\netcoreapp3.1\04. Raw Data.exe
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\04. Raw Data\bin\Debug\netcoreapp3.1\04. Raw Data.deps.json
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\04. Raw Data\bin\Debug\netcoreapp3.1\04. Raw Data.runtimeconfig.json
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\04. Raw Data\bin\Debug\netcoreapp3.1\04. Raw Data.runtimeconfig.dev.json
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\04. Raw Data\bin\Debug\netcoreapp3.1\04. Raw Data.dll
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\04. Raw Data\bin\Debug\netcoreapp3.1\04. Raw Data.pdb
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\04. Raw Data\obj\Debug\netcoreapp3.1\04. Raw Data.csprojAssemblyReference.cache
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\04. Raw Data\obj\Debug\netcoreapp3.1\04. Raw Data.AssemblyInfoInputs.cache
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\04. Raw Data\obj\Debug\netcoreapp3.1\04. Raw Data.AssemblyInfo.cs
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\04. Raw Data\obj\Debug\netcoreapp3.1\04. Raw Data.csproj.CoreCompileInputs.cache
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\04. Raw Data\obj\Debug\netcoreapp3.1\04. Raw Data.dll
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\04. Raw Data\obj\Debug\netcoreapp3.1\04. Raw Data.pdb
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\04. Raw Data\obj\Debug\netcoreapp3.1\04. Raw Data.genruntimeconfig.cache

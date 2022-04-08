@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\1. Sort Numbers\bin\Debug\netcoreapp2.1\1. Sort Numbers.deps.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\1. Sort Numbers\bin\Debug\netcoreapp2.1\1. Sort Numbers.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\1. Sort Numbers\bin\Debug\netcoreapp2.1\1. Sort Numbers.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\1. Sort Numbers\bin\Debug\netcoreapp2.1\1. Sort Numbers.dll
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\1. Sort Numbers\bin\Debug\netcoreapp2.1\1. Sort Numbers.pdb
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\1. Sort Numbers\obj\Debug\netcoreapp2.1\1. Sort Numbers.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\1. Sort Numbers\obj\Debug\netcoreapp2.1\1. Sort Numbers.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\1. Sort Numbers\obj\Debug\netcoreapp2.1\1. Sort Numbers.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\1. Sort Numbers\obj\Debug\netcoreapp2.1\1. Sort Numbers.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\1. Sort Numbers\obj\Debug\netcoreapp2.1\1. Sort Numbers.dll
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\1. Sort Numbers\obj\Debug\netcoreapp2.1\1. Sort Numbers.pdb

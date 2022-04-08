@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\08. Condense Array to Number\bin\Debug\netcoreapp2.1\08. Condense Array to Number.deps.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\08. Condense Array to Number\bin\Debug\netcoreapp2.1\08. Condense Array to Number.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\08. Condense Array to Number\bin\Debug\netcoreapp2.1\08. Condense Array to Number.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\08. Condense Array to Number\bin\Debug\netcoreapp2.1\08. Condense Array to Number.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\08. Condense Array to Number\bin\Debug\netcoreapp2.1\08. Condense Array to Number.pdb
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\08. Condense Array to Number\obj\Debug\netcoreapp2.1\08. Condense Array to Number.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\08. Condense Array to Number\obj\Debug\netcoreapp2.1\08. Condense Array to Number.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\08. Condense Array to Number\obj\Debug\netcoreapp2.1\08. Condense Array to Number.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\08. Condense Array to Number\obj\Debug\netcoreapp2.1\08. Condense Array to Number.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\08. Condense Array to Number\obj\Debug\netcoreapp2.1\08. Condense Array to Number.pdb

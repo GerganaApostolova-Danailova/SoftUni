@@ -1,0 +1,21 @@
+D:\Geri_Programing\Text Processing\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.deps.json
+D:\Geri_Programing\Text Processing\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.runtimeconfig.json
+D:\Geri_Programing\Text Processing\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.runtimeconfig.dev.json
+D:\Geri_Programing\Text Processing\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.dll
+D:\Geri_Programing\Text Processing\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.pdb
+D:\Geri_Programing\Text Processing\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Text Processing\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.AssemblyInfoInputs.cache
+D:\Geri_Programing\Text Processing\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.AssemblyInfo.cs
+D:\Geri_Programing\Text Processing\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.dll
+D:\Geri_Programing\Text Processing\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.pdb
+D:\Geri_Programing\02. Programming Fundamentals\Text Processing\Code\Text Processing\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\Text Processing\Code\Text Processing\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\Text Processing\Code\Text Processing\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\Text Processing\Code\Text Processing\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.dll
+D:\Geri_Programing\02. Programming Fundamentals\Text Processing\Code\Text Processing\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.pdb
+D:\Geri_Programing\02. Programming Fundamentals\Text Processing\Code\Text Processing\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.csprojAssemblyReference.cache
+D:\Geri_Programing\02. Programming Fundamentals\Text Processing\Code\Text Processing\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Text Processing\Code\Text Processing\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Text Processing\Code\Text Processing\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\Text Processing\Code\Text Processing\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.dll
+D:\Geri_Programing\02. Programming Fundamentals\Text Processing\Code\Text Processing\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.pdb

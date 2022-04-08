@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture Four\Code\WhileLoopExersize\Coins\obj\Debug\Coins.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture Four\Code\WhileLoopExersize\Coins\obj\Debug\Coins.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Four\Code\WhileLoopExersize\Coins\bin\Debug\Coins.exe.config
+D:\Geri_Programing\Lecture Four\Code\WhileLoopExersize\Coins\bin\Debug\Coins.exe
+D:\Geri_Programing\Lecture Four\Code\WhileLoopExersize\Coins\bin\Debug\Coins.pdb
+D:\Geri_Programing\Lecture Four\Code\WhileLoopExersize\Coins\obj\Debug\Coins.exe
+D:\Geri_Programing\Lecture Four\Code\WhileLoopExersize\Coins\obj\Debug\Coins.pdb

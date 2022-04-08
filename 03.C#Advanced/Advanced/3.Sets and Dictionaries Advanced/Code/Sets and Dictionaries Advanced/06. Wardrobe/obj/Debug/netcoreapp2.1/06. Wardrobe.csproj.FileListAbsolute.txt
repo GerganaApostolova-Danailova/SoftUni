@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\06. Wardrobe\bin\Debug\netcoreapp2.1\06. Wardrobe.deps.json
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\06. Wardrobe\bin\Debug\netcoreapp2.1\06. Wardrobe.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\06. Wardrobe\bin\Debug\netcoreapp2.1\06. Wardrobe.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\06. Wardrobe\bin\Debug\netcoreapp2.1\06. Wardrobe.dll
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\06. Wardrobe\bin\Debug\netcoreapp2.1\06. Wardrobe.pdb
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.dll
+D:\Geri_Programing\03.C#Advanced\Sets and Dictionaries Advanced\Code\Sets and Dictionaries Advanced\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.pdb

@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\06SpeedRacings\bin\Debug\netcoreapp2.1\06SpeedRacings.deps.json
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\06SpeedRacings\bin\Debug\netcoreapp2.1\06SpeedRacings.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\06SpeedRacings\bin\Debug\netcoreapp2.1\06SpeedRacings.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\06SpeedRacings\bin\Debug\netcoreapp2.1\06SpeedRacings.dll
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\06SpeedRacings\bin\Debug\netcoreapp2.1\06SpeedRacings.pdb
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\06SpeedRacings\obj\Debug\netcoreapp2.1\06SpeedRacings.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\06SpeedRacings\obj\Debug\netcoreapp2.1\06SpeedRacings.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\06SpeedRacings\obj\Debug\netcoreapp2.1\06SpeedRacings.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\06SpeedRacings\obj\Debug\netcoreapp2.1\06SpeedRacings.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\06SpeedRacings\obj\Debug\netcoreapp2.1\06SpeedRacings.dll
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\06SpeedRacings\obj\Debug\netcoreapp2.1\06SpeedRacings.pdb

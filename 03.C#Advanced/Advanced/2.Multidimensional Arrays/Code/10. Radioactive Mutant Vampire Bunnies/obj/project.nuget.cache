@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "W4JKuBTW5/N4ZVNwpQLNWe2R9NX+KCybaFLTlYkDy271rdfYT66bsyPCDqpDpPN+bmzGO+YPYvH1ZMbQKYzMLw==",
+  "success": true,
+  "projectFilePath": "C:\\Geri_Programing\\03.C#Advanced\\Advanced\\Multidimensional Arrays\\Code\\10. Radioactive Mutant Vampire Bunnies\\10. Radioactive Mutant Vampire Bunnies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

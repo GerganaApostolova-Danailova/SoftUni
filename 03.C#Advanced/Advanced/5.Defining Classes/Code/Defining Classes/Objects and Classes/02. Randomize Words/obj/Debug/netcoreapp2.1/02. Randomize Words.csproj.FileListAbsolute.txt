@@ -1,0 +1,11 @@
+D:\Geri_Programing\Objects and Classes\02. Randomize Words\bin\Debug\netcoreapp2.1\02. Randomize Words.deps.json
+D:\Geri_Programing\Objects and Classes\02. Randomize Words\bin\Debug\netcoreapp2.1\02. Randomize Words.runtimeconfig.json
+D:\Geri_Programing\Objects and Classes\02. Randomize Words\bin\Debug\netcoreapp2.1\02. Randomize Words.runtimeconfig.dev.json
+D:\Geri_Programing\Objects and Classes\02. Randomize Words\bin\Debug\netcoreapp2.1\02. Randomize Words.dll
+D:\Geri_Programing\Objects and Classes\02. Randomize Words\bin\Debug\netcoreapp2.1\02. Randomize Words.pdb
+D:\Geri_Programing\Objects and Classes\02. Randomize Words\obj\Debug\netcoreapp2.1\02. Randomize Words.csprojAssemblyReference.cache
+D:\Geri_Programing\Objects and Classes\02. Randomize Words\obj\Debug\netcoreapp2.1\02. Randomize Words.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Objects and Classes\02. Randomize Words\obj\Debug\netcoreapp2.1\02. Randomize Words.AssemblyInfoInputs.cache
+D:\Geri_Programing\Objects and Classes\02. Randomize Words\obj\Debug\netcoreapp2.1\02. Randomize Words.AssemblyInfo.cs
+D:\Geri_Programing\Objects and Classes\02. Randomize Words\obj\Debug\netcoreapp2.1\02. Randomize Words.dll
+D:\Geri_Programing\Objects and Classes\02. Randomize Words\obj\Debug\netcoreapp2.1\02. Randomize Words.pdb

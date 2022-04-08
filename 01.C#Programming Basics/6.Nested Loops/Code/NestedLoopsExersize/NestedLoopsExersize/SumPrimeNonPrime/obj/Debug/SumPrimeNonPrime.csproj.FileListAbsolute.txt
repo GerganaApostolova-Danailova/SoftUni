@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\SumPrimeNonPrime\obj\Debug\SumPrimeNonPrime.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\SumPrimeNonPrime\obj\Debug\SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\SumPrimeNonPrime\bin\Debug\SumPrimeNonPrime.exe.config
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\SumPrimeNonPrime\bin\Debug\SumPrimeNonPrime.exe
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\SumPrimeNonPrime\bin\Debug\SumPrimeNonPrime.pdb
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\SumPrimeNonPrime\obj\Debug\SumPrimeNonPrime.exe
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\SumPrimeNonPrime\obj\Debug\SumPrimeNonPrime.pdb

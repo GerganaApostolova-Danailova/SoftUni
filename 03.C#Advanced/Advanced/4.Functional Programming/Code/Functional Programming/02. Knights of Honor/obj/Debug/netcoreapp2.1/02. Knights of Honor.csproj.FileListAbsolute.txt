@@ -1,0 +1,10 @@
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\02. Knights of Honor\bin\Debug\netcoreapp2.1\02. Knights of Honor.deps.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\02. Knights of Honor\bin\Debug\netcoreapp2.1\02. Knights of Honor.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\02. Knights of Honor\bin\Debug\netcoreapp2.1\02. Knights of Honor.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\02. Knights of Honor\bin\Debug\netcoreapp2.1\02. Knights of Honor.dll
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\02. Knights of Honor\bin\Debug\netcoreapp2.1\02. Knights of Honor.pdb
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\02. Knights of Honor\obj\Debug\netcoreapp2.1\02. Knights of Honor.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\02. Knights of Honor\obj\Debug\netcoreapp2.1\02. Knights of Honor.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\02. Knights of Honor\obj\Debug\netcoreapp2.1\02. Knights of Honor.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\02. Knights of Honor\obj\Debug\netcoreapp2.1\02. Knights of Honor.dll
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\02. Knights of Honor\obj\Debug\netcoreapp2.1\02. Knights of Honor.pdb

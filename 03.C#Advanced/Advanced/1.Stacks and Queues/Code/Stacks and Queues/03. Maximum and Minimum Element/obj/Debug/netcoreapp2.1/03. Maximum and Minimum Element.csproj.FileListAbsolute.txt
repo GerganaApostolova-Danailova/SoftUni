@@ -1,0 +1,11 @@
+D:\Geri_Programing\Stacks and Queues\03. Maximum and Minimum Element\bin\Debug\netcoreapp2.1\03. Maximum and Minimum Element.deps.json
+D:\Geri_Programing\Stacks and Queues\03. Maximum and Minimum Element\bin\Debug\netcoreapp2.1\03. Maximum and Minimum Element.runtimeconfig.json
+D:\Geri_Programing\Stacks and Queues\03. Maximum and Minimum Element\bin\Debug\netcoreapp2.1\03. Maximum and Minimum Element.runtimeconfig.dev.json
+D:\Geri_Programing\Stacks and Queues\03. Maximum and Minimum Element\bin\Debug\netcoreapp2.1\03. Maximum and Minimum Element.dll
+D:\Geri_Programing\Stacks and Queues\03. Maximum and Minimum Element\bin\Debug\netcoreapp2.1\03. Maximum and Minimum Element.pdb
+D:\Geri_Programing\Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\netcoreapp2.1\03. Maximum and Minimum Element.csprojAssemblyReference.cache
+D:\Geri_Programing\Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\netcoreapp2.1\03. Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\netcoreapp2.1\03. Maximum and Minimum Element.AssemblyInfoInputs.cache
+D:\Geri_Programing\Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\netcoreapp2.1\03. Maximum and Minimum Element.AssemblyInfo.cs
+D:\Geri_Programing\Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\netcoreapp2.1\03. Maximum and Minimum Element.dll
+D:\Geri_Programing\Stacks and Queues\03. Maximum and Minimum Element\obj\Debug\netcoreapp2.1\03. Maximum and Minimum Element.pdb

@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\NumberTo1000WithSeven\bin\Debug\NumberTo1000WithSeven.exe.config
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\NumberTo1000WithSeven\bin\Debug\NumberTo1000WithSeven.exe
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\NumberTo1000WithSeven\bin\Debug\NumberTo1000WithSeven.pdb
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\NumberTo1000WithSeven\obj\Debug\NumberTo1000WithSeven.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\NumberTo1000WithSeven\obj\Debug\NumberTo1000WithSeven.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\NumberTo1000WithSeven\obj\Debug\NumberTo1000WithSeven.exe
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\NumberTo1000WithSeven\obj\Debug\NumberTo1000WithSeven.pdb

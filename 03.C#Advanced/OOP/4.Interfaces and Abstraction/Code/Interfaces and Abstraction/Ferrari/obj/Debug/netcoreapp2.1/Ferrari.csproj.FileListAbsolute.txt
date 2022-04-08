@@ -1,0 +1,10 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Ferrari\bin\Debug\netcoreapp2.1\Ferrari.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Ferrari\bin\Debug\netcoreapp2.1\Ferrari.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Ferrari\bin\Debug\netcoreapp2.1\Ferrari.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Ferrari\bin\Debug\netcoreapp2.1\Ferrari.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Ferrari\bin\Debug\netcoreapp2.1\Ferrari.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Ferrari\obj\Debug\netcoreapp2.1\Ferrari.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Ferrari\obj\Debug\netcoreapp2.1\Ferrari.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Ferrari\obj\Debug\netcoreapp2.1\Ferrari.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Ferrari\obj\Debug\netcoreapp2.1\Ferrari.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\Ferrari\obj\Debug\netcoreapp2.1\Ferrari.pdb

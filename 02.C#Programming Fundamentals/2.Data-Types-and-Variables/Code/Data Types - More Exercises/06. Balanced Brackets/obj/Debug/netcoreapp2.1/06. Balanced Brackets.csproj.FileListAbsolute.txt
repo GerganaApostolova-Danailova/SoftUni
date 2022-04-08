@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types - More Exercises\06. Balanced Brackets\bin\Debug\netcoreapp2.1\06. Balanced Brackets.deps.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types - More Exercises\06. Balanced Brackets\bin\Debug\netcoreapp2.1\06. Balanced Brackets.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types - More Exercises\06. Balanced Brackets\bin\Debug\netcoreapp2.1\06. Balanced Brackets.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types - More Exercises\06. Balanced Brackets\bin\Debug\netcoreapp2.1\06. Balanced Brackets.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types - More Exercises\06. Balanced Brackets\bin\Debug\netcoreapp2.1\06. Balanced Brackets.pdb
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types - More Exercises\06. Balanced Brackets\obj\Debug\netcoreapp2.1\06. Balanced Brackets.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types - More Exercises\06. Balanced Brackets\obj\Debug\netcoreapp2.1\06. Balanced Brackets.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types - More Exercises\06. Balanced Brackets\obj\Debug\netcoreapp2.1\06. Balanced Brackets.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types - More Exercises\06. Balanced Brackets\obj\Debug\netcoreapp2.1\06. Balanced Brackets.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types - More Exercises\06. Balanced Brackets\obj\Debug\netcoreapp2.1\06. Balanced Brackets.pdb
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types - More Exercises\06. Balanced Brackets\obj\Debug\netcoreapp2.1\06. Balanced Brackets.csprojAssemblyReference.cache

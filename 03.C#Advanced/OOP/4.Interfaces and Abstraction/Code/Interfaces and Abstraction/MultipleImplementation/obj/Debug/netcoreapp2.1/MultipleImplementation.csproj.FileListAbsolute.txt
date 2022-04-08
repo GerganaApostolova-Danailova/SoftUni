@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\MultipleImplementation\bin\Debug\netcoreapp2.1\MultipleImplementation.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\MultipleImplementation\bin\Debug\netcoreapp2.1\MultipleImplementation.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\MultipleImplementation\bin\Debug\netcoreapp2.1\MultipleImplementation.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\MultipleImplementation\bin\Debug\netcoreapp2.1\MultipleImplementation.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\MultipleImplementation\bin\Debug\netcoreapp2.1\MultipleImplementation.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\MultipleImplementation\obj\Debug\netcoreapp2.1\MultipleImplementation.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\MultipleImplementation\obj\Debug\netcoreapp2.1\MultipleImplementation.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\MultipleImplementation\obj\Debug\netcoreapp2.1\MultipleImplementation.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\MultipleImplementation\obj\Debug\netcoreapp2.1\MultipleImplementation.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\MultipleImplementation\obj\Debug\netcoreapp2.1\MultipleImplementation.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\MultipleImplementation\obj\Debug\netcoreapp2.1\MultipleImplementation.pdb

@@ -1,0 +1,7 @@
+D:\Geri_Programing\Exams\12 January\Code\ChangeBureau\FoodOrder\bin\Debug\FoodOrder.exe.config
+D:\Geri_Programing\Exams\12 January\Code\ChangeBureau\FoodOrder\bin\Debug\FoodOrder.exe
+D:\Geri_Programing\Exams\12 January\Code\ChangeBureau\FoodOrder\bin\Debug\FoodOrder.pdb
+D:\Geri_Programing\Exams\12 January\Code\ChangeBureau\FoodOrder\obj\Debug\FoodOrder.csprojAssemblyReference.cache
+D:\Geri_Programing\Exams\12 January\Code\ChangeBureau\FoodOrder\obj\Debug\FoodOrder.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Exams\12 January\Code\ChangeBureau\FoodOrder\obj\Debug\FoodOrder.exe
+D:\Geri_Programing\Exams\12 January\Code\ChangeBureau\FoodOrder\obj\Debug\FoodOrder.pdb

@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\06. Reverse And Exclude\obj\Debug\netcoreapp2.1\06. Reverse And Exclude.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\06. Reverse And Exclude\obj\Debug\netcoreapp2.1\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\06. Reverse And Exclude\obj\Debug\netcoreapp2.1\06. Reverse And Exclude.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\06. Reverse And Exclude\obj\Debug\netcoreapp2.1\06. Reverse And Exclude.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\06. Reverse And Exclude\bin\Debug\netcoreapp2.1\06. Reverse And Exclude.deps.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\06. Reverse And Exclude\bin\Debug\netcoreapp2.1\06. Reverse And Exclude.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\06. Reverse And Exclude\bin\Debug\netcoreapp2.1\06. Reverse And Exclude.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\06. Reverse And Exclude\bin\Debug\netcoreapp2.1\06. Reverse And Exclude.dll
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\06. Reverse And Exclude\bin\Debug\netcoreapp2.1\06. Reverse And Exclude.pdb
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\06. Reverse And Exclude\obj\Debug\netcoreapp2.1\06. Reverse And Exclude.dll
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\06. Reverse And Exclude\obj\Debug\netcoreapp2.1\06. Reverse And Exclude.pdb

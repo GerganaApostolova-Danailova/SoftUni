@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\001. Encrypt Sort and Print Array\bin\Debug\netcoreapp2.1\001. Encrypt Sort and Print Array.deps.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\001. Encrypt Sort and Print Array\bin\Debug\netcoreapp2.1\001. Encrypt Sort and Print Array.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\001. Encrypt Sort and Print Array\bin\Debug\netcoreapp2.1\001. Encrypt Sort and Print Array.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\001. Encrypt Sort and Print Array\bin\Debug\netcoreapp2.1\001. Encrypt Sort and Print Array.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\001. Encrypt Sort and Print Array\bin\Debug\netcoreapp2.1\001. Encrypt Sort and Print Array.pdb
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\001. Encrypt Sort and Print Array\obj\Debug\netcoreapp2.1\001. Encrypt Sort and Print Array.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\001. Encrypt Sort and Print Array\obj\Debug\netcoreapp2.1\001. Encrypt Sort and Print Array.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\001. Encrypt Sort and Print Array\obj\Debug\netcoreapp2.1\001. Encrypt Sort and Print Array.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\001. Encrypt Sort and Print Array\obj\Debug\netcoreapp2.1\001. Encrypt Sort and Print Array.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\001. Encrypt Sort and Print Array\obj\Debug\netcoreapp2.1\001. Encrypt Sort and Print Array.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\001. Encrypt Sort and Print Array\obj\Debug\netcoreapp2.1\001. Encrypt Sort and Print Array.pdb

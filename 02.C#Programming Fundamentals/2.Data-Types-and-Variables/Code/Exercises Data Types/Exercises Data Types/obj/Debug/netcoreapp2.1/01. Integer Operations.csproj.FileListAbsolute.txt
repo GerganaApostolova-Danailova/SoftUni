@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\Exercises Data Types\obj\Debug\netcoreapp2.1\01. Integer Operations.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\Exercises Data Types\obj\Debug\netcoreapp2.1\01. Integer Operations.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\Exercises Data Types\obj\Debug\netcoreapp2.1\01. Integer Operations.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\Exercises Data Types\obj\Debug\netcoreapp2.1\01. Integer Operations.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\Exercises Data Types\bin\Debug\netcoreapp2.1\01. Integer Operations.deps.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\Exercises Data Types\bin\Debug\netcoreapp2.1\01. Integer Operations.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\Exercises Data Types\bin\Debug\netcoreapp2.1\01. Integer Operations.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\Exercises Data Types\bin\Debug\netcoreapp2.1\01. Integer Operations.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\Exercises Data Types\bin\Debug\netcoreapp2.1\01. Integer Operations.pdb
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\Exercises Data Types\obj\Debug\netcoreapp2.1\01. Integer Operations.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\Exercises Data Types\obj\Debug\netcoreapp2.1\01. Integer Operations.pdb

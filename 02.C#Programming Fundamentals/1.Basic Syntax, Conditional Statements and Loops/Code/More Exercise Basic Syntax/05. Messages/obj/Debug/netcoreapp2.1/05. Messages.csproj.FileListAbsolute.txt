@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\05. Messages\bin\Debug\netcoreapp2.1\05. Messages.deps.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\05. Messages\bin\Debug\netcoreapp2.1\05. Messages.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\05. Messages\bin\Debug\netcoreapp2.1\05. Messages.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\05. Messages\bin\Debug\netcoreapp2.1\05. Messages.dll
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\05. Messages\bin\Debug\netcoreapp2.1\05. Messages.pdb
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\05. Messages\obj\Debug\netcoreapp2.1\05. Messages.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\05. Messages\obj\Debug\netcoreapp2.1\05. Messages.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\05. Messages\obj\Debug\netcoreapp2.1\05. Messages.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\05. Messages\obj\Debug\netcoreapp2.1\05. Messages.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\05. Messages\obj\Debug\netcoreapp2.1\05. Messages.dll
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\05. Messages\obj\Debug\netcoreapp2.1\05. Messages.pdb

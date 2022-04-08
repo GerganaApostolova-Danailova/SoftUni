@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\07. Concat Names\bin\Debug\netcoreapp2.1\07. Concat Names.deps.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\07. Concat Names\bin\Debug\netcoreapp2.1\07. Concat Names.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\07. Concat Names\bin\Debug\netcoreapp2.1\07. Concat Names.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\07. Concat Names\bin\Debug\netcoreapp2.1\07. Concat Names.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\07. Concat Names\bin\Debug\netcoreapp2.1\07. Concat Names.pdb
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\07. Concat Names\obj\Debug\netcoreapp2.1\07. Concat Names.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\07. Concat Names\obj\Debug\netcoreapp2.1\07. Concat Names.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\07. Concat Names\obj\Debug\netcoreapp2.1\07. Concat Names.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\07. Concat Names\obj\Debug\netcoreapp2.1\07. Concat Names.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\07. Concat Names\obj\Debug\netcoreapp2.1\07. Concat Names.pdb

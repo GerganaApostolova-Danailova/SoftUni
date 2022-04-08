@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.1\07. Append Arrays.deps.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.1\07. Append Arrays.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.1\07. Append Arrays.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.1\07. Append Arrays.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.1\07. Append Arrays.pdb
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays.pdb

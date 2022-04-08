@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "xjEBE258CEQhbRZkazC5z6jUAwaQCqpD+Qsb7jHHnEiPKrWtW2njLREXNaW0Paiczshc6WxLg6b+Ulv/R01+IQ==",
+  "success": true,
+  "projectFilePath": "C:\\Geri_Programing\\02.C#Programming Fundamentals\\9.Arreys\\Code\\MoreExersise\\More Exercises Arrays\\002.PAscal Triangle\\002.PAscal Triangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

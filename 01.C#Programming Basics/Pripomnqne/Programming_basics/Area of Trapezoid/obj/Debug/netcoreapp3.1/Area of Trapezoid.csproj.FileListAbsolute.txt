@@ -1,0 +1,13 @@
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Area of Trapezoid\bin\Debug\netcoreapp3.1\Area of Trapezoid.exe
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Area of Trapezoid\bin\Debug\netcoreapp3.1\Area of Trapezoid.deps.json
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Area of Trapezoid\bin\Debug\netcoreapp3.1\Area of Trapezoid.runtimeconfig.json
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Area of Trapezoid\bin\Debug\netcoreapp3.1\Area of Trapezoid.runtimeconfig.dev.json
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Area of Trapezoid\bin\Debug\netcoreapp3.1\Area of Trapezoid.dll
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Area of Trapezoid\bin\Debug\netcoreapp3.1\Area of Trapezoid.pdb
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Area of Trapezoid\obj\Debug\netcoreapp3.1\Area of Trapezoid.AssemblyInfoInputs.cache
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Area of Trapezoid\obj\Debug\netcoreapp3.1\Area of Trapezoid.AssemblyInfo.cs
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Area of Trapezoid\obj\Debug\netcoreapp3.1\Area of Trapezoid.csproj.CoreCompileInputs.cache
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Area of Trapezoid\obj\Debug\netcoreapp3.1\Area of Trapezoid.dll
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Area of Trapezoid\obj\Debug\netcoreapp3.1\Area of Trapezoid.pdb
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Area of Trapezoid\obj\Debug\netcoreapp3.1\Area of Trapezoid.genruntimeconfig.cache
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Area of Trapezoid\obj\Debug\netcoreapp3.1\Area of Trapezoid.csprojAssemblyReference.cache

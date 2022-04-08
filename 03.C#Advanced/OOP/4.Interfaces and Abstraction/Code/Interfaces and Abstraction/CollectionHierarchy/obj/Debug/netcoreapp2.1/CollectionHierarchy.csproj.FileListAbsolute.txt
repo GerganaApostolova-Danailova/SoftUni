@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\CollectionHierarchy\bin\Debug\netcoreapp2.1\CollectionHierarchy.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\CollectionHierarchy\bin\Debug\netcoreapp2.1\CollectionHierarchy.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\CollectionHierarchy\bin\Debug\netcoreapp2.1\CollectionHierarchy.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\CollectionHierarchy\bin\Debug\netcoreapp2.1\CollectionHierarchy.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\CollectionHierarchy\bin\Debug\netcoreapp2.1\CollectionHierarchy.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\CollectionHierarchy\obj\Debug\netcoreapp2.1\CollectionHierarchy.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\CollectionHierarchy\obj\Debug\netcoreapp2.1\CollectionHierarchy.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\CollectionHierarchy\obj\Debug\netcoreapp2.1\CollectionHierarchy.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\CollectionHierarchy\obj\Debug\netcoreapp2.1\CollectionHierarchy.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\CollectionHierarchy\obj\Debug\netcoreapp2.1\CollectionHierarchy.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\CollectionHierarchy\obj\Debug\netcoreapp2.1\CollectionHierarchy.pdb

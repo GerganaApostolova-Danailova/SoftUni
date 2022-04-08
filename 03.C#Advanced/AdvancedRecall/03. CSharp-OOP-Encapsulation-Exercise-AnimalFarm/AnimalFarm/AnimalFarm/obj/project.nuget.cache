@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HIoKYnMeahNV/5mWOsHorzulTqv1XURnUIZPgfg3UvL+BEJZ7PzHPr1GkwdE5yl3gqnjGI0Fi9bl94VqRaOIsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Geri_Programing\\03.C#Advanced\\AdvancedRecall\\03. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\\AnimalFarm\\AnimalFarm\\AnimalFarm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Geri\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+D:\Geri_Programing\Lists Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp2.1\07. List Manipulation Advanced.deps.json
+D:\Geri_Programing\Lists Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp2.1\07. List Manipulation Advanced.runtimeconfig.json
+D:\Geri_Programing\Lists Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp2.1\07. List Manipulation Advanced.runtimeconfig.dev.json
+D:\Geri_Programing\Lists Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp2.1\07. List Manipulation Advanced.dll
+D:\Geri_Programing\Lists Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp2.1\07. List Manipulation Advanced.pdb
+D:\Geri_Programing\Lists Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp2.1\07. List Manipulation Advanced.csprojAssemblyReference.cache
+D:\Geri_Programing\Lists Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp2.1\07. List Manipulation Advanced.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lists Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp2.1\07. List Manipulation Advanced.AssemblyInfoInputs.cache
+D:\Geri_Programing\Lists Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp2.1\07. List Manipulation Advanced.AssemblyInfo.cs
+D:\Geri_Programing\Lists Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp2.1\07. List Manipulation Advanced.dll
+D:\Geri_Programing\Lists Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp2.1\07. List Manipulation Advanced.pdb

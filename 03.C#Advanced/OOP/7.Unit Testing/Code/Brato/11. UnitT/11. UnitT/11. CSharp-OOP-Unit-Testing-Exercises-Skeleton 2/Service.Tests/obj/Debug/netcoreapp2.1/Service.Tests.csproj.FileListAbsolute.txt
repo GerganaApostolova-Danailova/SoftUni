@@ -1,0 +1,14 @@
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\Service.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\Service.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\Service.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\Service.Tests\bin\Debug\netcoreapp2.1\Service.Tests.deps.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\Service.Tests\bin\Debug\netcoreapp2.1\Service.Tests.runtimeconfig.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\Service.Tests\bin\Debug\netcoreapp2.1\Service.Tests.runtimeconfig.dev.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\Service.Tests\bin\Debug\netcoreapp2.1\Service.Tests.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\Service.Tests\bin\Debug\netcoreapp2.1\Service.Tests.pdb
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\Service.Tests\obj\Debug\netcoreapp2.1\Service.Tests.csprojAssemblyReference.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\Service.Tests\obj\Debug\netcoreapp2.1\Service.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\Service.Tests\obj\Debug\netcoreapp2.1\Service.Tests.AssemblyInfoInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\Service.Tests\obj\Debug\netcoreapp2.1\Service.Tests.AssemblyInfo.cs
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\Service.Tests\obj\Debug\netcoreapp2.1\Service.Tests.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\Service.Tests\obj\Debug\netcoreapp2.1\Service.Tests.pdb

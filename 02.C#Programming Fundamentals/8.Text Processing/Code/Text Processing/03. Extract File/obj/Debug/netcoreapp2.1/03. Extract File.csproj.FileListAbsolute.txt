@@ -1,0 +1,10 @@
+D:\Geri_Programing\Text Processing\03. Extract File\bin\Debug\netcoreapp2.1\03. Extract File.deps.json
+D:\Geri_Programing\Text Processing\03. Extract File\bin\Debug\netcoreapp2.1\03. Extract File.runtimeconfig.json
+D:\Geri_Programing\Text Processing\03. Extract File\bin\Debug\netcoreapp2.1\03. Extract File.runtimeconfig.dev.json
+D:\Geri_Programing\Text Processing\03. Extract File\bin\Debug\netcoreapp2.1\03. Extract File.dll
+D:\Geri_Programing\Text Processing\03. Extract File\bin\Debug\netcoreapp2.1\03. Extract File.pdb
+D:\Geri_Programing\Text Processing\03. Extract File\obj\Debug\netcoreapp2.1\03. Extract File.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Text Processing\03. Extract File\obj\Debug\netcoreapp2.1\03. Extract File.AssemblyInfoInputs.cache
+D:\Geri_Programing\Text Processing\03. Extract File\obj\Debug\netcoreapp2.1\03. Extract File.AssemblyInfo.cs
+D:\Geri_Programing\Text Processing\03. Extract File\obj\Debug\netcoreapp2.1\03. Extract File.dll
+D:\Geri_Programing\Text Processing\03. Extract File\obj\Debug\netcoreapp2.1\03. Extract File.pdb

@@ -1,0 +1,9 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Unit Testing\Code\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Unit Testing\Code\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Unit Testing\Code\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Unit Testing\Code\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Unit Testing\Code\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Unit Testing\Code\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Unit Testing\Code\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Unit Testing\Code\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Unit Testing\Code\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.pdb

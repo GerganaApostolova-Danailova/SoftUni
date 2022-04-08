@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsLab\EvenPowersOf2\bin\Debug\EvenPowersOf2.exe.config
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsLab\EvenPowersOf2\bin\Debug\EvenPowersOf2.exe
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsLab\EvenPowersOf2\bin\Debug\EvenPowersOf2.pdb
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsLab\EvenPowersOf2\obj\Debug\EvenPowersOf2.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsLab\EvenPowersOf2\obj\Debug\EvenPowersOf2.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsLab\EvenPowersOf2\obj\Debug\EvenPowersOf2.exe
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsLab\EvenPowersOf2\obj\Debug\EvenPowersOf2.pdb

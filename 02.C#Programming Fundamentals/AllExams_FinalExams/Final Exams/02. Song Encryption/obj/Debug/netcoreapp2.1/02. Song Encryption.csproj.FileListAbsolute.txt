@@ -1,0 +1,11 @@
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\02. Song Encryption\bin\Debug\netcoreapp2.1\02. Song Encryption.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\02. Song Encryption\bin\Debug\netcoreapp2.1\02. Song Encryption.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\02. Song Encryption\bin\Debug\netcoreapp2.1\02. Song Encryption.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\02. Song Encryption\bin\Debug\netcoreapp2.1\02. Song Encryption.dll
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\02. Song Encryption\bin\Debug\netcoreapp2.1\02. Song Encryption.pdb
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\02. Song Encryption\obj\Debug\netcoreapp2.1\02. Song Encryption.csprojAssemblyReference.cache
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\02. Song Encryption\obj\Debug\netcoreapp2.1\02. Song Encryption.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\02. Song Encryption\obj\Debug\netcoreapp2.1\02. Song Encryption.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\02. Song Encryption\obj\Debug\netcoreapp2.1\02. Song Encryption.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\02. Song Encryption\obj\Debug\netcoreapp2.1\02. Song Encryption.dll
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\02. Song Encryption\obj\Debug\netcoreapp2.1\02. Song Encryption.pdb

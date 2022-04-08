@@ -1,0 +1,11 @@
+D:\Geri_Programing\Stacks and Queues\10. Crossroads\bin\Debug\netcoreapp2.1\10. Crossroads.deps.json
+D:\Geri_Programing\Stacks and Queues\10. Crossroads\bin\Debug\netcoreapp2.1\10. Crossroads.runtimeconfig.json
+D:\Geri_Programing\Stacks and Queues\10. Crossroads\bin\Debug\netcoreapp2.1\10. Crossroads.runtimeconfig.dev.json
+D:\Geri_Programing\Stacks and Queues\10. Crossroads\bin\Debug\netcoreapp2.1\10. Crossroads.dll
+D:\Geri_Programing\Stacks and Queues\10. Crossroads\bin\Debug\netcoreapp2.1\10. Crossroads.pdb
+D:\Geri_Programing\Stacks and Queues\10. Crossroads\obj\Debug\netcoreapp2.1\10. Crossroads.csprojAssemblyReference.cache
+D:\Geri_Programing\Stacks and Queues\10. Crossroads\obj\Debug\netcoreapp2.1\10. Crossroads.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Stacks and Queues\10. Crossroads\obj\Debug\netcoreapp2.1\10. Crossroads.AssemblyInfoInputs.cache
+D:\Geri_Programing\Stacks and Queues\10. Crossroads\obj\Debug\netcoreapp2.1\10. Crossroads.AssemblyInfo.cs
+D:\Geri_Programing\Stacks and Queues\10. Crossroads\obj\Debug\netcoreapp2.1\10. Crossroads.dll
+D:\Geri_Programing\Stacks and Queues\10. Crossroads\obj\Debug\netcoreapp2.1\10. Crossroads.pdb

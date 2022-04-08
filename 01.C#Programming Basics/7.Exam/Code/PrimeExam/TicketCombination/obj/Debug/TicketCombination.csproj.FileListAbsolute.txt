@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\TicketCombination\bin\Debug\TicketCombination.exe.config
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\TicketCombination\bin\Debug\TicketCombination.exe
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\TicketCombination\bin\Debug\TicketCombination.pdb
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\TicketCombination\obj\Debug\TicketCombination.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\TicketCombination\obj\Debug\TicketCombination.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\TicketCombination\obj\Debug\TicketCombination.exe
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\TicketCombination\obj\Debug\TicketCombination.pdb

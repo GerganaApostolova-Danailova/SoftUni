@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\Generic\Code\Exam_Advanced\01. Club Party\bin\Debug\netcoreapp2.1\01. Club Party.deps.json
+D:\Geri_Programing\03.C#Advanced\Generic\Code\Exam_Advanced\01. Club Party\bin\Debug\netcoreapp2.1\01. Club Party.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Generic\Code\Exam_Advanced\01. Club Party\bin\Debug\netcoreapp2.1\01. Club Party.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Generic\Code\Exam_Advanced\01. Club Party\bin\Debug\netcoreapp2.1\01. Club Party.dll
+D:\Geri_Programing\03.C#Advanced\Generic\Code\Exam_Advanced\01. Club Party\bin\Debug\netcoreapp2.1\01. Club Party.pdb
+D:\Geri_Programing\03.C#Advanced\Generic\Code\Exam_Advanced\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\Generic\Code\Exam_Advanced\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Generic\Code\Exam_Advanced\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Generic\Code\Exam_Advanced\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Generic\Code\Exam_Advanced\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.dll
+D:\Geri_Programing\03.C#Advanced\Generic\Code\Exam_Advanced\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.pdb

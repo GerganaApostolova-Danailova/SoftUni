@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom\bin\Debug\netcoreapp2.1\Telecom.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom\bin\Debug\netcoreapp2.1\Telecom.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom\bin\Debug\netcoreapp2.1\Telecom.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom\obj\Debug\netcoreapp2.1\Telecom.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom\obj\Debug\netcoreapp2.1\Telecom.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom\obj\Debug\netcoreapp2.1\Telecom.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom\obj\Debug\netcoreapp2.1\Telecom.pdb

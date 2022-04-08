@@ -1,0 +1,13 @@
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.exe
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.deps.json
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.runtimeconfig.json
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.runtimeconfig.dev.json
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.dll
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.pdb
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.csprojAssemblyReference.cache
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.AssemblyInfoInputs.cache
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.AssemblyInfo.cs
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.csproj.CoreCompileInputs.cache
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.dll
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.pdb
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.genruntimeconfig.cache

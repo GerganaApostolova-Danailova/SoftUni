@@ -1,0 +1,11 @@
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\03. Match Dates\bin\Debug\netcoreapp2.1\03. Match Dates.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\03. Match Dates\bin\Debug\netcoreapp2.1\03. Match Dates.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\03. Match Dates\bin\Debug\netcoreapp2.1\03. Match Dates.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\03. Match Dates\bin\Debug\netcoreapp2.1\03. Match Dates.dll
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\03. Match Dates\bin\Debug\netcoreapp2.1\03. Match Dates.pdb
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\03. Match Dates\obj\Debug\netcoreapp2.1\03. Match Dates.csprojAssemblyReference.cache
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\03. Match Dates\obj\Debug\netcoreapp2.1\03. Match Dates.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\03. Match Dates\obj\Debug\netcoreapp2.1\03. Match Dates.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\03. Match Dates\obj\Debug\netcoreapp2.1\03. Match Dates.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\03. Match Dates\obj\Debug\netcoreapp2.1\03. Match Dates.dll
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\03. Match Dates\obj\Debug\netcoreapp2.1\03. Match Dates.pdb

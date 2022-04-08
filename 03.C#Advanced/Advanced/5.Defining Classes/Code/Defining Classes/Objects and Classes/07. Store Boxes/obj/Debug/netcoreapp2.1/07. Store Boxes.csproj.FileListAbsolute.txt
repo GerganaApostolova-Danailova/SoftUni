@@ -1,0 +1,11 @@
+D:\Geri_Programing\Objects and Classes\07. Store Boxes\bin\Debug\netcoreapp2.1\07. Store Boxes.deps.json
+D:\Geri_Programing\Objects and Classes\07. Store Boxes\bin\Debug\netcoreapp2.1\07. Store Boxes.runtimeconfig.json
+D:\Geri_Programing\Objects and Classes\07. Store Boxes\bin\Debug\netcoreapp2.1\07. Store Boxes.runtimeconfig.dev.json
+D:\Geri_Programing\Objects and Classes\07. Store Boxes\bin\Debug\netcoreapp2.1\07. Store Boxes.dll
+D:\Geri_Programing\Objects and Classes\07. Store Boxes\bin\Debug\netcoreapp2.1\07. Store Boxes.pdb
+D:\Geri_Programing\Objects and Classes\07. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.csprojAssemblyReference.cache
+D:\Geri_Programing\Objects and Classes\07. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Objects and Classes\07. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.AssemblyInfoInputs.cache
+D:\Geri_Programing\Objects and Classes\07. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.AssemblyInfo.cs
+D:\Geri_Programing\Objects and Classes\07. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.dll
+D:\Geri_Programing\Objects and Classes\07. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.pdb

@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\Generic\Code\Exam_Advanced\Two\bin\Debug\netcoreapp2.1\Two.deps.json
+D:\Geri_Programing\03.C#Advanced\Generic\Code\Exam_Advanced\Two\bin\Debug\netcoreapp2.1\Two.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Generic\Code\Exam_Advanced\Two\bin\Debug\netcoreapp2.1\Two.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Generic\Code\Exam_Advanced\Two\bin\Debug\netcoreapp2.1\Two.dll
+D:\Geri_Programing\03.C#Advanced\Generic\Code\Exam_Advanced\Two\bin\Debug\netcoreapp2.1\Two.pdb
+D:\Geri_Programing\03.C#Advanced\Generic\Code\Exam_Advanced\Two\obj\Debug\netcoreapp2.1\Two.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\Generic\Code\Exam_Advanced\Two\obj\Debug\netcoreapp2.1\Two.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Generic\Code\Exam_Advanced\Two\obj\Debug\netcoreapp2.1\Two.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Generic\Code\Exam_Advanced\Two\obj\Debug\netcoreapp2.1\Two.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Generic\Code\Exam_Advanced\Two\obj\Debug\netcoreapp2.1\Two.dll
+D:\Geri_Programing\03.C#Advanced\Generic\Code\Exam_Advanced\Two\obj\Debug\netcoreapp2.1\Two.pdb

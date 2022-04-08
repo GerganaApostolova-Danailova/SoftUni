@@ -1,0 +1,6 @@
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\TikcetCombination2\bin\Debug\TikcetCombination2.exe.config
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\TikcetCombination2\bin\Debug\TikcetCombination2.exe
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\TikcetCombination2\bin\Debug\TikcetCombination2.pdb
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\TikcetCombination2\obj\Debug\TikcetCombination2.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\TikcetCombination2\obj\Debug\TikcetCombination2.exe
+D:\Geri_Programing\Lecture SevenExam\Code\PrimeExam\TikcetCombination2\obj\Debug\TikcetCombination2.pdb

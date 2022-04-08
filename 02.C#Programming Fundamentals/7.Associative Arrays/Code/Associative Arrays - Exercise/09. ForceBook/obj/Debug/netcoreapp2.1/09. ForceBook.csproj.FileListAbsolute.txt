@@ -1,0 +1,11 @@
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp2.1\09. ForceBook.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp2.1\09. ForceBook.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp2.1\09. ForceBook.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp2.1\09. ForceBook.dll
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp2.1\09. ForceBook.pdb
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp2.1\09. ForceBook.csprojAssemblyReference.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp2.1\09. ForceBook.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp2.1\09. ForceBook.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp2.1\09. ForceBook.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp2.1\09. ForceBook.dll
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp2.1\09. ForceBook.pdb

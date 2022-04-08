@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\01. Train\bin\Debug\netcoreapp2.1\01. Train.deps.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\01. Train\bin\Debug\netcoreapp2.1\01. Train.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\01. Train\bin\Debug\netcoreapp2.1\01. Train.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\01. Train\bin\Debug\netcoreapp2.1\01. Train.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\01. Train\bin\Debug\netcoreapp2.1\01. Train.pdb
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\01. Train\obj\Debug\netcoreapp2.1\01. Train.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\01. Train\obj\Debug\netcoreapp2.1\01. Train.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\01. Train\obj\Debug\netcoreapp2.1\01. Train.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\01. Train\obj\Debug\netcoreapp2.1\01. Train.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\01. Train\obj\Debug\netcoreapp2.1\01. Train.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\01. Train\obj\Debug\netcoreapp2.1\01. Train.pdb

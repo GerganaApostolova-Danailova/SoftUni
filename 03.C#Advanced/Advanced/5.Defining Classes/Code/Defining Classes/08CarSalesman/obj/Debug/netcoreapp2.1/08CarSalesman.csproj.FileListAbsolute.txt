@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\08CarSalesman\bin\Debug\netcoreapp2.1\08CarSalesman.deps.json
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\08CarSalesman\bin\Debug\netcoreapp2.1\08CarSalesman.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\08CarSalesman\bin\Debug\netcoreapp2.1\08CarSalesman.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\08CarSalesman\bin\Debug\netcoreapp2.1\08CarSalesman.dll
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\08CarSalesman\bin\Debug\netcoreapp2.1\08CarSalesman.pdb
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\08CarSalesman\obj\Debug\netcoreapp2.1\08CarSalesman.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\08CarSalesman\obj\Debug\netcoreapp2.1\08CarSalesman.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\08CarSalesman\obj\Debug\netcoreapp2.1\08CarSalesman.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\08CarSalesman\obj\Debug\netcoreapp2.1\08CarSalesman.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\08CarSalesman\obj\Debug\netcoreapp2.1\08CarSalesman.dll
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\08CarSalesman\obj\Debug\netcoreapp2.1\08CarSalesman.pdb

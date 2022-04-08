@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\Exam - 15 December 2019\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp2.1\Aquariums.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\Exam - 15 December 2019\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp2.1\Aquariums.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\Exam - 15 December 2019\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp2.1\Aquariums.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\Exam - 15 December 2019\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp2.1\Aquariums.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\Exam - 15 December 2019\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp2.1\Aquariums.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\Exam - 15 December 2019\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp2.1\Aquariums.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\Exam - 15 December 2019\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp2.1\Aquariums.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\Exam - 15 December 2019\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp2.1\Aquariums.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\Exam - 15 December 2019\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp2.1\Aquariums.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\Exam - 15 December 2019\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp2.1\Aquariums.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\Exam - 15 December 2019\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp2.1\Aquariums.pdb

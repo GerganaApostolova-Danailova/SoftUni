@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsLab\Building\bin\Debug\Building.exe.config
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsLab\Building\bin\Debug\Building.exe
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsLab\Building\bin\Debug\Building.pdb
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsLab\Building\obj\Debug\Building.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsLab\Building\obj\Debug\Building.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsLab\Building\obj\Debug\Building.exe
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsLab\Building\obj\Debug\Building.pdb

@@ -1,0 +1,11 @@
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\netcoreapp2.1\01. Count Chars in a String.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\netcoreapp2.1\01. Count Chars in a String.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\netcoreapp2.1\01. Count Chars in a String.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\netcoreapp2.1\01. Count Chars in a String.dll
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\netcoreapp2.1\01. Count Chars in a String.pdb
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\netcoreapp2.1\01. Count Chars in a String.csprojAssemblyReference.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\netcoreapp2.1\01. Count Chars in a String.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\netcoreapp2.1\01. Count Chars in a String.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\netcoreapp2.1\01. Count Chars in a String.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\netcoreapp2.1\01. Count Chars in a String.dll
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\netcoreapp2.1\01. Count Chars in a String.pdb

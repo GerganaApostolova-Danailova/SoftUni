@@ -1,0 +1,10 @@
+D:\Geri_Programing\Objects and Classes\04. Students\bin\Debug\netcoreapp2.1\04. Students.deps.json
+D:\Geri_Programing\Objects and Classes\04. Students\bin\Debug\netcoreapp2.1\04. Students.runtimeconfig.json
+D:\Geri_Programing\Objects and Classes\04. Students\bin\Debug\netcoreapp2.1\04. Students.runtimeconfig.dev.json
+D:\Geri_Programing\Objects and Classes\04. Students\bin\Debug\netcoreapp2.1\04. Students.dll
+D:\Geri_Programing\Objects and Classes\04. Students\bin\Debug\netcoreapp2.1\04. Students.pdb
+D:\Geri_Programing\Objects and Classes\04. Students\obj\Debug\netcoreapp2.1\04. Students.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Objects and Classes\04. Students\obj\Debug\netcoreapp2.1\04. Students.AssemblyInfoInputs.cache
+D:\Geri_Programing\Objects and Classes\04. Students\obj\Debug\netcoreapp2.1\04. Students.AssemblyInfo.cs
+D:\Geri_Programing\Objects and Classes\04. Students\obj\Debug\netcoreapp2.1\04. Students.dll
+D:\Geri_Programing\Objects and Classes\04. Students\obj\Debug\netcoreapp2.1\04. Students.pdb

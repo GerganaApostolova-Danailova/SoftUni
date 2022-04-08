@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\03. Elevator\bin\Debug\netcoreapp2.1\03. Elevator.deps.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\03. Elevator\bin\Debug\netcoreapp2.1\03. Elevator.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\03. Elevator\bin\Debug\netcoreapp2.1\03. Elevator.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\03. Elevator\bin\Debug\netcoreapp2.1\03. Elevator.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\03. Elevator\bin\Debug\netcoreapp2.1\03. Elevator.pdb
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\03. Elevator\obj\Debug\netcoreapp2.1\03. Elevator.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\03. Elevator\obj\Debug\netcoreapp2.1\03. Elevator.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\03. Elevator\obj\Debug\netcoreapp2.1\03. Elevator.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\03. Elevator\obj\Debug\netcoreapp2.1\03. Elevator.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\03. Elevator\obj\Debug\netcoreapp2.1\03. Elevator.pdb

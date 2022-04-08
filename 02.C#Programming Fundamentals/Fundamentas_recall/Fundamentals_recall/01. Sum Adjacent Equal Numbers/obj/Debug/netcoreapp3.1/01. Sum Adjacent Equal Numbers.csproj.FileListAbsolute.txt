@@ -1,0 +1,13 @@
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.exe
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.deps.json
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.dll
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.pdb
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.dll
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.pdb
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.genruntimeconfig.cache
+C:\Geri_Programing\02.C#Programming Fundamentals\Fundamentas_recall\Fundamentals_recall\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.exe
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csprojAssemblyReference.cache
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache

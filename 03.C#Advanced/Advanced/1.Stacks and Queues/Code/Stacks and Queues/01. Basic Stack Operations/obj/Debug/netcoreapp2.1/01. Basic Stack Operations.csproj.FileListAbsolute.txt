@@ -1,0 +1,11 @@
+D:\Geri_Programing\Stacks and Queues\01. Basic Stack Operations\bin\Debug\netcoreapp2.1\01. Basic Stack Operations.deps.json
+D:\Geri_Programing\Stacks and Queues\01. Basic Stack Operations\bin\Debug\netcoreapp2.1\01. Basic Stack Operations.runtimeconfig.json
+D:\Geri_Programing\Stacks and Queues\01. Basic Stack Operations\bin\Debug\netcoreapp2.1\01. Basic Stack Operations.runtimeconfig.dev.json
+D:\Geri_Programing\Stacks and Queues\01. Basic Stack Operations\bin\Debug\netcoreapp2.1\01. Basic Stack Operations.dll
+D:\Geri_Programing\Stacks and Queues\01. Basic Stack Operations\bin\Debug\netcoreapp2.1\01. Basic Stack Operations.pdb
+D:\Geri_Programing\Stacks and Queues\01. Basic Stack Operations\obj\Debug\netcoreapp2.1\01. Basic Stack Operations.csprojAssemblyReference.cache
+D:\Geri_Programing\Stacks and Queues\01. Basic Stack Operations\obj\Debug\netcoreapp2.1\01. Basic Stack Operations.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Stacks and Queues\01. Basic Stack Operations\obj\Debug\netcoreapp2.1\01. Basic Stack Operations.AssemblyInfoInputs.cache
+D:\Geri_Programing\Stacks and Queues\01. Basic Stack Operations\obj\Debug\netcoreapp2.1\01. Basic Stack Operations.AssemblyInfo.cs
+D:\Geri_Programing\Stacks and Queues\01. Basic Stack Operations\obj\Debug\netcoreapp2.1\01. Basic Stack Operations.dll
+D:\Geri_Programing\Stacks and Queues\01. Basic Stack Operations\obj\Debug\netcoreapp2.1\01. Basic Stack Operations.pdb

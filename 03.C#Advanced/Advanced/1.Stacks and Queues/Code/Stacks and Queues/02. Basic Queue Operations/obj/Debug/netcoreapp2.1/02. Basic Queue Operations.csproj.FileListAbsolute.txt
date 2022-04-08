@@ -1,0 +1,10 @@
+D:\Geri_Programing\Stacks and Queues\02. Basic Queue Operations\bin\Debug\netcoreapp2.1\02. Basic Queue Operations.deps.json
+D:\Geri_Programing\Stacks and Queues\02. Basic Queue Operations\bin\Debug\netcoreapp2.1\02. Basic Queue Operations.runtimeconfig.json
+D:\Geri_Programing\Stacks and Queues\02. Basic Queue Operations\bin\Debug\netcoreapp2.1\02. Basic Queue Operations.runtimeconfig.dev.json
+D:\Geri_Programing\Stacks and Queues\02. Basic Queue Operations\bin\Debug\netcoreapp2.1\02. Basic Queue Operations.dll
+D:\Geri_Programing\Stacks and Queues\02. Basic Queue Operations\bin\Debug\netcoreapp2.1\02. Basic Queue Operations.pdb
+D:\Geri_Programing\Stacks and Queues\02. Basic Queue Operations\obj\Debug\netcoreapp2.1\02. Basic Queue Operations.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Stacks and Queues\02. Basic Queue Operations\obj\Debug\netcoreapp2.1\02. Basic Queue Operations.AssemblyInfoInputs.cache
+D:\Geri_Programing\Stacks and Queues\02. Basic Queue Operations\obj\Debug\netcoreapp2.1\02. Basic Queue Operations.AssemblyInfo.cs
+D:\Geri_Programing\Stacks and Queues\02. Basic Queue Operations\obj\Debug\netcoreapp2.1\02. Basic Queue Operations.dll
+D:\Geri_Programing\Stacks and Queues\02. Basic Queue Operations\obj\Debug\netcoreapp2.1\02. Basic Queue Operations.pdb

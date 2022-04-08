@@ -1,0 +1,11 @@
+D:\Geri_Programing\Stacks and Queues\1. Reverse Strings\bin\Debug\netcoreapp2.1\1. Reverse Strings.deps.json
+D:\Geri_Programing\Stacks and Queues\1. Reverse Strings\bin\Debug\netcoreapp2.1\1. Reverse Strings.runtimeconfig.json
+D:\Geri_Programing\Stacks and Queues\1. Reverse Strings\bin\Debug\netcoreapp2.1\1. Reverse Strings.runtimeconfig.dev.json
+D:\Geri_Programing\Stacks and Queues\1. Reverse Strings\bin\Debug\netcoreapp2.1\1. Reverse Strings.dll
+D:\Geri_Programing\Stacks and Queues\1. Reverse Strings\bin\Debug\netcoreapp2.1\1. Reverse Strings.pdb
+D:\Geri_Programing\Stacks and Queues\1. Reverse Strings\obj\Debug\netcoreapp2.1\1. Reverse Strings.csprojAssemblyReference.cache
+D:\Geri_Programing\Stacks and Queues\1. Reverse Strings\obj\Debug\netcoreapp2.1\1. Reverse Strings.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Stacks and Queues\1. Reverse Strings\obj\Debug\netcoreapp2.1\1. Reverse Strings.AssemblyInfoInputs.cache
+D:\Geri_Programing\Stacks and Queues\1. Reverse Strings\obj\Debug\netcoreapp2.1\1. Reverse Strings.AssemblyInfo.cs
+D:\Geri_Programing\Stacks and Queues\1. Reverse Strings\obj\Debug\netcoreapp2.1\1. Reverse Strings.dll
+D:\Geri_Programing\Stacks and Queues\1. Reverse Strings\obj\Debug\netcoreapp2.1\1. Reverse Strings.pdb

@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\07. Water Overflow\bin\Debug\netcoreapp2.1\07. Water Overflow.deps.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\07. Water Overflow\bin\Debug\netcoreapp2.1\07. Water Overflow.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\07. Water Overflow\bin\Debug\netcoreapp2.1\07. Water Overflow.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\07. Water Overflow\bin\Debug\netcoreapp2.1\07. Water Overflow.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\07. Water Overflow\bin\Debug\netcoreapp2.1\07. Water Overflow.pdb
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\07. Water Overflow\obj\Debug\netcoreapp2.1\07. Water Overflow.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\07. Water Overflow\obj\Debug\netcoreapp2.1\07. Water Overflow.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\07. Water Overflow\obj\Debug\netcoreapp2.1\07. Water Overflow.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\07. Water Overflow\obj\Debug\netcoreapp2.1\07. Water Overflow.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\07. Water Overflow\obj\Debug\netcoreapp2.1\07. Water Overflow.pdb
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\07. Water Overflow\obj\Debug\netcoreapp2.1\07. Water Overflow.csprojAssemblyReference.cache

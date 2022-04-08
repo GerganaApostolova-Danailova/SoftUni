@@ -1,0 +1,11 @@
+D:\Geri_Programing\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp2.1\04. Snowwhite.deps.json
+D:\Geri_Programing\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp2.1\04. Snowwhite.runtimeconfig.json
+D:\Geri_Programing\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp2.1\04. Snowwhite.runtimeconfig.dev.json
+D:\Geri_Programing\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp2.1\04. Snowwhite.dll
+D:\Geri_Programing\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp2.1\04. Snowwhite.pdb
+D:\Geri_Programing\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp2.1\04. Snowwhite.csprojAssemblyReference.cache
+D:\Geri_Programing\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp2.1\04. Snowwhite.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp2.1\04. Snowwhite.AssemblyInfoInputs.cache
+D:\Geri_Programing\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp2.1\04. Snowwhite.AssemblyInfo.cs
+D:\Geri_Programing\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp2.1\04. Snowwhite.dll
+D:\Geri_Programing\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp2.1\04. Snowwhite.pdb

@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.deps.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.pdb
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\ArreysExersize\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.pdb

@@ -1,0 +1,11 @@
+D:\Geri_Programing\Text Processing\05. Digits, Letters and Other\bin\Debug\netcoreapp2.1\05. Digits, Letters and Other.deps.json
+D:\Geri_Programing\Text Processing\05. Digits, Letters and Other\bin\Debug\netcoreapp2.1\05. Digits, Letters and Other.runtimeconfig.json
+D:\Geri_Programing\Text Processing\05. Digits, Letters and Other\bin\Debug\netcoreapp2.1\05. Digits, Letters and Other.runtimeconfig.dev.json
+D:\Geri_Programing\Text Processing\05. Digits, Letters and Other\bin\Debug\netcoreapp2.1\05. Digits, Letters and Other.dll
+D:\Geri_Programing\Text Processing\05. Digits, Letters and Other\bin\Debug\netcoreapp2.1\05. Digits, Letters and Other.pdb
+D:\Geri_Programing\Text Processing\05. Digits, Letters and Other\obj\Debug\netcoreapp2.1\05. Digits, Letters and Other.csprojAssemblyReference.cache
+D:\Geri_Programing\Text Processing\05. Digits, Letters and Other\obj\Debug\netcoreapp2.1\05. Digits, Letters and Other.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Text Processing\05. Digits, Letters and Other\obj\Debug\netcoreapp2.1\05. Digits, Letters and Other.AssemblyInfoInputs.cache
+D:\Geri_Programing\Text Processing\05. Digits, Letters and Other\obj\Debug\netcoreapp2.1\05. Digits, Letters and Other.AssemblyInfo.cs
+D:\Geri_Programing\Text Processing\05. Digits, Letters and Other\obj\Debug\netcoreapp2.1\05. Digits, Letters and Other.dll
+D:\Geri_Programing\Text Processing\05. Digits, Letters and Other\obj\Debug\netcoreapp2.1\05. Digits, Letters and Other.pdb

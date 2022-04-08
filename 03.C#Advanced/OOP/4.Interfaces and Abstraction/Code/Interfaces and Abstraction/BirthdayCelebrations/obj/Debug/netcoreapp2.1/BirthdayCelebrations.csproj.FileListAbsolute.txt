@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\BirthdayCelebrations\bin\Debug\netcoreapp2.1\BirthdayCelebrations.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\BirthdayCelebrations\bin\Debug\netcoreapp2.1\BirthdayCelebrations.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\BirthdayCelebrations\bin\Debug\netcoreapp2.1\BirthdayCelebrations.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\BirthdayCelebrations\bin\Debug\netcoreapp2.1\BirthdayCelebrations.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\BirthdayCelebrations\bin\Debug\netcoreapp2.1\BirthdayCelebrations.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\BirthdayCelebrations\obj\Debug\netcoreapp2.1\BirthdayCelebrations.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\BirthdayCelebrations\obj\Debug\netcoreapp2.1\BirthdayCelebrations.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\BirthdayCelebrations\obj\Debug\netcoreapp2.1\BirthdayCelebrations.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\BirthdayCelebrations\obj\Debug\netcoreapp2.1\BirthdayCelebrations.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\BirthdayCelebrations\obj\Debug\netcoreapp2.1\BirthdayCelebrations.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\BirthdayCelebrations\obj\Debug\netcoreapp2.1\BirthdayCelebrations.pdb

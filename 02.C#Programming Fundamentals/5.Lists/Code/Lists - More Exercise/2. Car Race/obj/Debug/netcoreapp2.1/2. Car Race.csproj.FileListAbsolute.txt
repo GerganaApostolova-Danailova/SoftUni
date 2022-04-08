@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\2. Car Race\bin\Debug\netcoreapp2.1\2. Car Race.deps.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\2. Car Race\bin\Debug\netcoreapp2.1\2. Car Race.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\2. Car Race\bin\Debug\netcoreapp2.1\2. Car Race.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\2. Car Race\bin\Debug\netcoreapp2.1\2. Car Race.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\2. Car Race\bin\Debug\netcoreapp2.1\2. Car Race.pdb
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\2. Car Race\obj\Debug\netcoreapp2.1\2. Car Race.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\2. Car Race\obj\Debug\netcoreapp2.1\2. Car Race.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\2. Car Race\obj\Debug\netcoreapp2.1\2. Car Race.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\2. Car Race\obj\Debug\netcoreapp2.1\2. Car Race.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\2. Car Race\obj\Debug\netcoreapp2.1\2. Car Race.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\2. Car Race\obj\Debug\netcoreapp2.1\2. Car Race.pdb

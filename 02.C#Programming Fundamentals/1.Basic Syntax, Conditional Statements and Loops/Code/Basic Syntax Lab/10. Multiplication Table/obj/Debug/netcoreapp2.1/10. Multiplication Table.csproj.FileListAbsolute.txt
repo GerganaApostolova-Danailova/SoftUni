@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\10. Multiplication Table\bin\Debug\netcoreapp2.1\10. Multiplication Table.deps.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\10. Multiplication Table\bin\Debug\netcoreapp2.1\10. Multiplication Table.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\10. Multiplication Table\bin\Debug\netcoreapp2.1\10. Multiplication Table.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\10. Multiplication Table\bin\Debug\netcoreapp2.1\10. Multiplication Table.dll
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\10. Multiplication Table\bin\Debug\netcoreapp2.1\10. Multiplication Table.pdb
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\10. Multiplication Table\obj\Debug\netcoreapp2.1\10. Multiplication Table.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\10. Multiplication Table\obj\Debug\netcoreapp2.1\10. Multiplication Table.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\10. Multiplication Table\obj\Debug\netcoreapp2.1\10. Multiplication Table.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\10. Multiplication Table\obj\Debug\netcoreapp2.1\10. Multiplication Table.dll
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\Basic Syntax Lab\10. Multiplication Table\obj\Debug\netcoreapp2.1\10. Multiplication Table.pdb

@@ -1,0 +1,11 @@
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\02. Practice Sessions\bin\Debug\netcoreapp2.1\02. Practice Sessions.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\02. Practice Sessions\bin\Debug\netcoreapp2.1\02. Practice Sessions.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\02. Practice Sessions\bin\Debug\netcoreapp2.1\02. Practice Sessions.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\02. Practice Sessions\bin\Debug\netcoreapp2.1\02. Practice Sessions.dll
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\02. Practice Sessions\bin\Debug\netcoreapp2.1\02. Practice Sessions.pdb
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\02. Practice Sessions\obj\Debug\netcoreapp2.1\02. Practice Sessions.csprojAssemblyReference.cache
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\02. Practice Sessions\obj\Debug\netcoreapp2.1\02. Practice Sessions.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\02. Practice Sessions\obj\Debug\netcoreapp2.1\02. Practice Sessions.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\02. Practice Sessions\obj\Debug\netcoreapp2.1\02. Practice Sessions.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\02. Practice Sessions\obj\Debug\netcoreapp2.1\02. Practice Sessions.dll
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\02. Practice Sessions\obj\Debug\netcoreapp2.1\02. Practice Sessions.pdb

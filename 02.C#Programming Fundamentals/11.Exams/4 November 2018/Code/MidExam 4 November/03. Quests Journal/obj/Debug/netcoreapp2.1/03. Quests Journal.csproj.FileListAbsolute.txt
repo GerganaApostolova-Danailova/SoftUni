@@ -1,0 +1,11 @@
+D:\Geri_Programing\MidExam 4 November\03. Quests Journal\bin\Debug\netcoreapp2.1\03. Quests Journal.deps.json
+D:\Geri_Programing\MidExam 4 November\03. Quests Journal\bin\Debug\netcoreapp2.1\03. Quests Journal.runtimeconfig.json
+D:\Geri_Programing\MidExam 4 November\03. Quests Journal\bin\Debug\netcoreapp2.1\03. Quests Journal.runtimeconfig.dev.json
+D:\Geri_Programing\MidExam 4 November\03. Quests Journal\bin\Debug\netcoreapp2.1\03. Quests Journal.dll
+D:\Geri_Programing\MidExam 4 November\03. Quests Journal\bin\Debug\netcoreapp2.1\03. Quests Journal.pdb
+D:\Geri_Programing\MidExam 4 November\03. Quests Journal\obj\Debug\netcoreapp2.1\03. Quests Journal.csprojAssemblyReference.cache
+D:\Geri_Programing\MidExam 4 November\03. Quests Journal\obj\Debug\netcoreapp2.1\03. Quests Journal.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\MidExam 4 November\03. Quests Journal\obj\Debug\netcoreapp2.1\03. Quests Journal.AssemblyInfoInputs.cache
+D:\Geri_Programing\MidExam 4 November\03. Quests Journal\obj\Debug\netcoreapp2.1\03. Quests Journal.AssemblyInfo.cs
+D:\Geri_Programing\MidExam 4 November\03. Quests Journal\obj\Debug\netcoreapp2.1\03. Quests Journal.dll
+D:\Geri_Programing\MidExam 4 November\03. Quests Journal\obj\Debug\netcoreapp2.1\03. Quests Journal.pdb

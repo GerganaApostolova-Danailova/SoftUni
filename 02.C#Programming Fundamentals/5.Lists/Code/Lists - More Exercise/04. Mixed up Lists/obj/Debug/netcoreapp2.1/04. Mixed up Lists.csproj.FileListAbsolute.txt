@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\04. Mixed up Lists\bin\Debug\netcoreapp2.1\04. Mixed up Lists.deps.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\04. Mixed up Lists\bin\Debug\netcoreapp2.1\04. Mixed up Lists.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\04. Mixed up Lists\bin\Debug\netcoreapp2.1\04. Mixed up Lists.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\04. Mixed up Lists\bin\Debug\netcoreapp2.1\04. Mixed up Lists.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\04. Mixed up Lists\bin\Debug\netcoreapp2.1\04. Mixed up Lists.pdb
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\04. Mixed up Lists\obj\Debug\netcoreapp2.1\04. Mixed up Lists.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\04. Mixed up Lists\obj\Debug\netcoreapp2.1\04. Mixed up Lists.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\04. Mixed up Lists\obj\Debug\netcoreapp2.1\04. Mixed up Lists.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\04. Mixed up Lists\obj\Debug\netcoreapp2.1\04. Mixed up Lists.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\04. Mixed up Lists\obj\Debug\netcoreapp2.1\04. Mixed up Lists.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - More Exercise\04. Mixed up Lists\obj\Debug\netcoreapp2.1\04. Mixed up Lists.pdb

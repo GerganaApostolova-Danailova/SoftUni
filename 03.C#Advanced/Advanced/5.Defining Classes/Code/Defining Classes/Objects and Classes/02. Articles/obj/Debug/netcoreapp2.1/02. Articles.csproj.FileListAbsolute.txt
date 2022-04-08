@@ -1,0 +1,11 @@
+D:\Geri_Programing\Objects and Classes\02. Articles\bin\Debug\netcoreapp2.1\02. Articles.deps.json
+D:\Geri_Programing\Objects and Classes\02. Articles\bin\Debug\netcoreapp2.1\02. Articles.runtimeconfig.json
+D:\Geri_Programing\Objects and Classes\02. Articles\bin\Debug\netcoreapp2.1\02. Articles.runtimeconfig.dev.json
+D:\Geri_Programing\Objects and Classes\02. Articles\bin\Debug\netcoreapp2.1\02. Articles.dll
+D:\Geri_Programing\Objects and Classes\02. Articles\bin\Debug\netcoreapp2.1\02. Articles.pdb
+D:\Geri_Programing\Objects and Classes\02. Articles\obj\Debug\netcoreapp2.1\02. Articles.csprojAssemblyReference.cache
+D:\Geri_Programing\Objects and Classes\02. Articles\obj\Debug\netcoreapp2.1\02. Articles.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Objects and Classes\02. Articles\obj\Debug\netcoreapp2.1\02. Articles.AssemblyInfoInputs.cache
+D:\Geri_Programing\Objects and Classes\02. Articles\obj\Debug\netcoreapp2.1\02. Articles.AssemblyInfo.cs
+D:\Geri_Programing\Objects and Classes\02. Articles\obj\Debug\netcoreapp2.1\02. Articles.dll
+D:\Geri_Programing\Objects and Classes\02. Articles\obj\Debug\netcoreapp2.1\02. Articles.pdb

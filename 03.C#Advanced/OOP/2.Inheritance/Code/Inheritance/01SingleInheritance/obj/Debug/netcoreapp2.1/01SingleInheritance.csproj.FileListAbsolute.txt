@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\Inheritance\01SingleInheritance\bin\Debug\netcoreapp2.1\01SingleInheritance.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\Inheritance\01SingleInheritance\bin\Debug\netcoreapp2.1\01SingleInheritance.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\Inheritance\01SingleInheritance\bin\Debug\netcoreapp2.1\01SingleInheritance.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\Inheritance\01SingleInheritance\bin\Debug\netcoreapp2.1\01SingleInheritance.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\Inheritance\01SingleInheritance\bin\Debug\netcoreapp2.1\01SingleInheritance.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\Inheritance\01SingleInheritance\obj\Debug\netcoreapp2.1\01SingleInheritance.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\Inheritance\01SingleInheritance\obj\Debug\netcoreapp2.1\01SingleInheritance.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\Inheritance\01SingleInheritance\obj\Debug\netcoreapp2.1\01SingleInheritance.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\Inheritance\01SingleInheritance\obj\Debug\netcoreapp2.1\01SingleInheritance.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\Inheritance\01SingleInheritance\obj\Debug\netcoreapp2.1\01SingleInheritance.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\Inheritance\01SingleInheritance\obj\Debug\netcoreapp2.1\01SingleInheritance.pdb

@@ -1,0 +1,11 @@
+D:\Geri_Programing\Lists Lab\03. Merging Lists\bin\Debug\netcoreapp2.1\03. Merging Lists.deps.json
+D:\Geri_Programing\Lists Lab\03. Merging Lists\bin\Debug\netcoreapp2.1\03. Merging Lists.runtimeconfig.json
+D:\Geri_Programing\Lists Lab\03. Merging Lists\bin\Debug\netcoreapp2.1\03. Merging Lists.runtimeconfig.dev.json
+D:\Geri_Programing\Lists Lab\03. Merging Lists\bin\Debug\netcoreapp2.1\03. Merging Lists.dll
+D:\Geri_Programing\Lists Lab\03. Merging Lists\bin\Debug\netcoreapp2.1\03. Merging Lists.pdb
+D:\Geri_Programing\Lists Lab\03. Merging Lists\obj\Debug\netcoreapp2.1\03. Merging Lists.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lists Lab\03. Merging Lists\obj\Debug\netcoreapp2.1\03. Merging Lists.AssemblyInfoInputs.cache
+D:\Geri_Programing\Lists Lab\03. Merging Lists\obj\Debug\netcoreapp2.1\03. Merging Lists.AssemblyInfo.cs
+D:\Geri_Programing\Lists Lab\03. Merging Lists\obj\Debug\netcoreapp2.1\03. Merging Lists.dll
+D:\Geri_Programing\Lists Lab\03. Merging Lists\obj\Debug\netcoreapp2.1\03. Merging Lists.pdb
+D:\Geri_Programing\Lists Lab\03. Merging Lists\obj\Debug\netcoreapp2.1\03. Merging Lists.csprojAssemblyReference.cache

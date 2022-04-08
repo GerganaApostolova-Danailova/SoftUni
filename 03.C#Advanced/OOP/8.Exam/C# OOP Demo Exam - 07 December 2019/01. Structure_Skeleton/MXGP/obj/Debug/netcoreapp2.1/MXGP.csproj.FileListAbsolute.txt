@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.pdb

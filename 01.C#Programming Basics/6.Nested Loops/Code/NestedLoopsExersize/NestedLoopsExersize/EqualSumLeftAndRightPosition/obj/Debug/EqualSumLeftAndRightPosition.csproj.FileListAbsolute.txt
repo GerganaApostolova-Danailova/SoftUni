@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\EqualSumLeftAndRightPosition\bin\Debug\EqualSumLeftAndRightPosition.exe.config
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\EqualSumLeftAndRightPosition\bin\Debug\EqualSumLeftAndRightPosition.exe
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\EqualSumLeftAndRightPosition\bin\Debug\EqualSumLeftAndRightPosition.pdb
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\EqualSumLeftAndRightPosition\obj\Debug\EqualSumLeftAndRightPosition.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\EqualSumLeftAndRightPosition\obj\Debug\EqualSumLeftAndRightPosition.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\EqualSumLeftAndRightPosition\obj\Debug\EqualSumLeftAndRightPosition.exe
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\EqualSumLeftAndRightPosition\obj\Debug\EqualSumLeftAndRightPosition.pdb

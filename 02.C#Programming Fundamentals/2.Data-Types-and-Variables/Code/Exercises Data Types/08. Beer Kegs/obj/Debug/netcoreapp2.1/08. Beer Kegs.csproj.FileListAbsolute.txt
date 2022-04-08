@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\08. Beer Kegs\bin\Debug\netcoreapp2.1\08. Beer Kegs.deps.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\08. Beer Kegs\bin\Debug\netcoreapp2.1\08. Beer Kegs.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\08. Beer Kegs\bin\Debug\netcoreapp2.1\08. Beer Kegs.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\08. Beer Kegs\bin\Debug\netcoreapp2.1\08. Beer Kegs.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\08. Beer Kegs\bin\Debug\netcoreapp2.1\08. Beer Kegs.pdb
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\08. Beer Kegs\obj\Debug\netcoreapp2.1\08. Beer Kegs.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\08. Beer Kegs\obj\Debug\netcoreapp2.1\08. Beer Kegs.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\08. Beer Kegs\obj\Debug\netcoreapp2.1\08. Beer Kegs.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\08. Beer Kegs\obj\Debug\netcoreapp2.1\08. Beer Kegs.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\08. Beer Kegs\obj\Debug\netcoreapp2.1\08. Beer Kegs.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\08. Beer Kegs\obj\Debug\netcoreapp2.1\08. Beer Kegs.pdb

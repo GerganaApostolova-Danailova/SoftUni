@@ -1,0 +1,114 @@
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.ConsoleApp.exe
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.ConsoleApp.deps.json
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.ConsoleApp.runtimeconfig.json
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.ConsoleApp.runtimeconfig.dev.json
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.ConsoleApp.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.ConsoleApp.pdb
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\obj\Debug\netcoreapp3.1\PetStore.ConsoleApp.csprojAssemblyReference.cache
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\obj\Debug\netcoreapp3.1\PetStore.ConsoleApp.AssemblyInfoInputs.cache
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\obj\Debug\netcoreapp3.1\PetStore.ConsoleApp.AssemblyInfo.cs
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\obj\Debug\netcoreapp3.1\PetStore.ConsoleApp.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\obj\Debug\netcoreapp3.1\PetStore.ConsoleApp.pdb
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\obj\Debug\netcoreapp3.1\PetStore.ConsoleApp.genruntimeconfig.cache
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\obj\Debug\netcoreapp3.1\PetStore.ConsoleApp.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\obj\Debug\netcoreapp3.1\PetStore.ConsoleApp.csproj.CopyComplete
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.Common.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.Data.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.Models.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.Data.pdb
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.Common.pdb
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.Models.pdb
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.Services.dll
+E:\SoftUni\C# Entity Framework Core June 2020\22 EXERCISE BEST PRACTICES AND ARCHITECTURE\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.Services.pdb
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.ConsoleApp.exe
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.ConsoleApp.deps.json
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.ConsoleApp.runtimeconfig.json
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.ConsoleApp.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.ConsoleApp.pdb
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.Common.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.Data.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.Models.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.Services.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.Services.pdb
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.Common.pdb
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.Data.pdb
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\bin\Debug\netcoreapp3.1\PetStore.Models.pdb
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\obj\Debug\netcoreapp3.1\PetStore.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\obj\Debug\netcoreapp3.1\PetStore.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\obj\Debug\netcoreapp3.1\PetStore.ConsoleApp.AssemblyInfo.cs
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\obj\Debug\netcoreapp3.1\PetStore.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\obj\Debug\netcoreapp3.1\PetStore.ConsoleApp.csproj.CopyComplete
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\obj\Debug\netcoreapp3.1\PetStore.ConsoleApp.dll
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\obj\Debug\netcoreapp3.1\PetStore.ConsoleApp.pdb
+C:\Users\Tceci\Desktop\New folder\DB\PetStore\PetStore.ConsoleApp\obj\Debug\netcoreapp3.1\PetStore.ConsoleApp.genruntimeconfig.cache

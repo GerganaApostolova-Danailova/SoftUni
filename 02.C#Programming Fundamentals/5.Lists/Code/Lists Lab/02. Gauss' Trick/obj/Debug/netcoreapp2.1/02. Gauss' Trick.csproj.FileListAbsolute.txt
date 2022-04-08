@@ -1,0 +1,11 @@
+D:\Geri_Programing\Lists Lab\02. Gauss' Trick\bin\Debug\netcoreapp2.1\02. Gauss' Trick.deps.json
+D:\Geri_Programing\Lists Lab\02. Gauss' Trick\bin\Debug\netcoreapp2.1\02. Gauss' Trick.runtimeconfig.json
+D:\Geri_Programing\Lists Lab\02. Gauss' Trick\bin\Debug\netcoreapp2.1\02. Gauss' Trick.runtimeconfig.dev.json
+D:\Geri_Programing\Lists Lab\02. Gauss' Trick\bin\Debug\netcoreapp2.1\02. Gauss' Trick.dll
+D:\Geri_Programing\Lists Lab\02. Gauss' Trick\bin\Debug\netcoreapp2.1\02. Gauss' Trick.pdb
+D:\Geri_Programing\Lists Lab\02. Gauss' Trick\obj\Debug\netcoreapp2.1\02. Gauss' Trick.csprojAssemblyReference.cache
+D:\Geri_Programing\Lists Lab\02. Gauss' Trick\obj\Debug\netcoreapp2.1\02. Gauss' Trick.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lists Lab\02. Gauss' Trick\obj\Debug\netcoreapp2.1\02. Gauss' Trick.AssemblyInfoInputs.cache
+D:\Geri_Programing\Lists Lab\02. Gauss' Trick\obj\Debug\netcoreapp2.1\02. Gauss' Trick.AssemblyInfo.cs
+D:\Geri_Programing\Lists Lab\02. Gauss' Trick\obj\Debug\netcoreapp2.1\02. Gauss' Trick.dll
+D:\Geri_Programing\Lists Lab\02. Gauss' Trick\obj\Debug\netcoreapp2.1\02. Gauss' Trick.pdb

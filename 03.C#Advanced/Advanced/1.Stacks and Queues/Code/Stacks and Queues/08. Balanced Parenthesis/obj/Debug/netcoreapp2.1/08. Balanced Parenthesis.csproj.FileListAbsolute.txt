@@ -1,0 +1,11 @@
+D:\Geri_Programing\Stacks and Queues\08. Balanced Parenthesis\bin\Debug\netcoreapp2.1\08. Balanced Parenthesis.deps.json
+D:\Geri_Programing\Stacks and Queues\08. Balanced Parenthesis\bin\Debug\netcoreapp2.1\08. Balanced Parenthesis.runtimeconfig.json
+D:\Geri_Programing\Stacks and Queues\08. Balanced Parenthesis\bin\Debug\netcoreapp2.1\08. Balanced Parenthesis.runtimeconfig.dev.json
+D:\Geri_Programing\Stacks and Queues\08. Balanced Parenthesis\bin\Debug\netcoreapp2.1\08. Balanced Parenthesis.dll
+D:\Geri_Programing\Stacks and Queues\08. Balanced Parenthesis\bin\Debug\netcoreapp2.1\08. Balanced Parenthesis.pdb
+D:\Geri_Programing\Stacks and Queues\08. Balanced Parenthesis\obj\Debug\netcoreapp2.1\08. Balanced Parenthesis.csprojAssemblyReference.cache
+D:\Geri_Programing\Stacks and Queues\08. Balanced Parenthesis\obj\Debug\netcoreapp2.1\08. Balanced Parenthesis.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Stacks and Queues\08. Balanced Parenthesis\obj\Debug\netcoreapp2.1\08. Balanced Parenthesis.AssemblyInfoInputs.cache
+D:\Geri_Programing\Stacks and Queues\08. Balanced Parenthesis\obj\Debug\netcoreapp2.1\08. Balanced Parenthesis.AssemblyInfo.cs
+D:\Geri_Programing\Stacks and Queues\08. Balanced Parenthesis\obj\Debug\netcoreapp2.1\08. Balanced Parenthesis.dll
+D:\Geri_Programing\Stacks and Queues\08. Balanced Parenthesis\obj\Debug\netcoreapp2.1\08. Balanced Parenthesis.pdb

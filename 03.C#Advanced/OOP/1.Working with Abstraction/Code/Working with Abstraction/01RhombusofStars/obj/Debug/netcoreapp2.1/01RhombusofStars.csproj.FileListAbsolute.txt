@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\01RhombusofStars\bin\Debug\netcoreapp2.1\01RhombusofStars.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\01RhombusofStars\bin\Debug\netcoreapp2.1\01RhombusofStars.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\01RhombusofStars\bin\Debug\netcoreapp2.1\01RhombusofStars.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\01RhombusofStars\bin\Debug\netcoreapp2.1\01RhombusofStars.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\01RhombusofStars\bin\Debug\netcoreapp2.1\01RhombusofStars.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\01RhombusofStars\obj\Debug\netcoreapp2.1\01RhombusofStars.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\01RhombusofStars\obj\Debug\netcoreapp2.1\01RhombusofStars.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\01RhombusofStars\obj\Debug\netcoreapp2.1\01RhombusofStars.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\01RhombusofStars\obj\Debug\netcoreapp2.1\01RhombusofStars.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\01RhombusofStars\obj\Debug\netcoreapp2.1\01RhombusofStars.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\01RhombusofStars\obj\Debug\netcoreapp2.1\01RhombusofStars.pdb

@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Exams\18 December 2018\Code\18 December 2018\18 December 2018\bin\Debug\netcoreapp2.1\Problem 1. Christmas Spirit.deps.json
+D:\Geri_Programing\Programming Fundamentals\Exams\18 December 2018\Code\18 December 2018\18 December 2018\bin\Debug\netcoreapp2.1\Problem 1. Christmas Spirit.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Exams\18 December 2018\Code\18 December 2018\18 December 2018\bin\Debug\netcoreapp2.1\Problem 1. Christmas Spirit.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Exams\18 December 2018\Code\18 December 2018\18 December 2018\bin\Debug\netcoreapp2.1\Problem 1. Christmas Spirit.dll
+D:\Geri_Programing\Programming Fundamentals\Exams\18 December 2018\Code\18 December 2018\18 December 2018\bin\Debug\netcoreapp2.1\Problem 1. Christmas Spirit.pdb
+D:\Geri_Programing\Programming Fundamentals\Exams\18 December 2018\Code\18 December 2018\18 December 2018\obj\Debug\netcoreapp2.1\Problem 1. Christmas Spirit.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\18 December 2018\Code\18 December 2018\18 December 2018\obj\Debug\netcoreapp2.1\Problem 1. Christmas Spirit.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\18 December 2018\Code\18 December 2018\18 December 2018\obj\Debug\netcoreapp2.1\Problem 1. Christmas Spirit.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\18 December 2018\Code\18 December 2018\18 December 2018\obj\Debug\netcoreapp2.1\Problem 1. Christmas Spirit.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Exams\18 December 2018\Code\18 December 2018\18 December 2018\obj\Debug\netcoreapp2.1\Problem 1. Christmas Spirit.dll
+D:\Geri_Programing\Programming Fundamentals\Exams\18 December 2018\Code\18 December 2018\18 December 2018\obj\Debug\netcoreapp2.1\Problem 1. Christmas Spirit.pdb

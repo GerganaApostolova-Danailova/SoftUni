@@ -1,0 +1,11 @@
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\1. String Manipulator\bin\Debug\netcoreapp2.1\1. String Manipulator.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\1. String Manipulator\bin\Debug\netcoreapp2.1\1. String Manipulator.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\1. String Manipulator\bin\Debug\netcoreapp2.1\1. String Manipulator.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\1. String Manipulator\bin\Debug\netcoreapp2.1\1. String Manipulator.dll
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\1. String Manipulator\bin\Debug\netcoreapp2.1\1. String Manipulator.pdb
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\1. String Manipulator\obj\Debug\netcoreapp2.1\1. String Manipulator.csprojAssemblyReference.cache
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\1. String Manipulator\obj\Debug\netcoreapp2.1\1. String Manipulator.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\1. String Manipulator\obj\Debug\netcoreapp2.1\1. String Manipulator.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\1. String Manipulator\obj\Debug\netcoreapp2.1\1. String Manipulator.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\1. String Manipulator\obj\Debug\netcoreapp2.1\1. String Manipulator.dll
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\1. String Manipulator\obj\Debug\netcoreapp2.1\1. String Manipulator.pdb

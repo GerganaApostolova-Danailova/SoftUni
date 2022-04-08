@@ -1,0 +1,11 @@
+D:\Geri_Programing\Stacks and Queues\5. Supermarket\bin\Debug\netcoreapp2.1\5. Supermarket.deps.json
+D:\Geri_Programing\Stacks and Queues\5. Supermarket\bin\Debug\netcoreapp2.1\5. Supermarket.runtimeconfig.json
+D:\Geri_Programing\Stacks and Queues\5. Supermarket\bin\Debug\netcoreapp2.1\5. Supermarket.runtimeconfig.dev.json
+D:\Geri_Programing\Stacks and Queues\5. Supermarket\bin\Debug\netcoreapp2.1\5. Supermarket.dll
+D:\Geri_Programing\Stacks and Queues\5. Supermarket\bin\Debug\netcoreapp2.1\5. Supermarket.pdb
+D:\Geri_Programing\Stacks and Queues\5. Supermarket\obj\Debug\netcoreapp2.1\5. Supermarket.csprojAssemblyReference.cache
+D:\Geri_Programing\Stacks and Queues\5. Supermarket\obj\Debug\netcoreapp2.1\5. Supermarket.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Stacks and Queues\5. Supermarket\obj\Debug\netcoreapp2.1\5. Supermarket.AssemblyInfoInputs.cache
+D:\Geri_Programing\Stacks and Queues\5. Supermarket\obj\Debug\netcoreapp2.1\5. Supermarket.AssemblyInfo.cs
+D:\Geri_Programing\Stacks and Queues\5. Supermarket\obj\Debug\netcoreapp2.1\5. Supermarket.dll
+D:\Geri_Programing\Stacks and Queues\5. Supermarket\obj\Debug\netcoreapp2.1\5. Supermarket.pdb

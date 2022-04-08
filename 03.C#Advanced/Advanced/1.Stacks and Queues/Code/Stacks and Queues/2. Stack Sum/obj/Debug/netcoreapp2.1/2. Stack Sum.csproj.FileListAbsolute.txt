@@ -1,0 +1,11 @@
+D:\Geri_Programing\Stacks and Queues\2. Stack Sum\bin\Debug\netcoreapp2.1\2. Stack Sum.deps.json
+D:\Geri_Programing\Stacks and Queues\2. Stack Sum\bin\Debug\netcoreapp2.1\2. Stack Sum.runtimeconfig.json
+D:\Geri_Programing\Stacks and Queues\2. Stack Sum\bin\Debug\netcoreapp2.1\2. Stack Sum.runtimeconfig.dev.json
+D:\Geri_Programing\Stacks and Queues\2. Stack Sum\bin\Debug\netcoreapp2.1\2. Stack Sum.dll
+D:\Geri_Programing\Stacks and Queues\2. Stack Sum\bin\Debug\netcoreapp2.1\2. Stack Sum.pdb
+D:\Geri_Programing\Stacks and Queues\2. Stack Sum\obj\Debug\netcoreapp2.1\2. Stack Sum.csprojAssemblyReference.cache
+D:\Geri_Programing\Stacks and Queues\2. Stack Sum\obj\Debug\netcoreapp2.1\2. Stack Sum.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Stacks and Queues\2. Stack Sum\obj\Debug\netcoreapp2.1\2. Stack Sum.AssemblyInfoInputs.cache
+D:\Geri_Programing\Stacks and Queues\2. Stack Sum\obj\Debug\netcoreapp2.1\2. Stack Sum.AssemblyInfo.cs
+D:\Geri_Programing\Stacks and Queues\2. Stack Sum\obj\Debug\netcoreapp2.1\2. Stack Sum.dll
+D:\Geri_Programing\Stacks and Queues\2. Stack Sum\obj\Debug\netcoreapp2.1\2. Stack Sum.pdb

@@ -1,0 +1,11 @@
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\05. Nether Realms\bin\Debug\netcoreapp2.1\05. Nether Realms.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\05. Nether Realms\bin\Debug\netcoreapp2.1\05. Nether Realms.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\05. Nether Realms\bin\Debug\netcoreapp2.1\05. Nether Realms.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\05. Nether Realms\bin\Debug\netcoreapp2.1\05. Nether Realms.dll
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\05. Nether Realms\bin\Debug\netcoreapp2.1\05. Nether Realms.pdb
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\05. Nether Realms\obj\Debug\netcoreapp2.1\05. Nether Realms.csprojAssemblyReference.cache
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\05. Nether Realms\obj\Debug\netcoreapp2.1\05. Nether Realms.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\05. Nether Realms\obj\Debug\netcoreapp2.1\05. Nether Realms.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\05. Nether Realms\obj\Debug\netcoreapp2.1\05. Nether Realms.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\05. Nether Realms\obj\Debug\netcoreapp2.1\05. Nether Realms.dll
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\05. Nether Realms\obj\Debug\netcoreapp2.1\05. Nether Realms.pdb

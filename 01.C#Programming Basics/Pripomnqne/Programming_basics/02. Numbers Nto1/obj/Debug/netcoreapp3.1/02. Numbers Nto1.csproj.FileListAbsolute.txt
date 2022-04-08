@@ -1,0 +1,13 @@
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\02. Numbers Nto1\bin\Debug\netcoreapp3.1\02. Numbers Nto1.exe
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\02. Numbers Nto1\bin\Debug\netcoreapp3.1\02. Numbers Nto1.deps.json
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\02. Numbers Nto1\bin\Debug\netcoreapp3.1\02. Numbers Nto1.runtimeconfig.json
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\02. Numbers Nto1\bin\Debug\netcoreapp3.1\02. Numbers Nto1.runtimeconfig.dev.json
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\02. Numbers Nto1\bin\Debug\netcoreapp3.1\02. Numbers Nto1.dll
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\02. Numbers Nto1\bin\Debug\netcoreapp3.1\02. Numbers Nto1.pdb
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\02. Numbers Nto1\obj\Debug\netcoreapp3.1\02. Numbers Nto1.AssemblyInfoInputs.cache
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\02. Numbers Nto1\obj\Debug\netcoreapp3.1\02. Numbers Nto1.AssemblyInfo.cs
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\02. Numbers Nto1\obj\Debug\netcoreapp3.1\02. Numbers Nto1.csproj.CoreCompileInputs.cache
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\02. Numbers Nto1\obj\Debug\netcoreapp3.1\02. Numbers Nto1.dll
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\02. Numbers Nto1\obj\Debug\netcoreapp3.1\02. Numbers Nto1.pdb
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\02. Numbers Nto1\obj\Debug\netcoreapp3.1\02. Numbers Nto1.genruntimeconfig.cache
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\02. Numbers Nto1\obj\Debug\netcoreapp3.1\02. Numbers Nto1.csprojAssemblyReference.cache

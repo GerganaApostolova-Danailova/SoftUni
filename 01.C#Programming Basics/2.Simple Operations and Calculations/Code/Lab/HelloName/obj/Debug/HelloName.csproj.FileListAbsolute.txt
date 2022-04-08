@@ -1,0 +1,7 @@
+D:\Geri_Programing\LectureTwo\Code\LectureTwo\HelloName\bin\Debug\HelloName.exe.config
+D:\Geri_Programing\LectureTwo\Code\LectureTwo\HelloName\bin\Debug\HelloName.exe
+D:\Geri_Programing\LectureTwo\Code\LectureTwo\HelloName\bin\Debug\HelloName.pdb
+D:\Geri_Programing\LectureTwo\Code\LectureTwo\HelloName\obj\Debug\HelloName.csprojAssemblyReference.cache
+D:\Geri_Programing\LectureTwo\Code\LectureTwo\HelloName\obj\Debug\HelloName.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\LectureTwo\Code\LectureTwo\HelloName\obj\Debug\HelloName.exe
+D:\Geri_Programing\LectureTwo\Code\LectureTwo\HelloName\obj\Debug\HelloName.pdb

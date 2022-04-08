@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture Thre\Code\ConditionStatements\EvaluationCheck\obj\Debug\EvaluationCheck.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture Thre\Code\ConditionStatements\EvaluationCheck\obj\Debug\EvaluationCheck.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Thre\Code\ConditionStatements\EvaluationCheck\bin\Debug\EvaluationCheck.exe.config
+D:\Geri_Programing\Lecture Thre\Code\ConditionStatements\EvaluationCheck\bin\Debug\EvaluationCheck.exe
+D:\Geri_Programing\Lecture Thre\Code\ConditionStatements\EvaluationCheck\bin\Debug\EvaluationCheck.pdb
+D:\Geri_Programing\Lecture Thre\Code\ConditionStatements\EvaluationCheck\obj\Debug\EvaluationCheck.exe
+D:\Geri_Programing\Lecture Thre\Code\ConditionStatements\EvaluationCheck\obj\Debug\EvaluationCheck.pdb

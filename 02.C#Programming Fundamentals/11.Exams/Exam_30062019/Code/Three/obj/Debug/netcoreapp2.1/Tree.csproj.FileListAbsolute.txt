@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Exams\Exam_30062019\Tree\bin\Debug\netcoreapp2.1\Tree.deps.json
+D:\Geri_Programing\Programming Fundamentals\Exams\Exam_30062019\Tree\bin\Debug\netcoreapp2.1\Tree.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Exams\Exam_30062019\Tree\bin\Debug\netcoreapp2.1\Tree.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Exams\Exam_30062019\Tree\bin\Debug\netcoreapp2.1\Tree.dll
+D:\Geri_Programing\Programming Fundamentals\Exams\Exam_30062019\Tree\bin\Debug\netcoreapp2.1\Tree.pdb
+D:\Geri_Programing\Programming Fundamentals\Exams\Exam_30062019\Tree\obj\Debug\netcoreapp2.1\Tree.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\Exam_30062019\Tree\obj\Debug\netcoreapp2.1\Tree.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\Exam_30062019\Tree\obj\Debug\netcoreapp2.1\Tree.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\Exam_30062019\Tree\obj\Debug\netcoreapp2.1\Tree.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Exams\Exam_30062019\Tree\obj\Debug\netcoreapp2.1\Tree.dll
+D:\Geri_Programing\Programming Fundamentals\Exams\Exam_30062019\Tree\obj\Debug\netcoreapp2.1\Tree.pdb

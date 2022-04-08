@@ -1,0 +1,11 @@
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\7. Vending Machine\bin\Debug\netcoreapp2.1\7. Vending Machine.deps.json
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\7. Vending Machine\bin\Debug\netcoreapp2.1\7. Vending Machine.runtimeconfig.json
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\7. Vending Machine\bin\Debug\netcoreapp2.1\7. Vending Machine.runtimeconfig.dev.json
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\7. Vending Machine\bin\Debug\netcoreapp2.1\7. Vending Machine.dll
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\7. Vending Machine\bin\Debug\netcoreapp2.1\7. Vending Machine.pdb
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\7. Vending Machine\obj\Debug\netcoreapp2.1\7. Vending Machine.csprojAssemblyReference.cache
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\7. Vending Machine\obj\Debug\netcoreapp2.1\7. Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\7. Vending Machine\obj\Debug\netcoreapp2.1\7. Vending Machine.AssemblyInfoInputs.cache
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\7. Vending Machine\obj\Debug\netcoreapp2.1\7. Vending Machine.AssemblyInfo.cs
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\7. Vending Machine\obj\Debug\netcoreapp2.1\7. Vending Machine.dll
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\7. Vending Machine\obj\Debug\netcoreapp2.1\7. Vending Machine.pdb

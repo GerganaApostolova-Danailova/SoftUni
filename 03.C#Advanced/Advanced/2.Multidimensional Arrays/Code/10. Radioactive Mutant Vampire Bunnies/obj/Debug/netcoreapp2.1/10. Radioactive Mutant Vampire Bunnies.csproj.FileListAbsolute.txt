@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\10. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.1\10. Radioactive Mutant Vampire Bunnies.deps.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\10. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.1\10. Radioactive Mutant Vampire Bunnies.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\10. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.1\10. Radioactive Mutant Vampire Bunnies.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\10. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.1\10. Radioactive Mutant Vampire Bunnies.dll
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\10. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.1\10. Radioactive Mutant Vampire Bunnies.pdb
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.1\10. Radioactive Mutant Vampire Bunnies.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.1\10. Radioactive Mutant Vampire Bunnies.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.1\10. Radioactive Mutant Vampire Bunnies.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.1\10. Radioactive Mutant Vampire Bunnies.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.1\10. Radioactive Mutant Vampire Bunnies.dll
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.1\10. Radioactive Mutant Vampire Bunnies.pdb

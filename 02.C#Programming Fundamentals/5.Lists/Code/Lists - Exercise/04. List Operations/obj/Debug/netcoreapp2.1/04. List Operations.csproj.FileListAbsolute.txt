@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.1\04. List Operations.deps.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.1\04. List Operations.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.1\04. List Operations.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.1\04. List Operations.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.1\04. List Operations.pdb
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations.pdb

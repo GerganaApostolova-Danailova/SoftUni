@@ -1,0 +1,10 @@
+D:\Geri_Programing\Objects and Classes\03. Big Factorial\bin\Debug\netcoreapp2.1\03. Big Factorial.deps.json
+D:\Geri_Programing\Objects and Classes\03. Big Factorial\bin\Debug\netcoreapp2.1\03. Big Factorial.runtimeconfig.json
+D:\Geri_Programing\Objects and Classes\03. Big Factorial\bin\Debug\netcoreapp2.1\03. Big Factorial.runtimeconfig.dev.json
+D:\Geri_Programing\Objects and Classes\03. Big Factorial\bin\Debug\netcoreapp2.1\03. Big Factorial.dll
+D:\Geri_Programing\Objects and Classes\03. Big Factorial\bin\Debug\netcoreapp2.1\03. Big Factorial.pdb
+D:\Geri_Programing\Objects and Classes\03. Big Factorial\obj\Debug\netcoreapp2.1\03. Big Factorial.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Objects and Classes\03. Big Factorial\obj\Debug\netcoreapp2.1\03. Big Factorial.AssemblyInfoInputs.cache
+D:\Geri_Programing\Objects and Classes\03. Big Factorial\obj\Debug\netcoreapp2.1\03. Big Factorial.AssemblyInfo.cs
+D:\Geri_Programing\Objects and Classes\03. Big Factorial\obj\Debug\netcoreapp2.1\03. Big Factorial.dll
+D:\Geri_Programing\Objects and Classes\03. Big Factorial\obj\Debug\netcoreapp2.1\03. Big Factorial.pdb

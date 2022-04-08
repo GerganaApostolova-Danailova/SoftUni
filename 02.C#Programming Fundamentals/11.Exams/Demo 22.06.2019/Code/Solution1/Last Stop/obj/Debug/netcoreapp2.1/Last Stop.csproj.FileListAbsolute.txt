@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\Exams\Demo 22.06.2019\Code\Solution1\Last Stop\bin\Debug\netcoreapp2.1\Last Stop.deps.json
+D:\Geri_Programing\Programming Fundamentals\Exams\Demo 22.06.2019\Code\Solution1\Last Stop\bin\Debug\netcoreapp2.1\Last Stop.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Exams\Demo 22.06.2019\Code\Solution1\Last Stop\bin\Debug\netcoreapp2.1\Last Stop.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Exams\Demo 22.06.2019\Code\Solution1\Last Stop\bin\Debug\netcoreapp2.1\Last Stop.dll
+D:\Geri_Programing\Programming Fundamentals\Exams\Demo 22.06.2019\Code\Solution1\Last Stop\bin\Debug\netcoreapp2.1\Last Stop.pdb
+D:\Geri_Programing\Programming Fundamentals\Exams\Demo 22.06.2019\Code\Solution1\Last Stop\obj\Debug\netcoreapp2.1\Last Stop.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\Demo 22.06.2019\Code\Solution1\Last Stop\obj\Debug\netcoreapp2.1\Last Stop.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\Demo 22.06.2019\Code\Solution1\Last Stop\obj\Debug\netcoreapp2.1\Last Stop.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Exams\Demo 22.06.2019\Code\Solution1\Last Stop\obj\Debug\netcoreapp2.1\Last Stop.dll
+D:\Geri_Programing\Programming Fundamentals\Exams\Demo 22.06.2019\Code\Solution1\Last Stop\obj\Debug\netcoreapp2.1\Last Stop.pdb

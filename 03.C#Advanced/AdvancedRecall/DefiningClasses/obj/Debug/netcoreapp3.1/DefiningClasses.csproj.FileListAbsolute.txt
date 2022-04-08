@@ -1,0 +1,13 @@
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.exe
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.deps.json
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.json
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.dev.json
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.dll
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.pdb
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfoInputs.cache
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfo.cs
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csproj.CoreCompileInputs.cache
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.dll
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.pdb
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.genruntimeconfig.cache
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csprojAssemblyReference.cache

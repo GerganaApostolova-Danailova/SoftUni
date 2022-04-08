@@ -1,0 +1,6 @@
+C:\Users\Tceci\source\repos\Exam20-21April\3\bin\Debug\3.exe.config
+C:\Users\Tceci\source\repos\Exam20-21April\3\bin\Debug\3.exe
+C:\Users\Tceci\source\repos\Exam20-21April\3\bin\Debug\3.pdb
+C:\Users\Tceci\source\repos\Exam20-21April\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Users\Tceci\source\repos\Exam20-21April\3\obj\Debug\3.exe
+C:\Users\Tceci\source\repos\Exam20-21April\3\obj\Debug\3.pdb

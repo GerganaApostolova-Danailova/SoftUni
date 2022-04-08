@@ -1,0 +1,11 @@
+D:\Geri_Programing\Stacks and Queues\12. Cups and Bottles\bin\Debug\netcoreapp2.1\12. Cups and Bottles.deps.json
+D:\Geri_Programing\Stacks and Queues\12. Cups and Bottles\bin\Debug\netcoreapp2.1\12. Cups and Bottles.runtimeconfig.json
+D:\Geri_Programing\Stacks and Queues\12. Cups and Bottles\bin\Debug\netcoreapp2.1\12. Cups and Bottles.runtimeconfig.dev.json
+D:\Geri_Programing\Stacks and Queues\12. Cups and Bottles\bin\Debug\netcoreapp2.1\12. Cups and Bottles.dll
+D:\Geri_Programing\Stacks and Queues\12. Cups and Bottles\bin\Debug\netcoreapp2.1\12. Cups and Bottles.pdb
+D:\Geri_Programing\Stacks and Queues\12. Cups and Bottles\obj\Debug\netcoreapp2.1\12. Cups and Bottles.csprojAssemblyReference.cache
+D:\Geri_Programing\Stacks and Queues\12. Cups and Bottles\obj\Debug\netcoreapp2.1\12. Cups and Bottles.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Stacks and Queues\12. Cups and Bottles\obj\Debug\netcoreapp2.1\12. Cups and Bottles.AssemblyInfoInputs.cache
+D:\Geri_Programing\Stacks and Queues\12. Cups and Bottles\obj\Debug\netcoreapp2.1\12. Cups and Bottles.AssemblyInfo.cs
+D:\Geri_Programing\Stacks and Queues\12. Cups and Bottles\obj\Debug\netcoreapp2.1\12. Cups and Bottles.dll
+D:\Geri_Programing\Stacks and Queues\12. Cups and Bottles\obj\Debug\netcoreapp2.1\12. Cups and Bottles.pdb

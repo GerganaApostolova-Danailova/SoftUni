@@ -1,0 +1,10 @@
+D:\Geri_Programing\Text Processing\01. Valid Usernames\bin\Debug\netcoreapp2.1\01. Valid Usernames.deps.json
+D:\Geri_Programing\Text Processing\01. Valid Usernames\bin\Debug\netcoreapp2.1\01. Valid Usernames.runtimeconfig.json
+D:\Geri_Programing\Text Processing\01. Valid Usernames\bin\Debug\netcoreapp2.1\01. Valid Usernames.runtimeconfig.dev.json
+D:\Geri_Programing\Text Processing\01. Valid Usernames\bin\Debug\netcoreapp2.1\01. Valid Usernames.dll
+D:\Geri_Programing\Text Processing\01. Valid Usernames\bin\Debug\netcoreapp2.1\01. Valid Usernames.pdb
+D:\Geri_Programing\Text Processing\01. Valid Usernames\obj\Debug\netcoreapp2.1\01. Valid Usernames.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Text Processing\01. Valid Usernames\obj\Debug\netcoreapp2.1\01. Valid Usernames.AssemblyInfoInputs.cache
+D:\Geri_Programing\Text Processing\01. Valid Usernames\obj\Debug\netcoreapp2.1\01. Valid Usernames.AssemblyInfo.cs
+D:\Geri_Programing\Text Processing\01. Valid Usernames\obj\Debug\netcoreapp2.1\01. Valid Usernames.dll
+D:\Geri_Programing\Text Processing\01. Valid Usernames\obj\Debug\netcoreapp2.1\01. Valid Usernames.pdb

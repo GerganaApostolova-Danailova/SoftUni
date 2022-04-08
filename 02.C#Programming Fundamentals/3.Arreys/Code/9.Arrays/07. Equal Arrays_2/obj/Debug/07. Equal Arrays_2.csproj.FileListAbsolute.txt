@@ -1,0 +1,6 @@
+C:\Users\Tceci\source\repos\9.Arrays\07. Equal Arrays_2\bin\Debug\_07.Equal_Arrays_2.exe.config
+C:\Users\Tceci\source\repos\9.Arrays\07. Equal Arrays_2\bin\Debug\_07.Equal_Arrays_2.exe
+C:\Users\Tceci\source\repos\9.Arrays\07. Equal Arrays_2\bin\Debug\_07.Equal_Arrays_2.pdb
+C:\Users\Tceci\source\repos\9.Arrays\07. Equal Arrays_2\obj\Debug\07. Equal Arrays_2.csproj.CoreCompileInputs.cache
+C:\Users\Tceci\source\repos\9.Arrays\07. Equal Arrays_2\obj\Debug\_07.Equal_Arrays_2.exe
+C:\Users\Tceci\source\repos\9.Arrays\07. Equal Arrays_2\obj\Debug\_07.Equal_Arrays_2.pdb

@@ -1,0 +1,15 @@
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.deps.json
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.runtimeconfig.json
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.runtimeconfig.dev.json
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.dll
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.pdb
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.dll
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.pdb
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.csprojAssemblyReference.cache
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.AssemblyInfoInputs.cache
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.AssemblyInfo.cs
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.csproj.CopyComplete
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.dll
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.pdb
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.genruntimeconfig.cache

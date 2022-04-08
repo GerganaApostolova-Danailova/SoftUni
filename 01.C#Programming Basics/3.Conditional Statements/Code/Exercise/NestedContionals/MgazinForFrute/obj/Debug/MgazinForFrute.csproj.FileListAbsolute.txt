@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture Three\Exsersize\code\NestedContionals\MgazinForFrute\bin\Debug\MgazinForFrute.exe.config
+D:\Geri_Programing\Lecture Three\Exsersize\code\NestedContionals\MgazinForFrute\bin\Debug\MgazinForFrute.exe
+D:\Geri_Programing\Lecture Three\Exsersize\code\NestedContionals\MgazinForFrute\bin\Debug\MgazinForFrute.pdb
+D:\Geri_Programing\Lecture Three\Exsersize\code\NestedContionals\MgazinForFrute\obj\Debug\MgazinForFrute.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture Three\Exsersize\code\NestedContionals\MgazinForFrute\obj\Debug\MgazinForFrute.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Three\Exsersize\code\NestedContionals\MgazinForFrute\obj\Debug\MgazinForFrute.exe
+D:\Geri_Programing\Lecture Three\Exsersize\code\NestedContionals\MgazinForFrute\obj\Debug\MgazinForFrute.pdb

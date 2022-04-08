@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp2.1\11. Array Manipulator.deps.json
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp2.1\11. Array Manipulator.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp2.1\11. Array Manipulator.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp2.1\11. Array Manipulator.dll
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp2.1\11. Array Manipulator.pdb
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp2.1\11. Array Manipulator.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp2.1\11. Array Manipulator.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp2.1\11. Array Manipulator.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp2.1\11. Array Manipulator.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp2.1\11. Array Manipulator.dll
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp2.1\11. Array Manipulator.pdb

@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\05. Print Part Of ASCII Table\bin\Debug\netcoreapp2.1\05. Print Part Of ASCII Table.deps.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\05. Print Part Of ASCII Table\bin\Debug\netcoreapp2.1\05. Print Part Of ASCII Table.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\05. Print Part Of ASCII Table\bin\Debug\netcoreapp2.1\05. Print Part Of ASCII Table.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\05. Print Part Of ASCII Table\bin\Debug\netcoreapp2.1\05. Print Part Of ASCII Table.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\05. Print Part Of ASCII Table\bin\Debug\netcoreapp2.1\05. Print Part Of ASCII Table.pdb
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\05. Print Part Of ASCII Table\obj\Debug\netcoreapp2.1\05. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\05. Print Part Of ASCII Table\obj\Debug\netcoreapp2.1\05. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\05. Print Part Of ASCII Table\obj\Debug\netcoreapp2.1\05. Print Part Of ASCII Table.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\05. Print Part Of ASCII Table\obj\Debug\netcoreapp2.1\05. Print Part Of ASCII Table.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\05. Print Part Of ASCII Table\obj\Debug\netcoreapp2.1\05. Print Part Of ASCII Table.pdb

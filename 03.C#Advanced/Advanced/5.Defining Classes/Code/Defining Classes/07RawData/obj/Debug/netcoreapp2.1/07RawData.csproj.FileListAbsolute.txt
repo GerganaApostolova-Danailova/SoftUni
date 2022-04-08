@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\07RawData\bin\Debug\netcoreapp2.1\07RawData.deps.json
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\07RawData\bin\Debug\netcoreapp2.1\07RawData.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\07RawData\bin\Debug\netcoreapp2.1\07RawData.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\07RawData\bin\Debug\netcoreapp2.1\07RawData.dll
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\07RawData\bin\Debug\netcoreapp2.1\07RawData.pdb
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\07RawData\obj\Debug\netcoreapp2.1\07RawData.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\07RawData\obj\Debug\netcoreapp2.1\07RawData.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\07RawData\obj\Debug\netcoreapp2.1\07RawData.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\07RawData\obj\Debug\netcoreapp2.1\07RawData.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\07RawData\obj\Debug\netcoreapp2.1\07RawData.dll
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\07RawData\obj\Debug\netcoreapp2.1\07RawData.pdb

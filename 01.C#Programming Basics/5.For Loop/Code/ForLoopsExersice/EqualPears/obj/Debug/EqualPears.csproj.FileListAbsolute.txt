@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\EqualPears\bin\Debug\EqualPears.exe.config
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\EqualPears\bin\Debug\EqualPears.exe
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\EqualPears\bin\Debug\EqualPears.pdb
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\EqualPears\obj\Debug\EqualPears.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\EqualPears\obj\Debug\EqualPears.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\EqualPears\obj\Debug\EqualPears.exe
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\EqualPears\obj\Debug\EqualPears.pdb

@@ -1,0 +1,7 @@
+C:\Users\Tceci\source\repos\9.Arrays\02. Print Numbers in Reverse Order\bin\Debug\_02.Print_Numbers_in_Reverse_Order.exe.config
+C:\Users\Tceci\source\repos\9.Arrays\02. Print Numbers in Reverse Order\bin\Debug\_02.Print_Numbers_in_Reverse_Order.exe
+C:\Users\Tceci\source\repos\9.Arrays\02. Print Numbers in Reverse Order\bin\Debug\_02.Print_Numbers_in_Reverse_Order.pdb
+C:\Users\Tceci\source\repos\9.Arrays\02. Print Numbers in Reverse Order\obj\Debug\02. Print Numbers in Reverse Order.csprojAssemblyReference.cache
+C:\Users\Tceci\source\repos\9.Arrays\02. Print Numbers in Reverse Order\obj\Debug\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+C:\Users\Tceci\source\repos\9.Arrays\02. Print Numbers in Reverse Order\obj\Debug\_02.Print_Numbers_in_Reverse_Order.exe
+C:\Users\Tceci\source\repos\9.Arrays\02. Print Numbers in Reverse Order\obj\Debug\_02.Print_Numbers_in_Reverse_Order.pdb

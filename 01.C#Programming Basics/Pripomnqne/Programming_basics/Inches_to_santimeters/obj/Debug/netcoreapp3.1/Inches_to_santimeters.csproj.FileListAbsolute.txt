@@ -1,0 +1,13 @@
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Inches_to_santimeters\bin\Debug\netcoreapp3.1\Inches_to_santimeters.exe
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Inches_to_santimeters\bin\Debug\netcoreapp3.1\Inches_to_santimeters.deps.json
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Inches_to_santimeters\bin\Debug\netcoreapp3.1\Inches_to_santimeters.runtimeconfig.json
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Inches_to_santimeters\bin\Debug\netcoreapp3.1\Inches_to_santimeters.runtimeconfig.dev.json
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Inches_to_santimeters\bin\Debug\netcoreapp3.1\Inches_to_santimeters.dll
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Inches_to_santimeters\bin\Debug\netcoreapp3.1\Inches_to_santimeters.pdb
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Inches_to_santimeters\obj\Debug\netcoreapp3.1\Inches_to_santimeters.AssemblyInfoInputs.cache
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Inches_to_santimeters\obj\Debug\netcoreapp3.1\Inches_to_santimeters.AssemblyInfo.cs
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Inches_to_santimeters\obj\Debug\netcoreapp3.1\Inches_to_santimeters.csproj.CoreCompileInputs.cache
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Inches_to_santimeters\obj\Debug\netcoreapp3.1\Inches_to_santimeters.dll
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Inches_to_santimeters\obj\Debug\netcoreapp3.1\Inches_to_santimeters.pdb
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Inches_to_santimeters\obj\Debug\netcoreapp3.1\Inches_to_santimeters.genruntimeconfig.cache
+C:\Geri_Programing\01.C#Programming Basics\Pripomnqne\Programming_basics\Inches_to_santimeters\obj\Debug\netcoreapp3.1\Inches_to_santimeters.csprojAssemblyReference.cache

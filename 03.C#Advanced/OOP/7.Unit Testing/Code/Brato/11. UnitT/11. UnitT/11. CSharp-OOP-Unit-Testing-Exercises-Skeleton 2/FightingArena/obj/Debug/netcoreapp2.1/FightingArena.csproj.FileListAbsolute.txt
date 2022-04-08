@@ -1,0 +1,9 @@
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.deps.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.pdb
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.csprojAssemblyReference.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.AssemblyInfoInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.AssemblyInfo.cs
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.pdb

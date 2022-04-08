@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\Matrix2\bin\Debug\Matrix2.exe.config
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\Matrix2\bin\Debug\Matrix2.exe
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\Matrix2\bin\Debug\Matrix2.pdb
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\Matrix2\obj\Debug\Matrix2.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\Matrix2\obj\Debug\Matrix2.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\Matrix2\obj\Debug\Matrix2.exe
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\Matrix2\obj\Debug\Matrix2.pdb

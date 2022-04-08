@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StadiumIncome", "StadiumIncome\StadiumIncome.csproj", "{D05ECDB6-723A-4F9B-A1F0-274D428C0EF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripCup", "TripCup\TripCup.csproj", "{C7073844-18C2-42B8-BC48-69725E3B07C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D05ECDB6-723A-4F9B-A1F0-274D428C0EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D05ECDB6-723A-4F9B-A1F0-274D428C0EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D05ECDB6-723A-4F9B-A1F0-274D428C0EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D05ECDB6-723A-4F9B-A1F0-274D428C0EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7073844-18C2-42B8-BC48-69725E3B07C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7073844-18C2-42B8-BC48-69725E3B07C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7073844-18C2-42B8-BC48-69725E3B07C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7073844-18C2-42B8-BC48-69725E3B07C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {358F9CC9-4EEF-400A-9F6A-4F12B512FC70}
+	EndGlobalSection
+EndGlobal

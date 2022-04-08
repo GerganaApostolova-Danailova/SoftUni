@@ -1,0 +1,7 @@
+C:\Users\Tceci\source\repos\9.Arrays\03. Rounding Numbers\bin\Debug\_03.Rounding_Numbers.exe.config
+C:\Users\Tceci\source\repos\9.Arrays\03. Rounding Numbers\bin\Debug\_03.Rounding_Numbers.exe
+C:\Users\Tceci\source\repos\9.Arrays\03. Rounding Numbers\bin\Debug\_03.Rounding_Numbers.pdb
+C:\Users\Tceci\source\repos\9.Arrays\03. Rounding Numbers\obj\Debug\03. Rounding Numbers.csprojAssemblyReference.cache
+C:\Users\Tceci\source\repos\9.Arrays\03. Rounding Numbers\obj\Debug\03. Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Tceci\source\repos\9.Arrays\03. Rounding Numbers\obj\Debug\_03.Rounding_Numbers.exe
+C:\Users\Tceci\source\repos\9.Arrays\03. Rounding Numbers\obj\Debug\_03.Rounding_Numbers.pdb

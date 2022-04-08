@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\01. Convert Meters to Kilometers\bin\Debug\netcoreapp2.1\01. Convert Meters to Kilometers.deps.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\01. Convert Meters to Kilometers\bin\Debug\netcoreapp2.1\01. Convert Meters to Kilometers.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\01. Convert Meters to Kilometers\bin\Debug\netcoreapp2.1\01. Convert Meters to Kilometers.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\01. Convert Meters to Kilometers\bin\Debug\netcoreapp2.1\01. Convert Meters to Kilometers.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\01. Convert Meters to Kilometers\bin\Debug\netcoreapp2.1\01. Convert Meters to Kilometers.pdb
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\netcoreapp2.1\01. Convert Meters to Kilometers.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\netcoreapp2.1\01. Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\netcoreapp2.1\01. Convert Meters to Kilometers.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\netcoreapp2.1\01. Convert Meters to Kilometers.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\netcoreapp2.1\01. Convert Meters to Kilometers.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\netcoreapp2.1\01. Convert Meters to Kilometers.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\9. Padawan Equipment\bin\Debug\netcoreapp2.1\9. Padawan Equipment.deps.json
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\9. Padawan Equipment\bin\Debug\netcoreapp2.1\9. Padawan Equipment.runtimeconfig.json
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\9. Padawan Equipment\bin\Debug\netcoreapp2.1\9. Padawan Equipment.runtimeconfig.dev.json
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\9. Padawan Equipment\bin\Debug\netcoreapp2.1\9. Padawan Equipment.dll
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\9. Padawan Equipment\bin\Debug\netcoreapp2.1\9. Padawan Equipment.pdb
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\9. Padawan Equipment\obj\Debug\netcoreapp2.1\9. Padawan Equipment.csprojAssemblyReference.cache
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\9. Padawan Equipment\obj\Debug\netcoreapp2.1\9. Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\9. Padawan Equipment\obj\Debug\netcoreapp2.1\9. Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\9. Padawan Equipment\obj\Debug\netcoreapp2.1\9. Padawan Equipment.AssemblyInfo.cs
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\9. Padawan Equipment\obj\Debug\netcoreapp2.1\9. Padawan Equipment.dll
+C:\Users\Tceci\source\repos\Basic Syntax Exercise\9. Padawan Equipment\obj\Debug\netcoreapp2.1\9. Padawan Equipment.pdb

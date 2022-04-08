@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Exams\10 March 2019 Group 1\Code\Exams\02. Hello, France\bin\Debug\netcoreapp2.1\02. Hello, France.deps.json
+D:\Geri_Programing\Programming Fundamentals\Exams\10 March 2019 Group 1\Code\Exams\02. Hello, France\bin\Debug\netcoreapp2.1\02. Hello, France.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Exams\10 March 2019 Group 1\Code\Exams\02. Hello, France\bin\Debug\netcoreapp2.1\02. Hello, France.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Exams\10 March 2019 Group 1\Code\Exams\02. Hello, France\bin\Debug\netcoreapp2.1\02. Hello, France.dll
+D:\Geri_Programing\Programming Fundamentals\Exams\10 March 2019 Group 1\Code\Exams\02. Hello, France\bin\Debug\netcoreapp2.1\02. Hello, France.pdb
+D:\Geri_Programing\Programming Fundamentals\Exams\10 March 2019 Group 1\Code\Exams\02. Hello, France\obj\Debug\netcoreapp2.1\02. Hello, France.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\10 March 2019 Group 1\Code\Exams\02. Hello, France\obj\Debug\netcoreapp2.1\02. Hello, France.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\10 March 2019 Group 1\Code\Exams\02. Hello, France\obj\Debug\netcoreapp2.1\02. Hello, France.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\10 March 2019 Group 1\Code\Exams\02. Hello, France\obj\Debug\netcoreapp2.1\02. Hello, France.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Exams\10 March 2019 Group 1\Code\Exams\02. Hello, France\obj\Debug\netcoreapp2.1\02. Hello, France.dll
+D:\Geri_Programing\Programming Fundamentals\Exams\10 March 2019 Group 1\Code\Exams\02. Hello, France\obj\Debug\netcoreapp2.1\02. Hello, France.pdb

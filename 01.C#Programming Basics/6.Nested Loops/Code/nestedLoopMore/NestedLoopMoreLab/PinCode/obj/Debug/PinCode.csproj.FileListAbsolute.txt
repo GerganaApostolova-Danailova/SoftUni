@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture Six\Code\nestedLoopMore\NestedLoopMoreLab\PinCode\bin\Debug\PinCode.exe.config
+D:\Geri_Programing\Lecture Six\Code\nestedLoopMore\NestedLoopMoreLab\PinCode\bin\Debug\PinCode.exe
+D:\Geri_Programing\Lecture Six\Code\nestedLoopMore\NestedLoopMoreLab\PinCode\bin\Debug\PinCode.pdb
+D:\Geri_Programing\Lecture Six\Code\nestedLoopMore\NestedLoopMoreLab\PinCode\obj\Debug\PinCode.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture Six\Code\nestedLoopMore\NestedLoopMoreLab\PinCode\obj\Debug\PinCode.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Six\Code\nestedLoopMore\NestedLoopMoreLab\PinCode\obj\Debug\PinCode.exe
+D:\Geri_Programing\Lecture Six\Code\nestedLoopMore\NestedLoopMoreLab\PinCode\obj\Debug\PinCode.pdb

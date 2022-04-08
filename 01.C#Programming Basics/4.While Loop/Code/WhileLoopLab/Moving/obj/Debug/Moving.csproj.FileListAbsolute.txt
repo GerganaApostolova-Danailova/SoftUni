@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture Four\Code\WhileLoopLab\Moving\bin\Debug\Moving.exe.config
+D:\Geri_Programing\Lecture Four\Code\WhileLoopLab\Moving\bin\Debug\Moving.exe
+D:\Geri_Programing\Lecture Four\Code\WhileLoopLab\Moving\bin\Debug\Moving.pdb
+D:\Geri_Programing\Lecture Four\Code\WhileLoopLab\Moving\obj\Debug\Moving.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture Four\Code\WhileLoopLab\Moving\obj\Debug\Moving.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Four\Code\WhileLoopLab\Moving\obj\Debug\Moving.exe
+D:\Geri_Programing\Lecture Four\Code\WhileLoopLab\Moving\obj\Debug\Moving.pdb

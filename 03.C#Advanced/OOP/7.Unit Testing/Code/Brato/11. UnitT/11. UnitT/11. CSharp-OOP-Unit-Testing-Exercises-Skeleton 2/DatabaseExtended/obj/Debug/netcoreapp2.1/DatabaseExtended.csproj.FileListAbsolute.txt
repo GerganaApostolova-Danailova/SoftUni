@@ -1,0 +1,9 @@
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.deps.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.pdb
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfoInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfo.cs
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.pdb
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\11. UnitT\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton 2\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csprojAssemblyReference.cache

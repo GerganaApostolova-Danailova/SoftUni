@@ -1,0 +1,11 @@
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\08. Company Users\bin\Debug\netcoreapp2.1\08. Company Users.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\08. Company Users\bin\Debug\netcoreapp2.1\08. Company Users.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\08. Company Users\bin\Debug\netcoreapp2.1\08. Company Users.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\08. Company Users\bin\Debug\netcoreapp2.1\08. Company Users.dll
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\08. Company Users\bin\Debug\netcoreapp2.1\08. Company Users.pdb
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.csprojAssemblyReference.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.dll
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Exercise\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.pdb

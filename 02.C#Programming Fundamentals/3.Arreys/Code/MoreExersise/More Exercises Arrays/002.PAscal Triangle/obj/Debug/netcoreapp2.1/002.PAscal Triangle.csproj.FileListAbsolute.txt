@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\002.PAscal Triangle\bin\Debug\netcoreapp2.1\002.PAscal Triangle.deps.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\002.PAscal Triangle\bin\Debug\netcoreapp2.1\002.PAscal Triangle.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\002.PAscal Triangle\bin\Debug\netcoreapp2.1\002.PAscal Triangle.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\002.PAscal Triangle\bin\Debug\netcoreapp2.1\002.PAscal Triangle.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\002.PAscal Triangle\bin\Debug\netcoreapp2.1\002.PAscal Triangle.pdb
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\002.PAscal Triangle\obj\Debug\netcoreapp2.1\002.PAscal Triangle.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\002.PAscal Triangle\obj\Debug\netcoreapp2.1\002.PAscal Triangle.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\002.PAscal Triangle\obj\Debug\netcoreapp2.1\002.PAscal Triangle.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\002.PAscal Triangle\obj\Debug\netcoreapp2.1\002.PAscal Triangle.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\MoreExersise\More Exercises Arrays\002.PAscal Triangle\obj\Debug\netcoreapp2.1\002.PAscal Triangle.pdb

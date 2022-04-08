@@ -1,0 +1,7 @@
+D:\Geri_Programing\Exams\3-4 Nivember\Code\WeddingHall\WeddingSeats\bin\Debug\WeddingSeats.exe.config
+D:\Geri_Programing\Exams\3-4 Nivember\Code\WeddingHall\WeddingSeats\bin\Debug\WeddingSeats.exe
+D:\Geri_Programing\Exams\3-4 Nivember\Code\WeddingHall\WeddingSeats\bin\Debug\WeddingSeats.pdb
+D:\Geri_Programing\Exams\3-4 Nivember\Code\WeddingHall\WeddingSeats\obj\Debug\WeddingSeats.csprojAssemblyReference.cache
+D:\Geri_Programing\Exams\3-4 Nivember\Code\WeddingHall\WeddingSeats\obj\Debug\WeddingSeats.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Exams\3-4 Nivember\Code\WeddingHall\WeddingSeats\obj\Debug\WeddingSeats.exe
+D:\Geri_Programing\Exams\3-4 Nivember\Code\WeddingHall\WeddingSeats\obj\Debug\WeddingSeats.pdb

@@ -1,0 +1,11 @@
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\2. Emoji Sumator\bin\Debug\netcoreapp2.1\2. Emoji Sumator.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\2. Emoji Sumator\bin\Debug\netcoreapp2.1\2. Emoji Sumator.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\2. Emoji Sumator\bin\Debug\netcoreapp2.1\2. Emoji Sumator.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\2. Emoji Sumator\bin\Debug\netcoreapp2.1\2. Emoji Sumator.dll
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\2. Emoji Sumator\bin\Debug\netcoreapp2.1\2. Emoji Sumator.pdb
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\2. Emoji Sumator\obj\Debug\netcoreapp2.1\2. Emoji Sumator.csprojAssemblyReference.cache
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\2. Emoji Sumator\obj\Debug\netcoreapp2.1\2. Emoji Sumator.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\2. Emoji Sumator\obj\Debug\netcoreapp2.1\2. Emoji Sumator.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\2. Emoji Sumator\obj\Debug\netcoreapp2.1\2. Emoji Sumator.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\2. Emoji Sumator\obj\Debug\netcoreapp2.1\2. Emoji Sumator.dll
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\2. Emoji Sumator\obj\Debug\netcoreapp2.1\2. Emoji Sumator.pdb

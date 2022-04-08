@@ -1,0 +1,11 @@
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\04. Star Enigm\bin\Debug\netcoreapp2.1\04. Star Enigm.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\04. Star Enigm\bin\Debug\netcoreapp2.1\04. Star Enigm.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\04. Star Enigm\bin\Debug\netcoreapp2.1\04. Star Enigm.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\04. Star Enigm\bin\Debug\netcoreapp2.1\04. Star Enigm.dll
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\04. Star Enigm\bin\Debug\netcoreapp2.1\04. Star Enigm.pdb
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\04. Star Enigm\obj\Debug\netcoreapp2.1\04. Star Enigm.csprojAssemblyReference.cache
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\04. Star Enigm\obj\Debug\netcoreapp2.1\04. Star Enigm.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\04. Star Enigm\obj\Debug\netcoreapp2.1\04. Star Enigm.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\04. Star Enigm\obj\Debug\netcoreapp2.1\04. Star Enigm.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\04. Star Enigm\obj\Debug\netcoreapp2.1\04. Star Enigm.dll
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\04. Star Enigm\obj\Debug\netcoreapp2.1\04. Star Enigm.pdb

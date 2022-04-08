@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\4. Reverse String\bin\Debug\netcoreapp2.1\04. Reverse String.deps.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\4. Reverse String\bin\Debug\netcoreapp2.1\04. Reverse String.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\4. Reverse String\bin\Debug\netcoreapp2.1\04. Reverse String.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\4. Reverse String\bin\Debug\netcoreapp2.1\04. Reverse String.dll
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\4. Reverse String\bin\Debug\netcoreapp2.1\04. Reverse String.pdb
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\4. Reverse String\obj\Debug\netcoreapp2.1\04. Reverse String.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\4. Reverse String\obj\Debug\netcoreapp2.1\04. Reverse String.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\4. Reverse String\obj\Debug\netcoreapp2.1\04. Reverse String.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\4. Reverse String\obj\Debug\netcoreapp2.1\04. Reverse String.dll
+D:\Geri_Programing\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\Code\More Exercise Basic Syntax\4. Reverse String\obj\Debug\netcoreapp2.1\04. Reverse String.pdb

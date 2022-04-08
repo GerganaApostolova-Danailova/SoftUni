@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.pdb

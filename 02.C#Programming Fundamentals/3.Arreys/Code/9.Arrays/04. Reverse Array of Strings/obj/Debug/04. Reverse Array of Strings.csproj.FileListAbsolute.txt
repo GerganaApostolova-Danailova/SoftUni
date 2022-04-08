@@ -1,0 +1,7 @@
+C:\Users\Tceci\source\repos\9.Arrays\04. Reverse Array of Strings\bin\Debug\_04.Reverse_Array_of_Strings.exe.config
+C:\Users\Tceci\source\repos\9.Arrays\04. Reverse Array of Strings\bin\Debug\_04.Reverse_Array_of_Strings.exe
+C:\Users\Tceci\source\repos\9.Arrays\04. Reverse Array of Strings\bin\Debug\_04.Reverse_Array_of_Strings.pdb
+C:\Users\Tceci\source\repos\9.Arrays\04. Reverse Array of Strings\obj\Debug\04. Reverse Array of Strings.csprojAssemblyReference.cache
+C:\Users\Tceci\source\repos\9.Arrays\04. Reverse Array of Strings\obj\Debug\04. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\Tceci\source\repos\9.Arrays\04. Reverse Array of Strings\obj\Debug\_04.Reverse_Array_of_Strings.exe
+C:\Users\Tceci\source\repos\9.Arrays\04. Reverse Array of Strings\obj\Debug\_04.Reverse_Array_of_Strings.pdb

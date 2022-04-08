@@ -1,0 +1,7 @@
+C:\Users\Tceci\source\repos\Exam20-21April\4\bin\Debug\4.exe.config
+C:\Users\Tceci\source\repos\Exam20-21April\4\bin\Debug\4.exe
+C:\Users\Tceci\source\repos\Exam20-21April\4\bin\Debug\4.pdb
+C:\Users\Tceci\source\repos\Exam20-21April\4\obj\Debug\4.csprojAssemblyReference.cache
+C:\Users\Tceci\source\repos\Exam20-21April\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+C:\Users\Tceci\source\repos\Exam20-21April\4\obj\Debug\4.exe
+C:\Users\Tceci\source\repos\Exam20-21April\4\obj\Debug\4.pdb

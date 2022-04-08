@@ -1,0 +1,10 @@
+D:\Geri_Programing\Objects and Classes\04. Songs\bin\Debug\netcoreapp2.1\04. Songs.deps.json
+D:\Geri_Programing\Objects and Classes\04. Songs\bin\Debug\netcoreapp2.1\04. Songs.runtimeconfig.json
+D:\Geri_Programing\Objects and Classes\04. Songs\bin\Debug\netcoreapp2.1\04. Songs.runtimeconfig.dev.json
+D:\Geri_Programing\Objects and Classes\04. Songs\bin\Debug\netcoreapp2.1\04. Songs.dll
+D:\Geri_Programing\Objects and Classes\04. Songs\bin\Debug\netcoreapp2.1\04. Songs.pdb
+D:\Geri_Programing\Objects and Classes\04. Songs\obj\Debug\netcoreapp2.1\04. Songs.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Objects and Classes\04. Songs\obj\Debug\netcoreapp2.1\04. Songs.AssemblyInfoInputs.cache
+D:\Geri_Programing\Objects and Classes\04. Songs\obj\Debug\netcoreapp2.1\04. Songs.AssemblyInfo.cs
+D:\Geri_Programing\Objects and Classes\04. Songs\obj\Debug\netcoreapp2.1\04. Songs.dll
+D:\Geri_Programing\Objects and Classes\04. Songs\obj\Debug\netcoreapp2.1\04. Songs.pdb

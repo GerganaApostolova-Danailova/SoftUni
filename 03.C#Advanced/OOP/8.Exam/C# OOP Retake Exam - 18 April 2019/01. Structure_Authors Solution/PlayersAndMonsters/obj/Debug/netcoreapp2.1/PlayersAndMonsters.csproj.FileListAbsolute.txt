@@ -1,0 +1,10 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 18 April 2019\01. Structure_Authors Solution\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 18 April 2019\01. Structure_Authors Solution\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 18 April 2019\01. Structure_Authors Solution\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 18 April 2019\01. Structure_Authors Solution\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 18 April 2019\01. Structure_Authors Solution\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 18 April 2019\01. Structure_Authors Solution\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 18 April 2019\01. Structure_Authors Solution\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 18 April 2019\01. Structure_Authors Solution\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 18 April 2019\01. Structure_Authors Solution\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Exam\C# OOP Retake Exam - 18 April 2019\01. Structure_Authors Solution\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.pdb

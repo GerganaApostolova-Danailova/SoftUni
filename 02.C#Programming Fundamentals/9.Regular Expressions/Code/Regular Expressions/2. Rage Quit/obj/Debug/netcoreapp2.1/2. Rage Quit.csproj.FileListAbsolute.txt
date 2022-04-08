@@ -1,0 +1,11 @@
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\2. Rage Quit\bin\Debug\netcoreapp2.1\2. Rage Quit.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\2. Rage Quit\bin\Debug\netcoreapp2.1\2. Rage Quit.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\2. Rage Quit\bin\Debug\netcoreapp2.1\2. Rage Quit.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\2. Rage Quit\bin\Debug\netcoreapp2.1\2. Rage Quit.dll
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\2. Rage Quit\bin\Debug\netcoreapp2.1\2. Rage Quit.pdb
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\2. Rage Quit\obj\Debug\netcoreapp2.1\2. Rage Quit.csprojAssemblyReference.cache
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\2. Rage Quit\obj\Debug\netcoreapp2.1\2. Rage Quit.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\2. Rage Quit\obj\Debug\netcoreapp2.1\2. Rage Quit.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\2. Rage Quit\obj\Debug\netcoreapp2.1\2. Rage Quit.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\2. Rage Quit\obj\Debug\netcoreapp2.1\2. Rage Quit.dll
+D:\Geri_Programing\02. Programming Fundamentals\Regular Expressions\Code\Regular Expressions\2. Rage Quit\obj\Debug\netcoreapp2.1\2. Rage Quit.pdb

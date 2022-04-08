@@ -1,0 +1,10 @@
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\04OpinionPoll\bin\Debug\netcoreapp2.1\04OpinionPoll.deps.json
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\04OpinionPoll\bin\Debug\netcoreapp2.1\04OpinionPoll.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\04OpinionPoll\bin\Debug\netcoreapp2.1\04OpinionPoll.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\04OpinionPoll\bin\Debug\netcoreapp2.1\04OpinionPoll.dll
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\04OpinionPoll\bin\Debug\netcoreapp2.1\04OpinionPoll.pdb
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\04OpinionPoll\obj\Debug\netcoreapp2.1\04OpinionPoll.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\04OpinionPoll\obj\Debug\netcoreapp2.1\04OpinionPoll.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\04OpinionPoll\obj\Debug\netcoreapp2.1\04OpinionPoll.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\04OpinionPoll\obj\Debug\netcoreapp2.1\04OpinionPoll.dll
+D:\Geri_Programing\03.C#Advanced\Defining Classes\Code\Defining Classes\04OpinionPoll\obj\Debug\netcoreapp2.1\04OpinionPoll.pdb

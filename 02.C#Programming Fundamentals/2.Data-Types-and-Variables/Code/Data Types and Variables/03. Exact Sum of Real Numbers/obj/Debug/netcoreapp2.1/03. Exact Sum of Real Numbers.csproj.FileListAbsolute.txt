@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.1\03. Exact Sum of Real Numbers.deps.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.1\03. Exact Sum of Real Numbers.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.1\03. Exact Sum of Real Numbers.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.1\03. Exact Sum of Real Numbers.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.1\03. Exact Sum of Real Numbers.pdb
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.1\03. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.1\03. Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.1\03. Exact Sum of Real Numbers.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.1\03. Exact Sum of Real Numbers.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.1\03. Exact Sum of Real Numbers.pdb

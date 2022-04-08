@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\7. Pascal Triangle\bin\Debug\netcoreapp2.1\7. Pascal Triangle.deps.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\7. Pascal Triangle\bin\Debug\netcoreapp2.1\7. Pascal Triangle.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\7. Pascal Triangle\bin\Debug\netcoreapp2.1\7. Pascal Triangle.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\7. Pascal Triangle\bin\Debug\netcoreapp2.1\7. Pascal Triangle.dll
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\7. Pascal Triangle\bin\Debug\netcoreapp2.1\7. Pascal Triangle.pdb
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\7. Pascal Triangle\obj\Debug\netcoreapp2.1\7. Pascal Triangle.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\7. Pascal Triangle\obj\Debug\netcoreapp2.1\7. Pascal Triangle.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\7. Pascal Triangle\obj\Debug\netcoreapp2.1\7. Pascal Triangle.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\7. Pascal Triangle\obj\Debug\netcoreapp2.1\7. Pascal Triangle.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\7. Pascal Triangle\obj\Debug\netcoreapp2.1\7. Pascal Triangle.dll
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\7. Pascal Triangle\obj\Debug\netcoreapp2.1\7. Pascal Triangle.pdb

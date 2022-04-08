@@ -1,0 +1,14 @@
+C:\Users\Tceci\source\repos\9.Arrays\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.exe.config
+C:\Users\Tceci\source\repos\9.Arrays\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.exe
+C:\Users\Tceci\source\repos\9.Arrays\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.pdb
+C:\Users\Tceci\source\repos\9.Arrays\08. Condense Array to Number\obj\Debug\08. Condense Array to Number.csprojAssemblyReference.cache
+C:\Users\Tceci\source\repos\9.Arrays\08. Condense Array to Number\obj\Debug\08. Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\Tceci\source\repos\9.Arrays\08. Condense Array to Number\obj\Debug\_08.Condense_Array_to_Number.exe
+C:\Users\Tceci\source\repos\9.Arrays\08. Condense Array to Number\obj\Debug\_08.Condense_Array_to_Number.pdb
+C:\Geri_Programing\02.C#Programming Fundamentals\9.Arreys\Code\9.Arrays\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.exe.config
+C:\Geri_Programing\02.C#Programming Fundamentals\9.Arreys\Code\9.Arrays\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.exe
+C:\Geri_Programing\02.C#Programming Fundamentals\9.Arreys\Code\9.Arrays\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.pdb
+C:\Geri_Programing\02.C#Programming Fundamentals\9.Arreys\Code\9.Arrays\08. Condense Array to Number\obj\Debug\08. Condense Array to Number.csprojAssemblyReference.cache
+C:\Geri_Programing\02.C#Programming Fundamentals\9.Arreys\Code\9.Arrays\08. Condense Array to Number\obj\Debug\08. Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Geri_Programing\02.C#Programming Fundamentals\9.Arreys\Code\9.Arrays\08. Condense Array to Number\obj\Debug\_08.Condense_Array_to_Number.exe
+C:\Geri_Programing\02.C#Programming Fundamentals\9.Arreys\Code\9.Arrays\08. Condense Array to Number\obj\Debug\_08.Condense_Array_to_Number.pdb

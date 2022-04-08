@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\09. Spice Must Flow\bin\Debug\netcoreapp2.1\09. Spice Must Flow.deps.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\09. Spice Must Flow\bin\Debug\netcoreapp2.1\09. Spice Must Flow.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\09. Spice Must Flow\bin\Debug\netcoreapp2.1\09. Spice Must Flow.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\09. Spice Must Flow\bin\Debug\netcoreapp2.1\09. Spice Must Flow.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\09. Spice Must Flow\bin\Debug\netcoreapp2.1\09. Spice Must Flow.pdb
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\09. Spice Must Flow\obj\Debug\netcoreapp2.1\09. Spice Must Flow.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\09. Spice Must Flow\obj\Debug\netcoreapp2.1\09. Spice Must Flow.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\09. Spice Must Flow\obj\Debug\netcoreapp2.1\09. Spice Must Flow.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\09. Spice Must Flow\obj\Debug\netcoreapp2.1\09. Spice Must Flow.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\09. Spice Must Flow\obj\Debug\netcoreapp2.1\09. Spice Must Flow.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Exercises Data Types\09. Spice Must Flow\obj\Debug\netcoreapp2.1\09. Spice Must Flow.pdb

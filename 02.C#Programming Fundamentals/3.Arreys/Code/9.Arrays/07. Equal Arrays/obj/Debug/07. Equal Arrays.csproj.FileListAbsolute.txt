@@ -1,0 +1,7 @@
+C:\Users\Tceci\source\repos\9.Arrays\07. Equal Arrays\bin\Debug\_07.Equal_Arrays.exe.config
+C:\Users\Tceci\source\repos\9.Arrays\07. Equal Arrays\bin\Debug\_07.Equal_Arrays.exe
+C:\Users\Tceci\source\repos\9.Arrays\07. Equal Arrays\bin\Debug\_07.Equal_Arrays.pdb
+C:\Users\Tceci\source\repos\9.Arrays\07. Equal Arrays\obj\Debug\07. Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Tceci\source\repos\9.Arrays\07. Equal Arrays\obj\Debug\_07.Equal_Arrays.exe
+C:\Users\Tceci\source\repos\9.Arrays\07. Equal Arrays\obj\Debug\_07.Equal_Arrays.pdb
+C:\Users\Tceci\source\repos\9.Arrays\07. Equal Arrays\obj\Debug\07. Equal Arrays.csprojAssemblyReference.cache

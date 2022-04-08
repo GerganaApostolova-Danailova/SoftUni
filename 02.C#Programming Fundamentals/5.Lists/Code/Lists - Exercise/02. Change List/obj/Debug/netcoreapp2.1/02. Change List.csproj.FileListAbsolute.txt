@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\02. Change List\bin\Debug\netcoreapp2.1\02. Change List.deps.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\02. Change List\bin\Debug\netcoreapp2.1\02. Change List.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\02. Change List\bin\Debug\netcoreapp2.1\02. Change List.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\02. Change List\bin\Debug\netcoreapp2.1\02. Change List.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\02. Change List\bin\Debug\netcoreapp2.1\02. Change List.pdb
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\02. Change List\obj\Debug\netcoreapp2.1\02. Change List.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\02. Change List\obj\Debug\netcoreapp2.1\02. Change List.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\02. Change List\obj\Debug\netcoreapp2.1\02. Change List.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\02. Change List\obj\Debug\netcoreapp2.1\02. Change List.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\02. Change List\obj\Debug\netcoreapp2.1\02. Change List.pdb
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\02. Change List\obj\Debug\netcoreapp2.1\02. Change List.csprojAssemblyReference.cache

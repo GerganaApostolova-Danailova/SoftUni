@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\netcoreapp2.1\09. Pokemon Don't Go.deps.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\netcoreapp2.1\09. Pokemon Don't Go.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\netcoreapp2.1\09. Pokemon Don't Go.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\netcoreapp2.1\09. Pokemon Don't Go.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\netcoreapp2.1\09. Pokemon Don't Go.pdb
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp2.1\09. Pokemon Don't Go.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp2.1\09. Pokemon Don't Go.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp2.1\09. Pokemon Don't Go.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp2.1\09. Pokemon Don't Go.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp2.1\09. Pokemon Don't Go.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp2.1\09. Pokemon Don't Go.pdb

@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\Exams\18 December 2018\Code\18 December 2018\03. Present Delivery_other solution\bin\Debug\netcoreapp2.1\03. Present Delivery_other solution.deps.json
+D:\Geri_Programing\Programming Fundamentals\Exams\18 December 2018\Code\18 December 2018\03. Present Delivery_other solution\bin\Debug\netcoreapp2.1\03. Present Delivery_other solution.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Exams\18 December 2018\Code\18 December 2018\03. Present Delivery_other solution\bin\Debug\netcoreapp2.1\03. Present Delivery_other solution.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Exams\18 December 2018\Code\18 December 2018\03. Present Delivery_other solution\bin\Debug\netcoreapp2.1\03. Present Delivery_other solution.dll
+D:\Geri_Programing\Programming Fundamentals\Exams\18 December 2018\Code\18 December 2018\03. Present Delivery_other solution\bin\Debug\netcoreapp2.1\03. Present Delivery_other solution.pdb
+D:\Geri_Programing\Programming Fundamentals\Exams\18 December 2018\Code\18 December 2018\03. Present Delivery_other solution\obj\Debug\netcoreapp2.1\03. Present Delivery_other solution.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\18 December 2018\Code\18 December 2018\03. Present Delivery_other solution\obj\Debug\netcoreapp2.1\03. Present Delivery_other solution.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\18 December 2018\Code\18 December 2018\03. Present Delivery_other solution\obj\Debug\netcoreapp2.1\03. Present Delivery_other solution.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Exams\18 December 2018\Code\18 December 2018\03. Present Delivery_other solution\obj\Debug\netcoreapp2.1\03. Present Delivery_other solution.dll
+D:\Geri_Programing\Programming Fundamentals\Exams\18 December 2018\Code\18 December 2018\03. Present Delivery_other solution\obj\Debug\netcoreapp2.1\03. Present Delivery_other solution.pdb

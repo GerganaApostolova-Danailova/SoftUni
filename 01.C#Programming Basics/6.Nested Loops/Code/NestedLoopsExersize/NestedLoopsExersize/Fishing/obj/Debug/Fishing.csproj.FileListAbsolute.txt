@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\Fishing\bin\Debug\Fishing.exe.config
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\Fishing\bin\Debug\Fishing.exe
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\Fishing\bin\Debug\Fishing.pdb
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\Fishing\obj\Debug\Fishing.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\Fishing\obj\Debug\Fishing.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\Fishing\obj\Debug\Fishing.exe
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsExersize\NestedLoopsExersize\Fishing\obj\Debug\Fishing.pdb

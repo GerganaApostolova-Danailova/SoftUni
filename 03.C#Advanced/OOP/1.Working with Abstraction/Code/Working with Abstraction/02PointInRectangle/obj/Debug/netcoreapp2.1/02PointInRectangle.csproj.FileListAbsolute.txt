@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\02PointInRectangle\bin\Debug\netcoreapp2.1\02PointInRectangle.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\02PointInRectangle\bin\Debug\netcoreapp2.1\02PointInRectangle.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\02PointInRectangle\bin\Debug\netcoreapp2.1\02PointInRectangle.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\02PointInRectangle\bin\Debug\netcoreapp2.1\02PointInRectangle.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\02PointInRectangle\bin\Debug\netcoreapp2.1\02PointInRectangle.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\02PointInRectangle\obj\Debug\netcoreapp2.1\02PointInRectangle.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\02PointInRectangle\obj\Debug\netcoreapp2.1\02PointInRectangle.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\02PointInRectangle\obj\Debug\netcoreapp2.1\02PointInRectangle.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\02PointInRectangle\obj\Debug\netcoreapp2.1\02PointInRectangle.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\02PointInRectangle\obj\Debug\netcoreapp2.1\02PointInRectangle.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Working with Abstraction\Code\Working with Abstraction\02PointInRectangle\obj\Debug\netcoreapp2.1\02PointInRectangle.pdb

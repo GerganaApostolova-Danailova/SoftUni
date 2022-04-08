@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Polymorphism\Code\Polymorphism\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Polymorphism\Code\Polymorphism\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Polymorphism\Code\Polymorphism\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Polymorphism\Code\Polymorphism\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Polymorphism\Code\Polymorphism\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Polymorphism\Code\Polymorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Polymorphism\Code\Polymorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Polymorphism\Code\Polymorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Polymorphism\Code\Polymorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Polymorphism\Code\Polymorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Polymorphism\Code\Polymorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.pdb

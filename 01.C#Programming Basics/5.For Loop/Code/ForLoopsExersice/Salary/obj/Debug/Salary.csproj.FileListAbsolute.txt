@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\Salary\bin\Debug\Salary.exe.config
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\Salary\bin\Debug\Salary.exe
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\Salary\bin\Debug\Salary.pdb
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\Salary\obj\Debug\Salary.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\Salary\obj\Debug\Salary.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\Salary\obj\Debug\Salary.exe
+D:\Geri_Programing\Lecture Five\Code\ForLoopsExersice\Salary\obj\Debug\Salary.pdb

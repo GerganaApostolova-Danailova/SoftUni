@@ -1,0 +1,11 @@
+D:\Geri_Programing\Associative Arrays - More Exercise\02. Judge\bin\Debug\netcoreapp2.1\02. Judge.deps.json
+D:\Geri_Programing\Associative Arrays - More Exercise\02. Judge\bin\Debug\netcoreapp2.1\02. Judge.runtimeconfig.json
+D:\Geri_Programing\Associative Arrays - More Exercise\02. Judge\bin\Debug\netcoreapp2.1\02. Judge.runtimeconfig.dev.json
+D:\Geri_Programing\Associative Arrays - More Exercise\02. Judge\bin\Debug\netcoreapp2.1\02. Judge.dll
+D:\Geri_Programing\Associative Arrays - More Exercise\02. Judge\bin\Debug\netcoreapp2.1\02. Judge.pdb
+D:\Geri_Programing\Associative Arrays - More Exercise\02. Judge\obj\Debug\netcoreapp2.1\02. Judge.csprojAssemblyReference.cache
+D:\Geri_Programing\Associative Arrays - More Exercise\02. Judge\obj\Debug\netcoreapp2.1\02. Judge.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Associative Arrays - More Exercise\02. Judge\obj\Debug\netcoreapp2.1\02. Judge.AssemblyInfoInputs.cache
+D:\Geri_Programing\Associative Arrays - More Exercise\02. Judge\obj\Debug\netcoreapp2.1\02. Judge.AssemblyInfo.cs
+D:\Geri_Programing\Associative Arrays - More Exercise\02. Judge\obj\Debug\netcoreapp2.1\02. Judge.dll
+D:\Geri_Programing\Associative Arrays - More Exercise\02. Judge\obj\Debug\netcoreapp2.1\02. Judge.pdb

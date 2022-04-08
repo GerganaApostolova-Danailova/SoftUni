@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Exams\Demo 22.06.2019\Code\Solution1\Easter Gifts\bin\Debug\netcoreapp2.1\Easter Gifts.deps.json
+D:\Geri_Programing\Programming Fundamentals\Exams\Demo 22.06.2019\Code\Solution1\Easter Gifts\bin\Debug\netcoreapp2.1\Easter Gifts.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Exams\Demo 22.06.2019\Code\Solution1\Easter Gifts\bin\Debug\netcoreapp2.1\Easter Gifts.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Exams\Demo 22.06.2019\Code\Solution1\Easter Gifts\bin\Debug\netcoreapp2.1\Easter Gifts.dll
+D:\Geri_Programing\Programming Fundamentals\Exams\Demo 22.06.2019\Code\Solution1\Easter Gifts\bin\Debug\netcoreapp2.1\Easter Gifts.pdb
+D:\Geri_Programing\Programming Fundamentals\Exams\Demo 22.06.2019\Code\Solution1\Easter Gifts\obj\Debug\netcoreapp2.1\Easter Gifts.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\Demo 22.06.2019\Code\Solution1\Easter Gifts\obj\Debug\netcoreapp2.1\Easter Gifts.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\Demo 22.06.2019\Code\Solution1\Easter Gifts\obj\Debug\netcoreapp2.1\Easter Gifts.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Exams\Demo 22.06.2019\Code\Solution1\Easter Gifts\obj\Debug\netcoreapp2.1\Easter Gifts.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Exams\Demo 22.06.2019\Code\Solution1\Easter Gifts\obj\Debug\netcoreapp2.1\Easter Gifts.dll
+D:\Geri_Programing\Programming Fundamentals\Exams\Demo 22.06.2019\Code\Solution1\Easter Gifts\obj\Debug\netcoreapp2.1\Easter Gifts.pdb

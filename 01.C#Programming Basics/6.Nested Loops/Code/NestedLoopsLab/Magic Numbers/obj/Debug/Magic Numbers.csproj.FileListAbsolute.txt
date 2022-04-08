@@ -1,0 +1,7 @@
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsLab\Magic Numbers\bin\Debug\Magic Numbers.exe.config
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsLab\Magic Numbers\bin\Debug\Magic Numbers.exe
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsLab\Magic Numbers\bin\Debug\Magic Numbers.pdb
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsLab\Magic Numbers\obj\Debug\Magic Numbers.csprojAssemblyReference.cache
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsLab\Magic Numbers\obj\Debug\Magic Numbers.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsLab\Magic Numbers\obj\Debug\Magic Numbers.exe
+D:\Geri_Programing\Lecture Six\Code\NestedLoopsLab\Magic Numbers\obj\Debug\Magic Numbers.pdb

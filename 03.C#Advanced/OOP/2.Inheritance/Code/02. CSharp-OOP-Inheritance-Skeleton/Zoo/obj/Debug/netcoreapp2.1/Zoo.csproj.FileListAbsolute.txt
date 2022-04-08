@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\02. CSharp-OOP-Inheritance-Skeleton\Zoo\bin\Debug\netcoreapp2.1\Zoo.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\02. CSharp-OOP-Inheritance-Skeleton\Zoo\bin\Debug\netcoreapp2.1\Zoo.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\02. CSharp-OOP-Inheritance-Skeleton\Zoo\bin\Debug\netcoreapp2.1\Zoo.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\02. CSharp-OOP-Inheritance-Skeleton\Zoo\bin\Debug\netcoreapp2.1\Zoo.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\02. CSharp-OOP-Inheritance-Skeleton\Zoo\bin\Debug\netcoreapp2.1\Zoo.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\02. CSharp-OOP-Inheritance-Skeleton\Zoo\obj\Debug\netcoreapp2.1\Zoo.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\02. CSharp-OOP-Inheritance-Skeleton\Zoo\obj\Debug\netcoreapp2.1\Zoo.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\02. CSharp-OOP-Inheritance-Skeleton\Zoo\obj\Debug\netcoreapp2.1\Zoo.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\02. CSharp-OOP-Inheritance-Skeleton\Zoo\obj\Debug\netcoreapp2.1\Zoo.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\02. CSharp-OOP-Inheritance-Skeleton\Zoo\obj\Debug\netcoreapp2.1\Zoo.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Inheritance\Code\02. CSharp-OOP-Inheritance-Skeleton\Zoo\obj\Debug\netcoreapp2.1\Zoo.pdb

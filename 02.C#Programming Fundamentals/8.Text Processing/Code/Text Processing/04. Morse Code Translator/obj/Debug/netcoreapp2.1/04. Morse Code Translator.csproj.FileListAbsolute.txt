@@ -1,0 +1,11 @@
+D:\Geri_Programing\Text Processing\04. Morse Code Translator\bin\Debug\netcoreapp2.1\04. Morse Code Translator.deps.json
+D:\Geri_Programing\Text Processing\04. Morse Code Translator\bin\Debug\netcoreapp2.1\04. Morse Code Translator.runtimeconfig.json
+D:\Geri_Programing\Text Processing\04. Morse Code Translator\bin\Debug\netcoreapp2.1\04. Morse Code Translator.runtimeconfig.dev.json
+D:\Geri_Programing\Text Processing\04. Morse Code Translator\bin\Debug\netcoreapp2.1\04. Morse Code Translator.dll
+D:\Geri_Programing\Text Processing\04. Morse Code Translator\bin\Debug\netcoreapp2.1\04. Morse Code Translator.pdb
+D:\Geri_Programing\Text Processing\04. Morse Code Translator\obj\Debug\netcoreapp2.1\04. Morse Code Translator.csprojAssemblyReference.cache
+D:\Geri_Programing\Text Processing\04. Morse Code Translator\obj\Debug\netcoreapp2.1\04. Morse Code Translator.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Text Processing\04. Morse Code Translator\obj\Debug\netcoreapp2.1\04. Morse Code Translator.AssemblyInfoInputs.cache
+D:\Geri_Programing\Text Processing\04. Morse Code Translator\obj\Debug\netcoreapp2.1\04. Morse Code Translator.AssemblyInfo.cs
+D:\Geri_Programing\Text Processing\04. Morse Code Translator\obj\Debug\netcoreapp2.1\04. Morse Code Translator.dll
+D:\Geri_Programing\Text Processing\04. Morse Code Translator\obj\Debug\netcoreapp2.1\04. Morse Code Translator.pdb

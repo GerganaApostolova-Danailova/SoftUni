@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp2.1\07. NxN Matrix.deps.json
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp2.1\07. NxN Matrix.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp2.1\07. NxN Matrix.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp2.1\07. NxN Matrix.dll
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp2.1\07. NxN Matrix.pdb
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp2.1\07. NxN Matrix.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp2.1\07. NxN Matrix.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp2.1\07. NxN Matrix.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp2.1\07. NxN Matrix.dll
+D:\Geri_Programing\Programming Fundamentals\Methods\Code\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp2.1\07. NxN Matrix.pdb

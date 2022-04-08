@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp2.1\02. Print Numbers in Reverse Order.deps.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp2.1\02. Print Numbers in Reverse Order.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp2.1\02. Print Numbers in Reverse Order.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp2.1\02. Print Numbers in Reverse Order.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp2.1\02. Print Numbers in Reverse Order.pdb
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp2.1\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp2.1\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp2.1\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp2.1\02. Print Numbers in Reverse Order.dll
+D:\Geri_Programing\Programming Fundamentals\9.Arreys\Code\Again Arrays\AgainArraysLab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp2.1\02. Print Numbers in Reverse Order.pdb

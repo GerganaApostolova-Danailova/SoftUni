@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Interfaces and Abstraction\Code\Interfaces and Abstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.pdb

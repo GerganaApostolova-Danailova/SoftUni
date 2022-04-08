@@ -1,0 +1,6 @@
+D:\Geri_Programing\Lecture Five\Code\ForLoopsLab\OddEvenSum\bin\Debug\OddEvenSum.exe.config
+D:\Geri_Programing\Lecture Five\Code\ForLoopsLab\OddEvenSum\bin\Debug\OddEvenSum.exe
+D:\Geri_Programing\Lecture Five\Code\ForLoopsLab\OddEvenSum\bin\Debug\OddEvenSum.pdb
+D:\Geri_Programing\Lecture Five\Code\ForLoopsLab\OddEvenSum\obj\Debug\OddEvenSum.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Lecture Five\Code\ForLoopsLab\OddEvenSum\obj\Debug\OddEvenSum.exe
+D:\Geri_Programing\Lecture Five\Code\ForLoopsLab\OddEvenSum\obj\Debug\OddEvenSum.pdb

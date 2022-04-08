@@ -1,0 +1,17 @@
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\Final Exam 11.08.2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\Final Exam 11.08.2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\Final Exam 11.08.2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\Final Exam 11.08.2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\BlueOrigin.Tests.deps.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\Final Exam 11.08.2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\BlueOrigin.Tests.runtimeconfig.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\Final Exam 11.08.2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\BlueOrigin.Tests.runtimeconfig.dev.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\Final Exam 11.08.2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\BlueOrigin.Tests.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\Final Exam 11.08.2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\BlueOrigin.Tests.pdb
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\Final Exam 11.08.2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\BlueOrigin.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\Final Exam 11.08.2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\BlueOrigin.pdb
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\Final Exam 11.08.2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\obj\Debug\netcoreapp2.1\BlueOrigin.Tests.csprojAssemblyReference.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\Final Exam 11.08.2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\obj\Debug\netcoreapp2.1\BlueOrigin.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\Final Exam 11.08.2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\obj\Debug\netcoreapp2.1\BlueOrigin.Tests.AssemblyInfoInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\Final Exam 11.08.2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\obj\Debug\netcoreapp2.1\BlueOrigin.Tests.AssemblyInfo.cs
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\Final Exam 11.08.2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\obj\Debug\netcoreapp2.1\BlueOrigin.Tests.csproj.CopyComplete
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\Final Exam 11.08.2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\obj\Debug\netcoreapp2.1\BlueOrigin.Tests.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\Final Exam 11.08.2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\obj\Debug\netcoreapp2.1\BlueOrigin.Tests.pdb

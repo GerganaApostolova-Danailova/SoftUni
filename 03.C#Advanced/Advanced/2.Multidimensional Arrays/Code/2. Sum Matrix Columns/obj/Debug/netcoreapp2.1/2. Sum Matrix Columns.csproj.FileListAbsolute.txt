@@ -1,0 +1,10 @@
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\2. Sum Matrix Columns\bin\Debug\netcoreapp2.1\2. Sum Matrix Columns.deps.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\2. Sum Matrix Columns\bin\Debug\netcoreapp2.1\2. Sum Matrix Columns.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\2. Sum Matrix Columns\bin\Debug\netcoreapp2.1\2. Sum Matrix Columns.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\2. Sum Matrix Columns\bin\Debug\netcoreapp2.1\2. Sum Matrix Columns.dll
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\2. Sum Matrix Columns\bin\Debug\netcoreapp2.1\2. Sum Matrix Columns.pdb
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\2. Sum Matrix Columns\obj\Debug\netcoreapp2.1\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\2. Sum Matrix Columns\obj\Debug\netcoreapp2.1\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\2. Sum Matrix Columns\obj\Debug\netcoreapp2.1\2. Sum Matrix Columns.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\2. Sum Matrix Columns\obj\Debug\netcoreapp2.1\2. Sum Matrix Columns.dll
+D:\Geri_Programing\03.C#Advanced\Multidimensional Arrays\Code\2. Sum Matrix Columns\obj\Debug\netcoreapp2.1\2. Sum Matrix Columns.pdb

@@ -1,0 +1,11 @@
+D:\Geri_Programing\Objects and Classes\01. Day of Week\bin\Debug\netcoreapp2.1\01. Day of Week.deps.json
+D:\Geri_Programing\Objects and Classes\01. Day of Week\bin\Debug\netcoreapp2.1\01. Day of Week.runtimeconfig.json
+D:\Geri_Programing\Objects and Classes\01. Day of Week\bin\Debug\netcoreapp2.1\01. Day of Week.runtimeconfig.dev.json
+D:\Geri_Programing\Objects and Classes\01. Day of Week\bin\Debug\netcoreapp2.1\01. Day of Week.dll
+D:\Geri_Programing\Objects and Classes\01. Day of Week\bin\Debug\netcoreapp2.1\01. Day of Week.pdb
+D:\Geri_Programing\Objects and Classes\01. Day of Week\obj\Debug\netcoreapp2.1\01. Day of Week.csprojAssemblyReference.cache
+D:\Geri_Programing\Objects and Classes\01. Day of Week\obj\Debug\netcoreapp2.1\01. Day of Week.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Objects and Classes\01. Day of Week\obj\Debug\netcoreapp2.1\01. Day of Week.AssemblyInfoInputs.cache
+D:\Geri_Programing\Objects and Classes\01. Day of Week\obj\Debug\netcoreapp2.1\01. Day of Week.AssemblyInfo.cs
+D:\Geri_Programing\Objects and Classes\01. Day of Week\obj\Debug\netcoreapp2.1\01. Day of Week.dll
+D:\Geri_Programing\Objects and Classes\01. Day of Week\obj\Debug\netcoreapp2.1\01. Day of Week.pdb

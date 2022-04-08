@@ -1,0 +1,6 @@
+D:\Geri_Programing\LectureTwo\Code\LectureTwo\TriangleArea\bin\Debug\TriangleArea.exe.config
+D:\Geri_Programing\LectureTwo\Code\LectureTwo\TriangleArea\bin\Debug\TriangleArea.exe
+D:\Geri_Programing\LectureTwo\Code\LectureTwo\TriangleArea\bin\Debug\TriangleArea.pdb
+D:\Geri_Programing\LectureTwo\Code\LectureTwo\TriangleArea\obj\Debug\TriangleArea.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\LectureTwo\Code\LectureTwo\TriangleArea\obj\Debug\TriangleArea.exe
+D:\Geri_Programing\LectureTwo\Code\LectureTwo\TriangleArea\obj\Debug\TriangleArea.pdb

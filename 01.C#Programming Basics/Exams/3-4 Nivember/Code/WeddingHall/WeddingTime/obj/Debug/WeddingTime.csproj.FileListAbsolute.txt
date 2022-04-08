@@ -1,0 +1,7 @@
+D:\Geri_Programing\Exams\3-4 Nivember\Code\WeddingHall\WeddingTime\bin\Debug\WeddingTime.exe.config
+D:\Geri_Programing\Exams\3-4 Nivember\Code\WeddingHall\WeddingTime\bin\Debug\WeddingTime.exe
+D:\Geri_Programing\Exams\3-4 Nivember\Code\WeddingHall\WeddingTime\bin\Debug\WeddingTime.pdb
+D:\Geri_Programing\Exams\3-4 Nivember\Code\WeddingHall\WeddingTime\obj\Debug\WeddingTime.csprojAssemblyReference.cache
+D:\Geri_Programing\Exams\3-4 Nivember\Code\WeddingHall\WeddingTime\obj\Debug\WeddingTime.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Exams\3-4 Nivember\Code\WeddingHall\WeddingTime\obj\Debug\WeddingTime.exe
+D:\Geri_Programing\Exams\3-4 Nivember\Code\WeddingHall\WeddingTime\obj\Debug\WeddingTime.pdb

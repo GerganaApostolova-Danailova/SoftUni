@@ -1,0 +1,11 @@
+D:\Geri_Programing\Stacks and Queues\05. Fashion Boutique\bin\Debug\netcoreapp2.1\05. Fashion Boutique.deps.json
+D:\Geri_Programing\Stacks and Queues\05. Fashion Boutique\bin\Debug\netcoreapp2.1\05. Fashion Boutique.runtimeconfig.json
+D:\Geri_Programing\Stacks and Queues\05. Fashion Boutique\bin\Debug\netcoreapp2.1\05. Fashion Boutique.runtimeconfig.dev.json
+D:\Geri_Programing\Stacks and Queues\05. Fashion Boutique\bin\Debug\netcoreapp2.1\05. Fashion Boutique.dll
+D:\Geri_Programing\Stacks and Queues\05. Fashion Boutique\bin\Debug\netcoreapp2.1\05. Fashion Boutique.pdb
+D:\Geri_Programing\Stacks and Queues\05. Fashion Boutique\obj\Debug\netcoreapp2.1\05. Fashion Boutique.csprojAssemblyReference.cache
+D:\Geri_Programing\Stacks and Queues\05. Fashion Boutique\obj\Debug\netcoreapp2.1\05. Fashion Boutique.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Stacks and Queues\05. Fashion Boutique\obj\Debug\netcoreapp2.1\05. Fashion Boutique.AssemblyInfoInputs.cache
+D:\Geri_Programing\Stacks and Queues\05. Fashion Boutique\obj\Debug\netcoreapp2.1\05. Fashion Boutique.AssemblyInfo.cs
+D:\Geri_Programing\Stacks and Queues\05. Fashion Boutique\obj\Debug\netcoreapp2.1\05. Fashion Boutique.dll
+D:\Geri_Programing\Stacks and Queues\05. Fashion Boutique\obj\Debug\netcoreapp2.1\05. Fashion Boutique.pdb

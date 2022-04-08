@@ -1,0 +1,7 @@
+C:\Users\Tceci\source\repos\9.Arrays\05. Sum Even Numbers\bin\Debug\_05.Sum_Even_Numbers.exe.config
+C:\Users\Tceci\source\repos\9.Arrays\05. Sum Even Numbers\bin\Debug\_05.Sum_Even_Numbers.exe
+C:\Users\Tceci\source\repos\9.Arrays\05. Sum Even Numbers\bin\Debug\_05.Sum_Even_Numbers.pdb
+C:\Users\Tceci\source\repos\9.Arrays\05. Sum Even Numbers\obj\Debug\05. Sum Even Numbers.csprojAssemblyReference.cache
+C:\Users\Tceci\source\repos\9.Arrays\05. Sum Even Numbers\obj\Debug\05. Sum Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Tceci\source\repos\9.Arrays\05. Sum Even Numbers\obj\Debug\_05.Sum_Even_Numbers.exe
+C:\Users\Tceci\source\repos\9.Arrays\05. Sum Even Numbers\obj\Debug\_05.Sum_Even_Numbers.pdb

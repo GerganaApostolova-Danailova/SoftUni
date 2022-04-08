@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unit Testing - Lab", "Unit Testing - Lab", "{7215548C-482E-4B8C-ACC1-52DB045906F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestProject1", "NUnitTestProject1\NUnitTestProject1.csproj", "{4F697606-E8D0-4466-9F0A-475F0F10BE89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F697606-E8D0-4466-9F0A-475F0F10BE89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F697606-E8D0-4466-9F0A-475F0F10BE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F697606-E8D0-4466-9F0A-475F0F10BE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F697606-E8D0-4466-9F0A-475F0F10BE89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4F697606-E8D0-4466-9F0A-475F0F10BE89} = {7215548C-482E-4B8C-ACC1-52DB045906F9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3512552D-7757-4B2F-82A3-EE98DE4E2796}
+	EndGlobalSection
+EndGlobal

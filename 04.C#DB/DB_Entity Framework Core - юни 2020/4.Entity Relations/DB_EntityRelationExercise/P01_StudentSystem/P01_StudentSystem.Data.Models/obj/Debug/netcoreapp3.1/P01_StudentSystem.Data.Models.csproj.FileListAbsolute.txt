@@ -1,0 +1,11 @@
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data.Models\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.deps.json
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data.Models\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.runtimeconfig.json
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data.Models\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.runtimeconfig.dev.json
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data.Models\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.dll
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data.Models\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.pdb
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.AssemblyInfoInputs.cache
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.AssemblyInfo.cs
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.dll
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.pdb
+D:\Geri_Programing\04.C#DB\Entity Relations\DB_EntityRelationExercise\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.genruntimeconfig.cache

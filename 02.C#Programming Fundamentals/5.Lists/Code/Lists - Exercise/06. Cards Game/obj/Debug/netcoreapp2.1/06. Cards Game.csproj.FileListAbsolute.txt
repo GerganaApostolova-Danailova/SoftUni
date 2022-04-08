@@ -1,0 +1,11 @@
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp2.1\06. Cards Game.deps.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp2.1\06. Cards Game.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp2.1\06. Cards Game.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp2.1\06. Cards Game.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp2.1\06. Cards Game.pdb
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp2.1\06. Cards Game.csprojAssemblyReference.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp2.1\06. Cards Game.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp2.1\06. Cards Game.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp2.1\06. Cards Game.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp2.1\06. Cards Game.dll
+D:\Geri_Programing\Programming Fundamentals\Lists\Code\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp2.1\06. Cards Game.pdb

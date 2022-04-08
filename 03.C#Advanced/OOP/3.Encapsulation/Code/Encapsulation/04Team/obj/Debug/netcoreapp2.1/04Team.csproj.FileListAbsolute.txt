@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\04Team\bin\Debug\netcoreapp2.1\04Team.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\04Team\bin\Debug\netcoreapp2.1\04Team.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\04Team\bin\Debug\netcoreapp2.1\04Team.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\04Team\bin\Debug\netcoreapp2.1\04Team.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\04Team\bin\Debug\netcoreapp2.1\04Team.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\04Team\obj\Debug\netcoreapp2.1\04Team.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\04Team\obj\Debug\netcoreapp2.1\04Team.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\04Team\obj\Debug\netcoreapp2.1\04Team.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\04Team\obj\Debug\netcoreapp2.1\04Team.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\04Team\obj\Debug\netcoreapp2.1\04Team.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\04Team\obj\Debug\netcoreapp2.1\04Team.pdb

@@ -1,0 +1,11 @@
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\03Validation\obj\Debug\netcoreapp2.1\03Validation.csprojAssemblyReference.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\03Validation\obj\Debug\netcoreapp2.1\03Validation.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\03Validation\obj\Debug\netcoreapp2.1\03Validation.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\03Validation\obj\Debug\netcoreapp2.1\03Validation.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\03Validation\bin\Debug\netcoreapp2.1\03Validation.deps.json
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\03Validation\bin\Debug\netcoreapp2.1\03Validation.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\03Validation\bin\Debug\netcoreapp2.1\03Validation.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\03Validation\bin\Debug\netcoreapp2.1\03Validation.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\03Validation\bin\Debug\netcoreapp2.1\03Validation.pdb
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\03Validation\obj\Debug\netcoreapp2.1\03Validation.dll
+D:\Geri_Programing\03.C#Advanced\OOP\Encapsulation\Code\Encapsulation\03Validation\obj\Debug\netcoreapp2.1\03Validation.pdb

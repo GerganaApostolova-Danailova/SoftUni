@@ -1,0 +1,10 @@
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\04. Add VAT\bin\Debug\netcoreapp2.1\04. Add VAT.deps.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\04. Add VAT\bin\Debug\netcoreapp2.1\04. Add VAT.runtimeconfig.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\04. Add VAT\bin\Debug\netcoreapp2.1\04. Add VAT.runtimeconfig.dev.json
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\04. Add VAT\bin\Debug\netcoreapp2.1\04. Add VAT.dll
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\04. Add VAT\bin\Debug\netcoreapp2.1\04. Add VAT.pdb
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\04. Add VAT\obj\Debug\netcoreapp2.1\04. Add VAT.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\04. Add VAT\obj\Debug\netcoreapp2.1\04. Add VAT.AssemblyInfoInputs.cache
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\04. Add VAT\obj\Debug\netcoreapp2.1\04. Add VAT.AssemblyInfo.cs
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\04. Add VAT\obj\Debug\netcoreapp2.1\04. Add VAT.dll
+D:\Geri_Programing\03.C#Advanced\Functional Programming\Code\Functional Programming\04. Add VAT\obj\Debug\netcoreapp2.1\04. Add VAT.pdb

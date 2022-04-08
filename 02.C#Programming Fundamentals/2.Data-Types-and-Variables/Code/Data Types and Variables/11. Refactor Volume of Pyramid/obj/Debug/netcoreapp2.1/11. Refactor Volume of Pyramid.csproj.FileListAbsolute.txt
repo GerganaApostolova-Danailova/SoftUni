@@ -1,0 +1,10 @@
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp2.1\11. Refactor Volume of Pyramid.deps.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp2.1\11. Refactor Volume of Pyramid.runtimeconfig.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp2.1\11. Refactor Volume of Pyramid.runtimeconfig.dev.json
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp2.1\11. Refactor Volume of Pyramid.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp2.1\11. Refactor Volume of Pyramid.pdb
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp2.1\11. Refactor Volume of Pyramid.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp2.1\11. Refactor Volume of Pyramid.AssemblyInfoInputs.cache
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp2.1\11. Refactor Volume of Pyramid.AssemblyInfo.cs
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp2.1\11. Refactor Volume of Pyramid.dll
+D:\Geri_Programing\Programming Fundamentals\Data-Types-and-Variables\Code\Data Types and Variables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp2.1\11. Refactor Volume of Pyramid.pdb

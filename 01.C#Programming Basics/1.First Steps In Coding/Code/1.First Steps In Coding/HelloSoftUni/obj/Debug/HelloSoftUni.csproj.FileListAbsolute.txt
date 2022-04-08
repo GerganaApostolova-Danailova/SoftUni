@@ -1,0 +1,7 @@
+D:\Geri_Programing\LectureOne\Code\LectureOne\HelloSoftUni\bin\Debug\HelloSoftUni.exe.config
+D:\Geri_Programing\LectureOne\Code\LectureOne\HelloSoftUni\bin\Debug\HelloSoftUni.exe
+D:\Geri_Programing\LectureOne\Code\LectureOne\HelloSoftUni\bin\Debug\HelloSoftUni.pdb
+D:\Geri_Programing\LectureOne\Code\LectureOne\HelloSoftUni\obj\Debug\HelloSoftUni.csprojAssemblyReference.cache
+D:\Geri_Programing\LectureOne\Code\LectureOne\HelloSoftUni\obj\Debug\HelloSoftUni.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\LectureOne\Code\LectureOne\HelloSoftUni\obj\Debug\HelloSoftUni.exe
+D:\Geri_Programing\LectureOne\Code\LectureOne\HelloSoftUni\obj\Debug\HelloSoftUni.pdb

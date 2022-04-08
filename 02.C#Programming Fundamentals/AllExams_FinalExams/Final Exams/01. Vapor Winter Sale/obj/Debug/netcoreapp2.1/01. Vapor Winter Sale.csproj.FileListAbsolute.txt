@@ -1,0 +1,11 @@
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\01. Vapor Winter Sale\bin\Debug\netcoreapp2.1\01. Vapor Winter Sale.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\01. Vapor Winter Sale\bin\Debug\netcoreapp2.1\01. Vapor Winter Sale.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\01. Vapor Winter Sale\bin\Debug\netcoreapp2.1\01. Vapor Winter Sale.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\01. Vapor Winter Sale\bin\Debug\netcoreapp2.1\01. Vapor Winter Sale.dll
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\01. Vapor Winter Sale\bin\Debug\netcoreapp2.1\01. Vapor Winter Sale.pdb
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\01. Vapor Winter Sale\obj\Debug\netcoreapp2.1\01. Vapor Winter Sale.csprojAssemblyReference.cache
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\01. Vapor Winter Sale\obj\Debug\netcoreapp2.1\01. Vapor Winter Sale.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\01. Vapor Winter Sale\obj\Debug\netcoreapp2.1\01. Vapor Winter Sale.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\01. Vapor Winter Sale\obj\Debug\netcoreapp2.1\01. Vapor Winter Sale.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\01. Vapor Winter Sale\obj\Debug\netcoreapp2.1\01. Vapor Winter Sale.dll
+D:\Geri_Programing\02. Programming Fundamentals\AllExams_FinalExams\Final Exams\01. Vapor Winter Sale\obj\Debug\netcoreapp2.1\01. Vapor Winter Sale.pdb

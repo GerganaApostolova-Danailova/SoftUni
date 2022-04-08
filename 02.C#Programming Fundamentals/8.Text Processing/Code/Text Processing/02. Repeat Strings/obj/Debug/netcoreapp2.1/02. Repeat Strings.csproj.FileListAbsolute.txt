@@ -1,0 +1,10 @@
+D:\Geri_Programing\Text Processing\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.deps.json
+D:\Geri_Programing\Text Processing\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.runtimeconfig.json
+D:\Geri_Programing\Text Processing\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.runtimeconfig.dev.json
+D:\Geri_Programing\Text Processing\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.dll
+D:\Geri_Programing\Text Processing\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.pdb
+D:\Geri_Programing\Text Processing\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Text Processing\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.AssemblyInfoInputs.cache
+D:\Geri_Programing\Text Processing\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.AssemblyInfo.cs
+D:\Geri_Programing\Text Processing\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.dll
+D:\Geri_Programing\Text Processing\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.pdb

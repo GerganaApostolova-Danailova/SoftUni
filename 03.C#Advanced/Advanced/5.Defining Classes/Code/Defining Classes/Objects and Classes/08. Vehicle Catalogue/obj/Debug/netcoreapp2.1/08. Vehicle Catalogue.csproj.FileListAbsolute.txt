@@ -1,0 +1,11 @@
+D:\Geri_Programing\Objects and Classes\08. Vehicle Catalogue\bin\Debug\netcoreapp2.1\08. Vehicle Catalogue.deps.json
+D:\Geri_Programing\Objects and Classes\08. Vehicle Catalogue\bin\Debug\netcoreapp2.1\08. Vehicle Catalogue.runtimeconfig.json
+D:\Geri_Programing\Objects and Classes\08. Vehicle Catalogue\bin\Debug\netcoreapp2.1\08. Vehicle Catalogue.runtimeconfig.dev.json
+D:\Geri_Programing\Objects and Classes\08. Vehicle Catalogue\bin\Debug\netcoreapp2.1\08. Vehicle Catalogue.dll
+D:\Geri_Programing\Objects and Classes\08. Vehicle Catalogue\bin\Debug\netcoreapp2.1\08. Vehicle Catalogue.pdb
+D:\Geri_Programing\Objects and Classes\08. Vehicle Catalogue\obj\Debug\netcoreapp2.1\08. Vehicle Catalogue.csprojAssemblyReference.cache
+D:\Geri_Programing\Objects and Classes\08. Vehicle Catalogue\obj\Debug\netcoreapp2.1\08. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Objects and Classes\08. Vehicle Catalogue\obj\Debug\netcoreapp2.1\08. Vehicle Catalogue.AssemblyInfoInputs.cache
+D:\Geri_Programing\Objects and Classes\08. Vehicle Catalogue\obj\Debug\netcoreapp2.1\08. Vehicle Catalogue.AssemblyInfo.cs
+D:\Geri_Programing\Objects and Classes\08. Vehicle Catalogue\obj\Debug\netcoreapp2.1\08. Vehicle Catalogue.dll
+D:\Geri_Programing\Objects and Classes\08. Vehicle Catalogue\obj\Debug\netcoreapp2.1\08. Vehicle Catalogue.pdb

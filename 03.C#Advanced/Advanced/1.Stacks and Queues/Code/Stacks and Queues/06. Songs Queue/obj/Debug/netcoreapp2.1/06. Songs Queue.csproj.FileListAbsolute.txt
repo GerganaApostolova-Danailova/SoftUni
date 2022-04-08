@@ -1,0 +1,11 @@
+D:\Geri_Programing\Stacks and Queues\06. Songs Queue\bin\Debug\netcoreapp2.1\06. Songs Queue.deps.json
+D:\Geri_Programing\Stacks and Queues\06. Songs Queue\bin\Debug\netcoreapp2.1\06. Songs Queue.runtimeconfig.json
+D:\Geri_Programing\Stacks and Queues\06. Songs Queue\bin\Debug\netcoreapp2.1\06. Songs Queue.runtimeconfig.dev.json
+D:\Geri_Programing\Stacks and Queues\06. Songs Queue\bin\Debug\netcoreapp2.1\06. Songs Queue.dll
+D:\Geri_Programing\Stacks and Queues\06. Songs Queue\bin\Debug\netcoreapp2.1\06. Songs Queue.pdb
+D:\Geri_Programing\Stacks and Queues\06. Songs Queue\obj\Debug\netcoreapp2.1\06. Songs Queue.csprojAssemblyReference.cache
+D:\Geri_Programing\Stacks and Queues\06. Songs Queue\obj\Debug\netcoreapp2.1\06. Songs Queue.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\Stacks and Queues\06. Songs Queue\obj\Debug\netcoreapp2.1\06. Songs Queue.AssemblyInfoInputs.cache
+D:\Geri_Programing\Stacks and Queues\06. Songs Queue\obj\Debug\netcoreapp2.1\06. Songs Queue.AssemblyInfo.cs
+D:\Geri_Programing\Stacks and Queues\06. Songs Queue\obj\Debug\netcoreapp2.1\06. Songs Queue.dll
+D:\Geri_Programing\Stacks and Queues\06. Songs Queue\obj\Debug\netcoreapp2.1\06. Songs Queue.pdb

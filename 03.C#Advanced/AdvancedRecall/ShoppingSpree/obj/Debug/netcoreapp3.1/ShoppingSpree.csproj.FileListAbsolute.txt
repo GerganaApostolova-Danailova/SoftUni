@@ -1,0 +1,13 @@
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.exe
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.deps.json
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.json
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.dev.json
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.dll
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.pdb
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.csprojAssemblyReference.cache
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfoInputs.cache
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfo.cs
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.dll
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.pdb
+C:\Geri_Programing\03.C#Advanced\AdvancedRecall\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.genruntimeconfig.cache

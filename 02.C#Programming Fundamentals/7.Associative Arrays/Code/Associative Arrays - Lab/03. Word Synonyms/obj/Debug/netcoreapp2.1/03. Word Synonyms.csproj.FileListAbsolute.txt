@@ -1,0 +1,11 @@
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp2.1\03. Word Synonyms.deps.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp2.1\03. Word Synonyms.runtimeconfig.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp2.1\03. Word Synonyms.runtimeconfig.dev.json
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp2.1\03. Word Synonyms.dll
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp2.1\03. Word Synonyms.pdb
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp2.1\03. Word Synonyms.csprojAssemblyReference.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp2.1\03. Word Synonyms.csproj.CoreCompileInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp2.1\03. Word Synonyms.AssemblyInfoInputs.cache
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp2.1\03. Word Synonyms.AssemblyInfo.cs
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp2.1\03. Word Synonyms.dll
+D:\Geri_Programing\02. Programming Fundamentals\Associative Arrays\Code\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp2.1\03. Word Synonyms.pdb
