@@ -1,7 +1,0 @@
-D:\Geri_Programing\Exams\12 January\Code\ScoolSuplies\ScoolSuplies\bin\Debug\ScoolSuplies.exe.config
-D:\Geri_Programing\Exams\12 January\Code\ScoolSuplies\ScoolSuplies\bin\Debug\ScoolSuplies.exe
-D:\Geri_Programing\Exams\12 January\Code\ScoolSuplies\ScoolSuplies\bin\Debug\ScoolSuplies.pdb
-D:\Geri_Programing\Exams\12 January\Code\ScoolSuplies\ScoolSuplies\obj\Debug\ScoolSuplies.csprojAssemblyReference.cache
-D:\Geri_Programing\Exams\12 January\Code\ScoolSuplies\ScoolSuplies\obj\Debug\ScoolSuplies.csproj.CoreCompileInputs.cache
-D:\Geri_Programing\Exams\12 January\Code\ScoolSuplies\ScoolSuplies\obj\Debug\ScoolSuplies.exe
-D:\Geri_Programing\Exams\12 January\Code\ScoolSuplies\ScoolSuplies\obj\Debug\ScoolSuplies.pdb

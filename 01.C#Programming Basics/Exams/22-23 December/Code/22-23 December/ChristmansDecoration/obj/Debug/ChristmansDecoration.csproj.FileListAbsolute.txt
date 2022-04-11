@@ -1,6 +1,0 @@
-D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\ChristmansDecoration\bin\Debug\ChristmansDecoration.exe.config
-D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\ChristmansDecoration\bin\Debug\ChristmansDecoration.exe
-D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\ChristmansDecoration\bin\Debug\ChristmansDecoration.pdb
-D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\ChristmansDecoration\obj\Debug\ChristmansDecoration.csproj.CoreCompileInputs.cache
-D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\ChristmansDecoration\obj\Debug\ChristmansDecoration.exe
-D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\ChristmansDecoration\obj\Debug\ChristmansDecoration.pdb

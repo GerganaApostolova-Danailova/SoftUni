@@ -1,4 +1,2 @@
 # SoftUni
-change
 
-other change

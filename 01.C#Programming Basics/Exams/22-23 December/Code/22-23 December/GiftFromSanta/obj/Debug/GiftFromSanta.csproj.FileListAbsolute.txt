@@ -1,7 +1,0 @@
-D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\GiftFromSanta\bin\Debug\GiftFromSanta.exe.config
-D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\GiftFromSanta\bin\Debug\GiftFromSanta.exe
-D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\GiftFromSanta\bin\Debug\GiftFromSanta.pdb
-D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\GiftFromSanta\obj\Debug\GiftFromSanta.csprojAssemblyReference.cache
-D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\GiftFromSanta\obj\Debug\GiftFromSanta.csproj.CoreCompileInputs.cache
-D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\GiftFromSanta\obj\Debug\GiftFromSanta.exe
-D:\Geri_Programing\Exams\22-23 December\Code\22-23 December\GiftFromSanta\obj\Debug\GiftFromSanta.pdb

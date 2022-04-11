@@ -1,6 +1,0 @@
-C:\Geri_Programing\03.C#Advanced\AdvancedRecall\01Person\bin\Debug\netcoreapp3.1\01Person.exe
-C:\Geri_Programing\03.C#Advanced\AdvancedRecall\01Person\obj\Debug\netcoreapp3.1\01Person.AssemblyInfoInputs.cache
-C:\Geri_Programing\03.C#Advanced\AdvancedRecall\01Person\obj\Debug\netcoreapp3.1\01Person.AssemblyInfo.cs
-C:\Geri_Programing\03.C#Advanced\AdvancedRecall\01Person\obj\Debug\netcoreapp3.1\01Person.csproj.CoreCompileInputs.cache
-C:\Geri_Programing\03.C#Advanced\AdvancedRecall\01Person\obj\Debug\netcoreapp3.1\01Person.dll
-C:\Geri_Programing\03.C#Advanced\AdvancedRecall\01Person\obj\Debug\netcoreapp3.1\01Person.pdb

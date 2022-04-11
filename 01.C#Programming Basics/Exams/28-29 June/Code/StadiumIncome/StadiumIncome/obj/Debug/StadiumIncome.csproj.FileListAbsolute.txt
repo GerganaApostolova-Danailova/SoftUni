@@ -1,7 +1,0 @@
-D:\Geri_Programing\Exams\28-29 June\Code\StadiumIncome\StadiumIncome\bin\Debug\StadiumIncome.exe.config
-D:\Geri_Programing\Exams\28-29 June\Code\StadiumIncome\StadiumIncome\bin\Debug\StadiumIncome.exe
-D:\Geri_Programing\Exams\28-29 June\Code\StadiumIncome\StadiumIncome\bin\Debug\StadiumIncome.pdb
-D:\Geri_Programing\Exams\28-29 June\Code\StadiumIncome\StadiumIncome\obj\Debug\StadiumIncome.csprojAssemblyReference.cache
-D:\Geri_Programing\Exams\28-29 June\Code\StadiumIncome\StadiumIncome\obj\Debug\StadiumIncome.csproj.CoreCompileInputs.cache
-D:\Geri_Programing\Exams\28-29 June\Code\StadiumIncome\StadiumIncome\obj\Debug\StadiumIncome.exe
-D:\Geri_Programing\Exams\28-29 June\Code\StadiumIncome\StadiumIncome\obj\Debug\StadiumIncome.pdb

@@ -1,7 +1,0 @@
-D:\Geri_Programing\Exams\9-10 Mart\Code\War\War\bin\Debug\War.exe.config
-D:\Geri_Programing\Exams\9-10 Mart\Code\War\War\bin\Debug\War.exe
-D:\Geri_Programing\Exams\9-10 Mart\Code\War\War\bin\Debug\War.pdb
-D:\Geri_Programing\Exams\9-10 Mart\Code\War\War\obj\Debug\War.csprojAssemblyReference.cache
-D:\Geri_Programing\Exams\9-10 Mart\Code\War\War\obj\Debug\War.csproj.CoreCompileInputs.cache
-D:\Geri_Programing\Exams\9-10 Mart\Code\War\War\obj\Debug\War.exe
-D:\Geri_Programing\Exams\9-10 Mart\Code\War\War\obj\Debug\War.pdb
